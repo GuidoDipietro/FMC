@@ -20,6 +20,8 @@ The ones I use the most:
   Same as histoplotter but only latest 100 and 50. Also customizable.
 - **mo3s.py**  
   Frequency plot of all rolling mo3s in the latest 100 solutions.
+- **worst_of_X.py**  
+  Mean of worst solution by chunk. Partition and scan stats displayed, customizable sizes.
   
 ## solutions
 Some solutions I found especially nice (PBs / interesting solutions), both mine and foreign.
