@@ -6571,3 +6571,16 @@ D2 F (L2 B') //4e2e2e (17)
 ^ = F' U2 R2 U2 F' R2 U2 R2 //(8-0) hilarious panic 25
 
 U B L B' R2 U2 B' D2 F B2 L' D2 F B L2 F' U2 R2 U2 F' R2 U2 R2 U B' (25)
+
+-------
+
+361th
+R' U' F L2 F2 L' F2 D2 R F2 D2 R2 U2 R B D F2 R2 F2 L2 F' D2 F R' U' F
+F' U R F' D2 F L2 F2 R2 F2 D' B' R' U2 R2 D2 F2 R' D2 F2 L F2 L2 F' U R
+
+U' F U' F' //EO
+(U L R' B2 R D' L2 D) //DR (12)
+(L' B2 L' D2 L') //HTR (17)
+(B2 D2 R2 F2 L2) //done (22)
+
+U' F U' F' L2 F2 R2 D2 B2 L D2 L B2 L D' L2 D R' B2 R L' U' (22)
