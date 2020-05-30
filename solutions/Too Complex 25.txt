@@ -1,0 +1,26 @@
+R' U' F U B2 D' R2 F2 U' B2 D2 L2 F2 R2 D F' R' U2 F2 D' B' R2 U R' U' F
+F' U R U' R2 B D F2 U2 R F D' R2 F2 L2 D2 B2 U F2 R2 D B2 U' F' U R
+
+L2 D U2 F //EO
+U R U' R B2 L' B2 R2 //3e3c in 12 lol (optimal 25, 9-0 then 6-2, or some other things I wouldn't have done like edge 10-3s first)
+
+quick 27
+L2 D U2 F U R U' (E2) R (R U2 R' D2 R U2 R' D2) B2 L' B2 (R D L' E2 L D' R') R2
+L2 D U2 F U R U Uw2 R2 U2 R' D2 R U2 R' D2 B2 L' B2 R D L' U2 Uw2 L D' R (27)
+but I was upset. And had 45 minutes left. So I kept going.
+
+L2 D U2 F //EO
+U R U //PDR-2E
+(B2 R' B2) //CO
+(R B2 R' B2 L2 U2 L' U2 R2) //2e2e in 19 (optimal 24)
+
+L2 D U2 F U R U R2 U2 L U2 L2 B2 ^ R B2 R' B2 R B2
+^ B2 L2 U2 L2 B2 L2 U2 L2 //(8-7) LOL -> optimal is L U2 R L' B2 R' here for 6-6 then some 8-3... but I didn't see it :(
+L2 D U2 F U R U R*2 U2 L' B2 L2 U2 L*2 R B2 R' B2 R B2
+* w //(2-2)+(2-3) ok so I just made 2e2e->3e in 0
+L2 D U2 % F U R U L2 D2 L' F2 L2 D2 R' B2 R' B2 R B2
+% U D' L' D2 L U' D F' D2 F //(10-4) best I could find from here... optimal for this sub-skele
+
+Still kinda not satisfied with this result, PDR-2e with so many blocks in 7 was hilarious
+
+L2 U' L' D2 L U' D F' D2 F2 U R U L2 D2 L' F2 L2 D2 R' B2 R' B2 R B2 (25)

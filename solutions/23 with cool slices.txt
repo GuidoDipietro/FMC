@@ -1,0 +1,13 @@
+R' U' F R2 B F D2 B' L2 U2 R2 B' R2 D F' U F' L' U2 F R' D L U2 R' U' F
+F' U R U2 L' D' R F' U2 L F U' F D' R2 B R2 U2 L2 B D2 F' B' R2 F' U R
+
+(D) B' L2 U //EO
+(F) R D2 L2 R' B //DR (10)
+(U2 R' U2 L) //HTR :o (14)
+U2 L2 U2 D2 //2e2e (18)
+
+B' L2 U R D2 L2 R' B U2 L2 < U2 D2 > L' U2 R U2 F' D'
+< = U S2 U' //(4-1)
+> = U' S2 U //(4-2)
+
+B' L2 U R D2 L2 R' B U2 L2 U F2 B2 U2 F2 B2 U L' U2 R U2 F' D' (23)

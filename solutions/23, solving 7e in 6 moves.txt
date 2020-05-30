@@ -1,0 +1,18 @@
+R' U' F D' B' U R2 B U' L B2 D F2 R2 L2 D2 R2 L2 D' F2 D R2 L F' R' U' F
+F' U R F L' R2 D' F2 D R2 L2 D2 L2 R2 F2 D' B2 L' U B' R2 U' B D F' U R
+
+(L2 D B) //EO
+L2 B2 D' B2 U R2 D' L' //DR (11)
+(L2 U' F2 U L2 D') //7e (17)
+
+L2 B2 D' B*2 U R2 D' L' ^ D L2 U' F2 U L2 B' D' L2
+^ = D F2 Fw2 % D' //(4-2) solves one edge
+% = U F*2 Fw2 U' //(4-0) to 2e2e
+* = w //holy mother of cow (2-2+2-6) to 3e
+
+L2 B2 D' F2 D L2 U' R' U # B2 F2 L2 U' F2 U L2 B' D' ? L2
+# = R2 U R2 B2 L2 D L2 B2 //(8-2) solved, rushed insertion bc this was at 59 mins omfg\
+alternatively:
+? = D2 R L' F2 R' L //(6-2) for a 23... found at 61 minutes :'(
+
+L2 B2 D' F2 D L2 U' R' U R2 U R2 B2 L2 D L2 F2 L2 U' F2 U L2 B' D' L2 (25)

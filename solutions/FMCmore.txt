@@ -1,0 +1,33 @@
+Mezcla: F D2 F' L2 D R B' U F D B2 D' L2 D' B2 L2 F2 D' F2 U' 
+Inversa: U F2 D F2 L2 B2 D L2 D B2 D' F' U' B R' D' L2 F D2 F'
+
+Solve:
+
+(F' B D F L2 R2) //2x2x1+Pre
+U' L'
+R' B2 R' B' L'//F2L-1, pre R2 L2
+D2 F D F' R' D R D2//L4C
+
+Skeleton: U' L' R' B2 R' B' L' D2 F D F' R' D R D2 R2 L2 F' D' B' F (21)
+Final solve: U' L' R' B2 R' B' L' D2 F D F' R' D R D2 R2 L2 F' D' * B' F (33)
+* = D' F' D B D' + F D B'
++ = F' U2 F D' F' U2 F D
+
+optimal is 31, says IF (EDITed in 2019)
+
+Insertions:
+U' L' R' B2 R' B' L' D2 F D F' R' D R D2 R2 L2 F' D' B' F
+1st:
+
+U' L' R' B2 R' B' L' D2 F D F' R' D R D2 R2 (D' B U2 B' D B U2 B') L2 F' D' B' F -8
+U' L' R' B2 R' B' L' D2 F D F' R' D R D2 R2 L2 F' D' (D' F' D B D' F D B') B' F -6, chosen
+
+2nd:
+
+U' L' R' B2 R' B' (F' L F R2 F' L' F R2) L' D2 F D F' R' D R D2 R2 L2 F' D2 F' D B D' F D B2 F -8
+U' L' R' B2 R' B' L' D2 F D F' R' D R D2 R2 L2 F' D2 (U R' U' L2 U R U' L2) F' D B D' F D B2 F -8
+U' L' R' B2 R' B' L' D2 F D F' R' D R D2 R2 L2 F' D2 F' (F' U2 F D' F' U2 F D) D B D' F D B2 F -6, chosen
+U' L' R' B2 R' B' L' D2 F D F' R' D R D2 R2 L2 F' D2 F' D B D' (D' F' D B' D' F D B) F D B2 F -7
+
+
+Final solve: U' L' R' B2 R' B' L' D2 F D F' R' D R D2 R2 L2 F' D2 F2 U2 F D' F' U2 F D2 B D' F D B2 F (33)

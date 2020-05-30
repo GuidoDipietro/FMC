@@ -1,0 +1,19 @@
+R' U' F D2 U2 F2 L2 U2 B' D2 R2 U2 B' R' U' F U L' D2 R' D2 F' U R' U' F
+F' U R U' F D2 R D2 L U' F' U R B U2 R2 D2 B U2 L2 F2 U2 D2 F' U R
+
+D' B //EO
+(L') //Setup
+D R2 U' R' //DR in 7 XD
+(L2 D F2) D' U' B2 U L2 B2 U2 B2 //17 to 3C what
+
+D' B * D R2 U' R' D' U' B2 U L2 B2 U2 B2 F2 D' L'
+
+*: B2 D' F' D B2 D' F D //(8-2) to solved in 23
+
+D' B' D' F' D B2 D' F D2 R2 U' R' D' U' (D Dw') B2 U L2 B2 (Uw2 U2) U2 B2 F2 (Dw' D) D' L' //(2-3)+(2-2)+(2-2) to 22
+
+optimal after DR is: R2 U F2 D' B2 L2 D' R2 U' B2 U R2 U' L2 (14f*)
+
+D' B' D' F' D B2 D' F D2 R2 U' R' U2 y B2 U L2 B2 Uw2 B2 F2 Dw' L' (22)
+
+optimal for this scramble was 16, very easy to find if you don't do DR (same EO)

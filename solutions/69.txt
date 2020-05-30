@@ -1,0 +1,25 @@
+R' U' F R' F2 U2 L2 U' F2 D' R2 U L2 B2 L F' U' F U R2 U2 R2 D' R' U' F
+
+(U F2 B2) //123 (3)
+(U2 D2 R2 L' D R') //123 (9)
+(L' F U' B' U' F2) //223 (15)
+(R D R' D2 B' L' F' D2 F L D') //F2L-1 (26)
+(B2) //3c1tc3e1fe (27)
+
+B2 D L' F' % D2 F L B D2 R D' R' F2 U B ^ U F' L R D' L R2 D2 U2 $ @ B2 F2 U'
+^ = U D' R B' R' B D //F2L + EO (34)
+% = B' D B //F2L-1! :D (37)
+$ = U' F R2 F' U' B U B' U B U B' //F2L (48)
+@ = F R' F2 L F2 R F2 L' F # U2 //2c2e (58)
+# = U2 F2 Uw' F2 Uw F2 R2 Uw R2 Uw' R2 U' //solved!!!! (69)
+
+B2 D L' F' B' D B D2 F L = Fw2 Dw Fw' Dw' Uw' Rw Bw Uw2 Bw Uw z x'
+B D2 R D' R' F2 U B U D' = Fw Rw2 Dw Bw' Lw' Fw2 Dw Lw Fw' Bw x y
+R B' R' B D U F' L R D' = Lw Dw' Bw' Lw Bw Fw Rw' Fw Bw Dw' x2
+L R2 D2 U F R2 F' U' B U = Rw Lw2 Fw2 Bw Rw Bw2 Lw' Bw' Dw Lw z' y2
+B' U B U B' F R' F2 L F2 = Fw' Rw Uw Fw Lw Rw' Dw' Bw2 Dw Lw2 x y
+R F2 L' F U2 F2 = Lw Uw2 Lw' Bw Lw2 Fw2 z y2
+Uw' F2 Uw F2 R2 = Uw' Bw2 Dw Bw2 Lw2 x2
+Uw R2 Uw' R2 U B2 F2 U' = Uw Lw2 Dw' Lw2 Dw Rw2 Lw2 Dw'
+
+Fw2 Dw Fw' Dw' Uw' Rw Bw Uw2 Bw Uw z x' Fw Rw2 Dw Bw' Lw' Fw2 Dw Lw Fw' Bw x y Lw Dw' Bw' Lw Bw Fw Rw' Fw Bw Dw' x2 Rw Lw2 Fw2 Bw Rw Bw2 Lw' Bw' Dw Lw z' y2 Fw' Rw Uw Fw Lw Rw' Dw' Bw2 Dw Lw2 x y Lw Uw2 Lw' Bw Lw2 Fw2 z y2 Uw' Bw2 Dw Bw2 Lw2 x2 Uw Lw2 Dw' Lw2 Dw Rw2 Lw2 Dw' (69)

@@ -1,0 +1,17 @@
+R' U' F B2 U' F R2 F' D2 F' U B2 R' D B2 L2 B2 U2 B2 D L2 D F2 R' U' F
+
+(B D2 F') //EO
+(D' L' U2 D' L U R D' R2) //5c3e in 12
+
+R2 D ** R' U' L' * D @ U2 L D F D2 B'
+
+* D' L' D' L D2 //(5-1) to 3e3c
+** D2 *** R' L B2 L' R //(6-3) to 3c
+*** D' L U2 L' D L U2 L' //(8-3) to solved
+
+IF says:
+at @, swap U2 D to get L U2 # D' L D, then at #:
+B' D' B L B' D B D' L' D (10-6)
+for 23
+
+R2 D2 L U2 L' D L U2 R' B2 L' U' L' D' L' D' L D' U2 L D F D2 B' (24)

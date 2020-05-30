@@ -1,0 +1,19 @@
+R' U' F  L2 R2 D' L2 D  R2 U2 B2 U2 L  B' L2 D2 U' L  B  L2 F2 R  B2 R' U' F
+F' U R B2 R' F2 L2 B' L' U D2 L2 B L' U2 B2 U2 R2 D' L2 D R2 L2 F' U R
+
+(L D R) //2x2x1 + pair
+(F' D') //2x2x1 x 2
+(R2 F D' F2 R2) //2x2x3
+(U L U L2 B' L) //F2L
+(F B2 R' B R' B' R2 B R' F' B U') //L3C
+
+U B' F R B' R2 B R B' R B2 F' L' B L2 U' L' U' R2 F2 D F' R2 (L D' R' D L' D' R D) D F R' D' L' (28+8-1=35)
+
+F' R D' (L' F' R) L2 U' L2 U' //2x2x3 (10/10)
+L B U B' U' //F2L-1+EO (5/15)
+(B' D' B2 D) //L5C (3/19)
+
+F' R (L U L' D' L U' L' D) D' L2 U' L2 U' (U' L D2 L' U L D2 L') L B U B' U' D' B2 D B R' F L (19)
+F' R L U L' D' L U' L U' (D R2 D' L2 D R2 D' L2) L2 U' L B U B' U' D' B2 D B R' F L (19+8-3+6-2=30)
+
+F' R L U L' D' L U' L U' D R2 D' L2 D R2 D' U' L B U B' U' D' B2 D B R' F L (30)

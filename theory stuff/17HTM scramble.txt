@@ -1,0 +1,24 @@
+R' U' F R2 F R2 F2 D2 F D2 F2 R2 U2 B2 D' F' D' U' L' B' U' B' D2 R' U' F
+F' U R D2 B U B L U D F D B2 U2 R2 F2 D2 F' D2 F2 R2 F' R2 F' U R
+
+R B R' B' R F
+R' U' R2 U2 R2 U'
+R F R2 F //16 3e3c
+F2 U' D' B' D R' D' B D R U F2 //27 backup solution
+
+R B R' B' R F R' U' ** R2 U2 R2 U' R * F R2 F (16)
+* (R' F R B' F D' F' D B F') 10-4
+** (U R U2 R' D' R U2 R' D U') 10-4
+
+R B R' B' R F U2 R' D' R U2 R' D U' R2 U2 R2 U' F R B' F D' F' D B R2 F (28)
+backup is shorter
+
+R B R' B' R F R' U' R2 U2 R2 U' R F R2 F' U' D' B' D R' D' B D R U F2 (27)
+
+--------------------
+
+(L' U L)
+U F U2
+(F2 U' R2 D B' D' B)
+
+U F U2 B' D B D' R2 U F2 L' U' L (IF -> 26)

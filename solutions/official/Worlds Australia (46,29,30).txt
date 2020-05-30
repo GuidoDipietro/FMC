@@ -1,0 +1,54 @@
+-------------------------
+
+157th
+
+not worth reconstructing.
+
+(46 moves, a1 in Worlds)
+
+22 to 2c2c1tc
+insert 8+8+8 all at the end because I was running out of time
+
+(27,30,46)
+
+Final: bruh (46)
+
+-----------------
+
+158th
+
+R' U' F U2 R2 D' F2 D' L2 U' F2 L F' D' R' U' R2 F L2 B F R2 B2 R' U' F
+
+R' D2 L2 U' F' //222
+U * R U' L' D L //XD
+B' D2 B D2 F L R D' R' D L' F' //3C in 23
+
+*: F' R B2 R' F R B2 R' //(8-2) to solved (29)
+
+or
+
+B' D2 B D2 R D' R' D //5C in 19, optimal 31 (crap)
+
+(30,46,29)
+
+R' D2 L2 U' F' U F' R B2 R' F R B2 U' L' D L B' D2 B D2 F R L D' R' D L' F' (29)
+
+------------
+
+159th, official
+
+R' U' F R2 D2 L2 U L2 D F2 D2 R2 D2 R' D R D' U' F' D2 R' F' D R' U' F
+
+(R2 B' R' L') //EO
+(D2 F') //sq
+(U' B' D) //222+blocks
+(U2 L2 F2 B' * U2 F B) //Blocc
+B' U B U B' U' B U2 //3C in a bunch
+
+*: D' B2 D F2 D' B2 D F2 //(8-2) to bad
+
+(46,29,30)
+
+B' U B U B' U' B U2 F' B' U2 D' B2 D F2 D' B2 D B L2 U2 D' B U F D2 R L B R2 (30)
+
+--------------

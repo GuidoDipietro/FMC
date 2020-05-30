@@ -1,0 +1,35 @@
+R' U' F R D2 L' D2 R D2 B2 L2 U2 F2 D' R2 B' L2 B R2 F L' R U' R' U' F
+F' U R U R' L F' R2 B' L2 B R2 D F2 U2 L2 B2 D2 R' D2 L D2 R' F' U R
+
+U' F2 R2 B U' //222
+B2 R' U R2 U' //223
+(D R D) //F2L-1
+(F' R' F R D R' D' R2) //3C
+
+U' F2 R2 B U' B2 * R' U R2 U' R2 D R D' R' F' R F D' R' D'
+
+*: B L2 B' R2 B L2 B' R2 //(8-2) solved
+
+U' F2 R2 B U' B' L2 B' R2 B L2 B' R U R2 U' R2 D R D' R' F' R F D' R' D' (27)
+
+------ other stuff (IF can't insert on these)
+-------
+U' F U R
+L2 U2 L2 U F U'
+(D' B' D2)
+(R' B R' B' R') //AB3C5E in 16
+
+U' F U R L2 U2 L2 U F U' R B R B' R D2 B D
+-------
+U' F U R
+U2 F2 U2 D2 F
+B U' L2
+(U' B2) //AB3E5C in 14
+
+U' F U R U2 F2 U2 D2 F B U' L2 B2 U
+-------
+U' F U R'
+B' U B R2 U2 R2
+(D L2 F D' F2 D2) //AB4E6C in 16
+
+U' F U R' B' U B R2 U2 R2 D2 F2 D F' L2 D'

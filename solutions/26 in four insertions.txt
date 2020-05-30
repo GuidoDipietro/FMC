@@ -1,0 +1,14 @@
+R' U' F R2 B2 L B2 R' B2 D2 U2 L' U L' F D B2 D2 L' R2 U' F' U' R' U' F
+F' U R U F U R2 L D2 B2 D' F' L U' L U2 D2 B2 R B2 L' B2 R2 F' U R
+
+R L D F' B R2 //Blocks
+(B R2 F' U2 F') //F2L-1
+
+R L D F' B R2 (1) F U2 (2) F R2 B' (11)
+
+(1) (U (3) B' U' B U') (5-0)
+(2) (U2 Uw2) (2-2)
+(3) (U' F U2 Uw2 (4) F' U) (6-2)
+(4) (R B2 R' F' R B2 R' F) (8-2)
+
+R L D F' B R2 F U2 Uw2 R B2 R' F' R B2 R' U B' U' B U' F Uw2 F R2 B' (26)

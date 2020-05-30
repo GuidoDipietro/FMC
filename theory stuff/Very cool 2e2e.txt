@@ -1,0 +1,37 @@
+R2 U2 R2 F2 D2 L2 D2 F2  (8f*)
+R2 U2 R2 B2 U2 R2 U2 B2  (8f*)
+R2 D2 L2 F2 U2 L2 D2 B2  (8f*)
+R2 D2 L2 B2 D2 R2 U2 F2  (8f*)
+F2 U2 R2 D2 B2 L2 D2 R2  (8f*)
+F2 U2 L2 U2 F2 L2 U2 L2  (8f*)
+F2 D2 R2 U2 B2 R2 D2 L2  (8f*)
+F2 D2 L2 D2 F2 R2 U2 R2  (8f*)
+L2 U2 L2 F2 U2 L2 U2 F2  (8f*)
+L2 U2 L2 B2 D2 R2 D2 B2  (8f*)
+L2 D2 R2 F2 D2 L2 U2 B2  (8f*)
+L2 D2 R2 B2 U2 R2 D2 F2  (8f*)
+B2 U2 R2 U2 B2 R2 U2 R2  (8f*)
+B2 U2 L2 D2 F2 R2 D2 L2  (8f*)
+B2 D2 R2 D2 B2 L2 U2 L2  (8f*)
+B2 D2 L2 U2 F2 L2 D2 R2  (8f*)
+
+all the same with 1 move shift or added slices!
+for example:
+R2 U2 R2 F2 D2 L2 D2 F2
+R2 Uw2 R2 F2 D2 L2 Dw2 F2
+R2 D2 L2 B2 D2 R2 U2 F2
+etc
+
+can be viewed as:
+R2 U2 R2 F2 z L2 U2 L2 F2 z' (just solve the opp swaps in each face)
+
+then v2:
+L2 U D F2 U' D' L2 U2  (8f*)
+U2 R2 U D B2 U' D' R2  (8f*)
+U2 L2 U D F2 U' D' L2  (8f*)
+R2 U D B2 U' D' R2 U2  (8f*)
+
+shift and mirrors
+this alg just sets up a R2 U2 R2 U2 R2 U2-like case but needs not do extra moves to fix the blocks
+
+very cool!

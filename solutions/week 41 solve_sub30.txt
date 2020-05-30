@@ -1,0 +1,36 @@
+Scramble: F2 B D R L F2 R' B' L2 U R2 L2 F R2 L D2 B' F2 L' U2
+Inverse scramble: (U2 L F2 B D2 L' R2 F' L2 R2 U' L2 B R F2 L' R' D' B' F2)
+
+(R F) //Premoves
+D' R' D' R B2 R' //2x2, Pre R'
+R U R' U2 F2 U' F2 //2x2x3, Pre F'
+B L' B' //F2L-1
+B' U' B U L U L' //L3C
+
+2019 EDIT: after F2L-1, which is 4e4c in 16, IF gives 27
+
+[[[[[[[[[[
+Skeleton
+D' R' D' R B2 U R' U2 F2 U' F2 B L' B' * F' R'
+* L U L' (3-0)
+D' R' D' R B2 U R' U2 F2 U' F2 B L' ** B' L U L' F' R'
+** B2 U' B2 (3-1)
+D' R' D' R B2 U R' U2 F2 U' F2 B L' B2 *** U' B L U L' F' R'
+*** B' R2 L2 F D' F' R2 L2 B U (10-4)
+D' R' D' R B2 U R' U2 F2 U' F2 B L' B L2 **** R2 F D' F' R2 L2 B2 L U L' F' R'
+**** B U' B U B2 R2 F D F' R2 (10-10)
+D' R' D' R B2 U R' U2 F2 U' F2 B L' B L2 B U' B U B2 L2 B2 L U L' F' R' (27)
+]]]]]]]]]]
+
+Skeleton: D' R' D' R B2 U R' U2 F2 U' F2 B L' B2 U' B U L U L' F' R'
+Solve backup: D' R' D' R B2 U R' U2 F2 U' F2 B L' B2 U' B U L U L' F' R' B D' B' U B D B' U'
+
+Insertion finding:
+
+D' R' D' R B2 U (F' L F R2 F' L' F R2) R' U2 F2 U' F2 B L' B2 U' B U L U L' F' R'
+
+Only one found
+
+Final solution:
+
+D' R' D' R B2 U F' L F R2 F' L' F R U2 F2 U' F2 B L' B2 U' B U L U L' F' R' (29 HTM, first sub 30)

@@ -1,0 +1,10 @@
+R' U' F D L2 U2 B2 L2 U R2 U2 B2 R B' L2 B2 D U' L U R2 D2 F' R' U' F
+F' U R F D2 R2 U' L' U D' B2 L2 B R' B2 U2 R2 U' L2 B2 U2 L2 D' F' U R
+
+(L' F B' D) //EO
+(B' L B' U2 D2 B' L') //DR (11)
+(F*2 R2 F U2 B') //HTR (16)
+F2 D2 F*2 B2 R2 U2 //finish (22)
+* = w //(2-4)+(2-2)
+
+F2 D2 L2 D2 B D2 F' L2 B2 L B U2 D2 B L' B D' B F' L (20)

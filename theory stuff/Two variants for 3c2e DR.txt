@@ -1,0 +1,6 @@
+You can do:
+
+F2 U2 L' U' L, or rather
+B2 D2 R' D' R
+
+Affects 5 edges and 4 centers differently

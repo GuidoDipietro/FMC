@@ -1,0 +1,40 @@
+Mezcla: U R2 D2 F' R' D' F2 L2 D' B2 L D U2 B2 F U2 D2 F B' L2
+
+Solve:
+F R2 F2 B2 //2x2x1+B2
+(F U2) //2x2
+(R D L R' B2) //2x2x3, Premove B2
+(B D B' F L F') //EO
+(L2 D L D L2 D) //Blocks
+(D' L' D L' D' L2 D) //Sune
+
+Skeleton: F R2 F2 B2 D' L2 D L D' L' D' L' D' L2 F L' F' B D' B R L' D' R' U2 F' (26 HTM)
+Final solve: F R2 F2 B2 D' L2 D L D' L' D' L' D' L2 F L' F' B L2 D' R' D L2 D' R B R L' D' R' U2 F' (32 HTM, 2 cancellations)
+
+Insertions:
+Skeleton: F R2 F2 B2 D' L2 D L D' L' D' L' D' L2 F L' F' B D' B R L' D' R' U2 F'
+
+Inserciones encontradas:
+F R2 F2 (F U F' D2 F U' F' D2) B2 D' L2 D L D' L' D' L' D' L2 F L' F' B D' B R L' D' R' U2 F'
+F R2 F2 B2 D' L2 D L D' L' D' L' D' L2 F L' F' B D' (D L2 D' R' D L2 D' R) B R L' D' R' U2 F'
+F R2 F2 B2 D' L2 D L D' L' D' L' D' L2 F L' F' B D' B R L' D' (F L2 F' R' F L2 F' R) R' U2 F'
+F R2 F2 B2 D' L2 D L D' L' D' L' D' L2 F L' F' B D' B R L' D' R' U2 (D B D' F D B' D' F') F'
+
+Solves finales: 
+F R2 F' U F' D2 F U' F' D2 B2 D' L2 D L D' L' D' L' D' L2 F L' F' B D' B R L' D' R' U2 F' (33)
+F R2 F2 B2 D' L2 D L D' L' D' L' D' L2 F L' F' B L2 D' R' D L2 D' R B R L' D' R' U2 F' (32)
+F R2 F2 B2 D' L2 D L D' L' D' L' D' L2 F L' F' B D' B R L' D' F L2 F' R' F L2 F' U2 F' (32)
+F R2 F2 B2 D' L2 D L D' L' D' L' D' L2 F L' F' B D' B R L' D' R' U2 D B D' F D B' D' F2 (33)
+
+EDIT in 2019:
+
+after "Blocks" you get 3e2c2c in 22, IF gives 30 (greedy 2):
+[[[[
+F R2 F2 B2 D' L2 * D' L' D' L2 F L' F' B D' B R L' D' R' U2 F'
+* L' D' L' D' L' D L D L D (10-8)
+F R2 F2 B2 D' L D' ** L' D' L' D L' F L' F' B D' B R L' D' R' U2 F'
+** U L U2 R' F2 R U L D' L D L (12-10) hahah what
+F R2 F2 B2 D' L D' U *** L U2 R' F2 R U F L' F' B D' B R L' D' R' U2 F'
+*** U R U' L U R' U' L' (8-4)
+F R2 F2 B2 D' L U2 D' R U' L U R' U R' F2 R U F L' F' B D' B R L' D' R' U2 F'
+]]]]

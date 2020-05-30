@@ -1,0 +1,44 @@
+A collection of algorithms that usually come in handy in Domino Reduction solutions, and how to remember them more easily. Enjoy.
+Please experiment yourself shifting the algorithms, you may often find that many different or identical cases can be solved using shifts of the same case.
+For example U2 R2 U2 R2 U2 R2 = R2 U2 R2 U2 R2 U2, or R2 F2 U2 R2 U2 F2 R2 U2 = U2 R2 F2 U2 R2 U2 F2 R2
+
+PLL
+T no AUF (10) R2 D B2 D' R2 F2 D' L2 D F2 = R2 Uw R2 Uw' R2 F2 Uw' F2 Uw F2
+J no AUF (10) R2 B2 U B2 U' B2 D B2 D' R2 = [R2, B2 U B2 U' B2 D B2 D'], setup to block comm
+weird H perm (10) R2 F2 B2 L2 D L2 F2 B2 R2 U' = [R2 S2 R2, U]
+(not DR but cool anyway) Z perm (12) R2 L2 U F2 B2 D' F B' U2 D2 F B' = M2 Uw M2 Uw' S' M2 S
+
+PBL
+N/N side (8) R2 U F2 R2 L2 B2 D L2 = (R2 Dw R2 S2)2
+good J/J (8) F2 U F2 U' D' F2 D F2 = insert both pairs
+U/J no AUF (9) L2 F2 U F2 U' L2 D F2 D' F2 = L2 + the previous one, tweaked a bit. Mirror and invert for other U/J cases
+bad J/J (10) R2 U' R2 U F2 R2 U' R2 U F2 = (R2 U' R2 U F2)2
+'good' N/J (11) L2 U F2 U R2 U2 R2 U' F2 U' L2 = [L2 U F2: [U R2: U2]]
+
+Edges
+2e2e (6) R2 U2 R2 U2 R2 U2
+2e2e (6) L2 U2 L2 D2 R2 D2
+2e2e (7) U R2 U2 R2 U2 R2 U
+2e2e (8) R2 U2 R2 F2 U2 R2 U2 F2 = R2 U2 R2 F2 z L2 U2 L2 F2
+2e2e (8) U2 R2 F2 U2 R2 U2 F2 R2 = shift of the earlier, worth making explicit
+2e2e (8) R2 L2 U' D F2 B2 U D' = (M2 E')2
+3e (8) R2 U' R2 B2 L2 D' L2 B2 = (R2 U' R2 Fw2)2
+2e2e (8) R2 U' L2 B2 R2 D' L2 F2 = (R2 U' Rw2 F2)2
+2e2e (8) R2 U L2 B2 R2 D L2 F2 (R2 U Rw2 F2)2
+2e2e (10) R2 B2 R2 U' D B2 L2 B2 U D' = [R2 B2 R2, E]
+2e4e (8) L2 F2 U R2 B2 R2 U F2 -> better learnt by learning the first few moves then finish
+
+Corners
+3c (8) U' R2 U L2 U' R2 U L2 = [U' R2 U, L2]
+3c (10) R2 U' R2 B2 D' R2 D R2 B2 U = R2 U' R2 inserts corner, B2 forms pair, D' R2 D R2 inserts it, finish. Shift for more 3c cases (A perm included, shift 3 moves to the end)
+2c2c (10) R2 U' Rw2 U F2 R2 U' Rw2 U F2 = (R2 U' Rw2 U F2)2, sibling of the earlier
+2c2c (10) R2 U' R2 F2 B2 L2 D’ L2 F2 B2 = (R2 U' R2 S2)2
+3c (10) B2 L' B2 L U2 B2 R B2 R' U2 = (B2 L' B2 L U2 mirror R/L)2, making R/L wide works too.
+
+Centers
+4x (8) R2 L2 U' D F2 B2 U' D y2 = [M2, E']
+4x (10) R2 B2 R2 U' D B2 L2 B2 U' D = (R2 B2 R2 E)2
+
+Miscellaneous
+Wide sune (useful for finishes) (7) R2 U R2 U R2 U2 R2
+2p2p (6) D R2 D' U' R2 U

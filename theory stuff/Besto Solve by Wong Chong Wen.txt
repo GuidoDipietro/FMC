@@ -1,0 +1,19 @@
+R' U' F L2 R2 U2 B2 R2 D' B2 R2 U B2 L' R2 F D B L' D' U' B2 R' D R' U' F
+F' U R D' R B2 U D L B' D' R' R2 L B2 U' R2 B2 D R2 B2 U2 R2 L2 F' U R
+
+(B' L2 D' L')//EO (4/4)
+(F' D2 B' L2)//2 sq (4/8)
+(D R2 U F)//F2L-1 (4/12)
+(U L2 U' L2 U L2 U' L')//2e2e (8/20)
+
+L [U L2 U' L2 U] L2 U' F' U' R2 D' L2 B D2 F L D L2 B *
+
+*=M2//4ce (2/22)
+
+Replace [] with [U2 D' B2 U' B2 D]
+
+New skeleton: L ** U2 D' B2 U' B2 D L2 U' F' U' R2 D' L2 B D2 F L D L2 B R2 Rw2 (23)
+
+**=M E2 M' E2 (8-5/26)
+
+Final: Lw U2 Uw2 L Lw' D y2 B2 U' B2 D L2 U' F' U' R2 D' L2 B D2 F L D L2 B R2 Rw2 (26)

@@ -1,0 +1,6 @@
+R' U' F U B2 D' B2 U2 F2 D2 U' L2 F2 L' D' B' R B2 R D' U' R' B L2 R' U' F
+
+U2 F2 L //EO
+F D' L2 F' D' F //DR
+R2 * D B2 D' F2 D2 //3e
+* = R L' F2 R' L D2

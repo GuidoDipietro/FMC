@@ -1,0 +1,16 @@
+R' U' F D2 B F2 U2 B U2 L2 F D' R D' R B2 D' B L2 F' L B' U R' U' F
+F' U R U' B L' F L2 B' D B2 R' D R' D F' L2 U2 B' U2 F2 B' D2 F' U R
+
+(F B2 D) //EO
+U2 F' L B' L2 //222
+R' F //more EO
+R2 F' R2 F2 B2 R' F2 R //DR ?
+U2 L2 U2 B2 F //3c in 23
+
+U2 F' L ^ B' L2 R' F # R2 F' R2 B2 F2 # R' F2 R U2 L2 U2 B2 F D' B2 F'
+^ L F L' B' L F' L' B //(8-4)
+# F2 Fw2 //(2-1)+(2-4)
+
+21 ATM, 26 HTM, pls, only could reduce 1 of those axial bitches
+
+U2 F' L2 F L' B' L F' L R' F' Fw2 R2 F' R2 L' F2 L D2 R2 D2 B2 F U' B2 F' (26)

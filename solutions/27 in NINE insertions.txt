@@ -1,0 +1,20 @@
+R' U' F B2 L' D2 L2 R D2 R' D2 U2 R U2 B' D U' F2 U R B' D' F2 U' R' U' F
+F' U R U F2 D B R' U' F2 U D' B U2 R' U2 D2 R D2 R' L2 D2 L B2 F' U R
+
+U2 L B //EO
+(U B2 D2 B2 U2 R2 U' L') //DR in 11
+(R2 D B2 U B2) U R2 U' B2 U R2 U D //6e in "24"
+
+U2 L B U R2 U' B2 U R2 U D* B2 U' B2 D*' R2 L U R2 U2 B2 D2 B2 U'
+* w //(2-3)+(2-2) //shorten skeleton
+U2 L B U R2 U' B2 U R2 U2 R2 ^ U' R2 U' R2 L U R2 U2 B2 D2 B2 U'
+^ R2 D2 R2 D2 R2 D2 //(6-2) //2e2e
+U2 L B U R2 U' B2 U R2 U2 D*2 R2 D2 R2 D*2 U' R2 U' R2 L U R2 U2 B2 D2 B2 U'
+* w //(2-4)+(2-3) //2e2e solved in 0! yay!
+U2 L B U R2 U' B2 U R2 L2 % D2 L2 U R*2 U' R2 L U R2 U2 B2 D2 B2 U'
+* w //(2-2)
+% U' R2 Rw2 U //(4-0) //slicey
+U2 L B U R2 U' B2 U* R2 L2 U' R2 L2 D* U2 L2 D L2 U' R2 L U R2 U2 B2 D2 B2 U'
+* w //(2-2)+(2-3) //shorten final solution
+
+U2 L B U R2 U' B2 D F2 B2 U' F2 B2 U' L2 D L2 U' R2 L U R2 U2 B2 D2 B2 U' (27)

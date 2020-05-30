@@ -1,0 +1,170 @@
+25, 27, (21), 25, 26, 25, 27, 25, 24, 22, (29), 23 = 24.9 ao12!
+
+##############################
+R' U' F D2 R2 B F2 L2 D2 F2 U L R2 F R2 F' R2 D' B U' R B' R' U' F
+
+L2 R' B //EO
+(U' R D' L2 D R2 U2 D' L) //DR in 12
+F2 L2 B2 F2 D' F2 D L2 D2 //3e in 21 (optimal 27... hm?)
+
+L2 R' B F2 * L2 B2 F2 % D' F2 D L2 D2 L' D U2 R2 D' L2 D R' U
+
+* = F2 U' F2 R2 B2 D' B2 R2 //(8-2)
+% = F2 B2 L2 R2 B2 F2 R2 L2 //(8-10) funny
+
+L2 R' B U' F2 R2 B2 D' F2 R2 L2 D' F2 D L2 D2 L' D U2 R2 D' L2 D R' U (25)
+
+##############################
+
+R' U' F U2 F2 R2 B2 L B2 R' F2 U' L2 U2 F R2 D2 L U L2 B D2 R' U' F
+
+(B' R U R') //EO+ps222
+(B2 U' B') //ps223
+(F U F' L2 F U2 F' U2 R2) //2c2c in 16 -> optimal 24 missed by the heat :(
+
+R2 U2 F % U2 F' L2 * F U' F' B U B2 R U' R' B
+* = D F U F' D' F U' F' //(8-3)
+% = F U' B2 U F' U' B2 U //(8-2)
+
+R2 U2 F2 U' B2 U F' U' B2 U' F' L2 D F U F' D' F U2 F' B U B2 R U' R' B (27)
+
+##############################
+
+R' U' F D' R B' U R2 D R2 F R U2 F D2 F2 L2 U2 D2 B' D2 B' U2 R' U' F
+
+U' L' B //EO
+(U2 L2 R' D L' D') //DR (9)
+* R B2 R D2 R' //HTR (14)
+U2 % F2 //3e3e (16)
+
+* = L U2 L' R B2 R' //(6-5)
+% = U2 F2 R2 F2 U2 F2 R2 F2 //(8-4)
+
+U' L' B L U2 L' R2 D2 R' F2 R2 F2 U2 F2 R2 D L D' R L2 U2 (21)
+
+##############################
+
+R' U' F D F2 U2 R2 F2 D' R2 U' F2 L2 R2 B D L F' U L D' R2 F' R' U' F
+
+D L F B' //EO
+U2 L U2 L F2 R2 D' //DR
+(R2 D2 R D2 R F2 R' B2 R B2) //2e2e in 21
+
+D L F B' U2 L U2 L F2 R2 D' B2 R' B2 R F2 R' * D2 R' D2 R2
+* = F2 U2 D2 B2 U2 D2 //(6-2)
+
+D L F B' U2 L U2 L F2 R2 D' B2 R' B2 R F2 R' F2 U2 D2 B2 U2 R' D2 R2 (25)
+
+##############################
+
+R' U' F L F R' B2 L' F R2 U' L F2 B2 D' F2 B2 U' R2 D2 B2 U' F2 R' U' F
+
+(U2 F' L2 F') //EO
+(L B2 D' F2 D' L2 D' U2 L') //DR in 13
+L2 D B2 (D' L2 B2 L2 D) //HTR in 21
+(R2 B2 U2 L2 D2) //finish in 26
+
+L2 D B2 D2 L2 U2 B2 R2 D' L2 B2 L2 D L U2 D L2 D F2 D B2 L' F L2 F U2 (26)
+
+##############################
+
+R' U' F R2 U2 R2 U R2 B2 D R2 B2 D L2 B' L F' R F2 U L' D2 L' D R' U' F
+
+(F D R B) //EO
+(D') F2 R2 U' R' U' //DR in 10
+(L') F2 U2 B2 R F2 R //HTR in 17
+D2 U2 F2 U2 F2 L2 F2 U2 //solved in 25
+
+F2 R2 U' R' U' F2 U2 B2 R F2 R D2 U2 F2 U2 F2 L2 F2 U2 L D B' R' D' F' (25)
+
+##############################
+
+R' U' F U B R' F' D2 R2 B2 D2 B' U' B2 U' L2 F2 U2 R2 D2 L2 U' R' U' F
+
+R F D B L' //EO
+(B' U' B' R2 B D') //DR in 11
+(B2 L2 F' R2 L2 F') //HTR in 17
+Rw2 U2 R2 B2 U2 Rw2 B2 U2 R2 B2 U2 //finish in 27
+
+R F D B L D2 R2 F2 D2 L2 B2 U2 R2 B2 U2 F L2 R2 F L2 B2 D B' R2 B U B (27)
+
+##############################
+
+R' U' F B L R2 D' B2 D F2 L2 U2 F2 U' L2 R' D' F2 L' D F D' R' U' F
+
+B' U' R2 F //EO
+U L F2 U' R2 D L' //DR (11)
+(D' F2 U) //D' + 222
+(B2 D2 L2 D B2 L2) //3e (19)
+
+B' U' R2 F U L F2 U' R2 D L B2 D' L2 D2 B2 U' F2 * D
+* = R' L D2 R L' F2 //(6-0)
+
+B' U' R2 F U L F2 U' R2 D L B2 D' L2 D2 B2 U' F2 R' L D2 R L' F2 D (25)
+
+##############################
+
+R' U' F R2 U' L2 D2 R2 D F2 U2 F2 U2 L B D' U2 F D' R' U' F
+
+D' B' R //EO
+(D' F' U B U2 F2 U2 F') //223
+(R2 B U B') //DR lol
+U R2 U' //2c2c in 18
+
+D' B' R U * R2 U' B U' B' R2 F U2 F2 U2 B' U' F D
+* = Dw L2 F2 D' R2 Uw L2 B2 U' R2 //(10-4)
+
+D' B' R U2 B2 L2 D' F2 D L2 B2 U2 B U' B' R2 F U2 F2 U2 B' U' F D (24)
+
+##############################
+
+R' U' F L D2 R B2 L' D2 U2 L' F2 R U' F' L U' B2 D' U' F' L' U' R' U' F
+
+B2 R' (D' L) //EO
+(U') F' B U' F2 U //DR (10)
+F2 R2 F (R2 D2 R2 B') //HTR (17)
+R2 U2 R2 L2 F2 //3e (22)
+
+B2 R' F' B U' F2 U F2 * R2 F R2 U2 L2 R2 F2 B R2 D2 R2 U L' D
+* = F' B U2 B' F R2 //(6-4)
+
+B2 R' F' B U' F2 U [F B U2 B' F2 R2 U2 L2 R2 F2 B] R2 D2 R2 U L' D
+[] = B2 L2 B' F2 U2 L2 D2 U2 F' //(-2)
+
+B2 R' F' B U' F2 U B2 L2 B' F2 U2 L2 D2 U2 F' R2 D2 R2 U L' D (22)
+
+##############################
+
+this attempt was during a pretty bad headache :'( idk why I did it instead of sleeping
+R' U' F D' F2 U2 B2 D B2 U' L2 U' L' F D2 F' D2 B' D L' B' L2 U2 R' U' F
+
+(R' F) U' D B //EO
+U' L' B2 L2 U' D' L2 U L //DR (14)
+(L2 U L2 U') //HTR (18)
+(F2 R2 D2) U2 L2 F2 L2 //2e2e (25)
+
+U' D B U' L' B2 L2 U' D' L2 U L U2 (U2 F2 U2 F2 U2 F2) L2 F2 L2 D2 R2 F2 U L2 U' L2 F' R
+U' D B U' L' B2 L2 U' D' L2 U L F2 U2 F2 U2 F2 L2 F2 L2 D2 R2 F2 U L2 U' L2 F' R (29)
+
+##############################
+
+R' U' F R' U2 R' U2 L F2 D2 F2 U2 F2 R2 B' D2 L2 D F' L' F' U F' D' R' U' F
+
+F2 U R' F //EO
+(U2 D2 R' D' R) //DR (9)
+(D) //Trying to do HTR...
+F2 B2 U B2 F2 U' F2 U' L2 U' L2 U2 //Accidental 3e in 21 when solving the cube xd
+
+F2 U R' F' B2 U F2 B2 U' F2 U*' L2 U' L2 U2 D*' R' D R D2 U2
+* = w //(2-2)+(2-3)
+
+F2 U R' F' B2 U # F2 B2 U' F2 D' % B2 U' B2 U R' D R D2 U2
+# = F2 Fw2 //(2-4)
+% = D' B2 U F2 Fw2 U' B2 D //(8-1)
+
+F2 U R' F' B2 U* D' F2 U2 B2 D F2 B2 U*' B2 D B2 U' B2 U R' D R D2 U2
+* = w //(2-4)+(2-2)
+
+F2 U R' F' B2 R2 U2 L2 D R2 L2 D' B2 D B2 U' B2 U R' D R D2 U2 (23)
+
+##############################

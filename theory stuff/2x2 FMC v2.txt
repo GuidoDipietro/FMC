@@ -1,0 +1,40 @@
+My results: 11, 13, 12, 11, 11 = 11.6 mo5, 11.33 mo3
+
+1. R' F R' F R' U F R' F
+
+(U' * L' B) //3C
+* R U' R' D2 R U R' D2
+
+B' L D2 R U' R' D2 R U R' U (11)
+
+2. U' R' F R2 F' U F2 R' U
+
+(L' D' * L D' L' D R) (R2 L2 U D') //3C + rotate
+* D F D' B D F' D' B' (8-2)
+
+D U' L2 R2 R' D' L D L' B D F D' B' D F' L
+
+F' U' B U B' L U R U' L' U R' B (13)
+
+3. U' F' U' F2 U' R2 U' F' R2 
+
+(U' B') (x' y2)
+R' B R' B' R B' R' B' R2 B2
+
+R' B R' B' R B' R' B' R2 B2 y2 x B U
+R' B R' B' R B' R' B' R2 B2 U B (12)
+
+4. R F' R2 F R2 U' F2 U F2 
+
+D L' * D2 L B2 y //3C
+* L' U2 L D' L' U2 L D
+
+D L2 U2 L D' L' U2 L D' L B2 (11)
+
+5. F2 R' U2 R F2 U' F' U' R U'
+
+D2 R' D R' * y' //3C
+* L' F L B' L' F' L B
+
+D2 R' D R' L' F L B' L' F' L B
+D2 R' D L2 U L D' L' U' R B (11)

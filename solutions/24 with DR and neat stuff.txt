@@ -1,0 +1,28 @@
+R' U' F U' B L D' L F U' R' B L' D2 L2 D2 B2 D' R2 U R2 F2 L2 F2 R' U' F
+F' U R F2 L2 F2 R2 U' R2 D B2 D2 L2 D2 L B' R U F' L' D L' B' U F' U R
+
+(B L' B) //EO
+D' R' (L2 F2 B2 U2 L2 U2 D R) //DR in 13
+(D F2 U L2) //2x2x3
+(U' R2 U R2 U) //4E in 22
+
+D' R' U' R2 U' R2 U L2 U' * F2 D' R' D' U2 ** L2 U2 B2 F2 L2 B' L B' (27)
+
+*: S2 //(2-2), solves edges, 4x left
+**: U2 D2 F B' R2 L2 F B' z2 //(8-3) solve centers
+
+Then, after deleting the rotation, I notice this part is ugly
+D' R' U' R2 U' R2 U L2 U' Fw2 D' R' D [F B' R2 L2 F B' R2 D2 B2 F2] R2 B' R B'
+
+[] = D2 U2 F2 B2 R2 B2 F2 U2, that's 2 moves less, and it cancels one more.
+
+D' R' U' R2 U' R2 U L2 U' Fw2 D' R' D [D2 U2 F2 B2 R2 B2 F2 U2] R2 B' R B'
+D' R' U' R2 U' R2 U L2 U' Fw2 D' R' D' U2 F2 B2 R2 B2 F2 U2 R2 B' R B' (24)
+
+D' R' U' R2 U' R2 U L2 U' B2 U' L' U' D2 F2 B2 L2 B2 F2 D2 L2 B' L B' (24)
+
+Chong Wen then added:
+
+F2 B2 (S2) L2 B2 F2 D2 L2 (S2) B' to get 23
+
+L2 D2 L2 preserves diagonal symmetry

@@ -1,0 +1,25 @@
+R' U' F D' R2 F2 D F2 L2 B U2 R U2 F2 R B2 L' F' U' L2 U R' U' F
+
+(R U' R' D B') //EO (somehow missed every 4mover)
+(D' L' D F2 L2) R2 //223
+D' R D' R' B2 (D) //3E4C in 17
+
+R2 D' ** * R D' R' B2 D' L2 F2 D' L ^ D B D' R U R'
+
+* L B2 R L' *** D2 R' //(6-3)
+** B' R' B L B' R B L' //(8-3)
+*** R' D R U2 R' D' R U2 //(8-2)
+
+insert sexy at ^ to get optimal 26 with regular comms
+or ask IF to do magic, and get 20 (!!!!!!) with very crazy stuff
+
+R2 D' *** R D' R' B2 ** D' L2 F2 D' * L D B D' R U R'
+* F2 L D2 R' D' R D' L' (8-4)
+** D (1-2) (???)
+*** B2 L U' L U L2 B2 R D R' (10-10) (eh?)
+Final Solution
+R2 D' B2 L U' L U F2 D' F2 L D2 R' D' R B D' R U R' (wtf)
+
+(28,29,31)
+
+R2 D' B' R' B L B' R B' L' D R U2 R' D' R U2 D R' B2 D' L2 F2 D' L D B D' R U R' (31)

@@ -1,0 +1,57 @@
+1. R' U' F D2 F' U' F2 R B2 F2 L U2 F2 L2 B2 U2 L F' U2 L B U R' F R' U' F (Carter & Guido)
+
+F U2 R2 U // EO
+R B' U2 B' L B' L // DR (11)
+* F2 U2 F2 U2 B' F2 // 17 3c2e + middle
+*: R2 U2 F2 U2 R2 F2 U2 F2 (8-6) (Carter up to here)
+
+F U2 R2 U R B' U2 B' L B' % L R2 U2 Fw2 U2 R2 U2 ^ B' F2
+^ = U2 R2 U2 S U2 R2 U2 S //(10-10) wtf (Guido)
+% = D' L U2 L' D L U2 L' //(8-2) (Guido)
+
+Solution: F U2 R2 U R B' U2 B' L B' D' L U2 L' D L U2 R2 U2 Fw' F' U2 R2 U2 F z (25) 
+
+2. R' U' F R2 L U R2 U2 R2 F' R D L2 B2 D2 B2 U2 B L2 U2 L2 D2 F R' U' F (all Cale)
+
+U' F2 U2 F' // EO
+(R' D) // DR-4e4c
+U2 L F2 R' L ^ U2 L @ U // DR in 14
+D2 L' F2 R' D2 Lw2 // 20 to 3c + 4x
+@ = [L', D R2 D']
+^ = L' R F2 B2 L' R D2 U2 x2
+
+Solution: U' F2 U2 F' U2 L B2 L' R U' x2 R2 D' L D R2 U D L' F2 R' D2 Lw2 D' R (24)
+
+3. R' U' F L B2 R2 D2 R' D2 F2 R' B2 L' B2 R B' U' F D2 B2 L' U F2 U R' U' F (all Cale)
+
+(L B R L' U' F') // EO
+(D2 B2 D2 F2 D R') // DR in 12
+(D R2 U2 F2) // layer-1
+U' L2 U L2 @ U' L2 U' // 3c in 23
+@ = F2, U' B2 U // 29
+
+Solution: U' L2 U L2 F2 U' B2 U F2 U' B2 L2 U' F2 U2 R2 D' R D' F2 D2 B2 D2 F U L R' B' L' (29)
+
+I found this 3c but didn't have time to insert, optimal 27 rip: (Carter)
+(L' B U' R F)
+(D2 F2 U' R2 D L)
+F2 U' F2 D' R2 F2 U F2 U2 D2
+
+4. R' U' F D L2 R2 U' R2 U' R2 U B' U' L2 R' F2 U2 L D U F' R' U' F (Guido DR, Cale finish)
+
+D L' D' // EO
+F' R' F' L2 F R' F' R' // DR + holy (Guido)
+F' (B') // start HTR stuff (Cale from now on)
+(D2 R2 F B2 D2) // 18 to 5e
+(D2 R2 D2 B D2 R2 D2 B) // 24!!!
+
+Solution: D L' D' F' R' F' L2 F R' F' R' F' B' D2 R2 D2 B' D2 R2 B2 F' R2 D2 B (24)
+
+5. R' U' F B2 D' L2 D' L2 F2 D2 L2 R2 D R B' U L' F L' B R2 F' L R' U' F (Guido DR, Cale finish)
+
+F2 L R2 B // EO
+D' L' B2 D F2 U D L' // DR in 12 (Guido found a similar DR, D' L' B2 D' B2 U D R)
+F2 D2 F2 R2 @ D2 Rw2 // 18 to 3e4x (Cale tweaked the DR then finished)
+@ = D M' D2 M' D
+
+Solution: F2 L R2 B D' L' B2 D F2 U D L' F2 D2 F2 R2 D Rw R' D2 Rw R' D' Rw2 (24)

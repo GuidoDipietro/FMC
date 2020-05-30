@@ -1,0 +1,13 @@
+R' U' F D2 F2 D2 F D2 B' R2 B2 D2 L' R' F' U B' D' B F2 U R' U' F
+F' U R U' F2 B' D B U' F R L D2 B2 R2 B D2 F' D2 F2 D2 F' U R
+
+L F' R' //EO
+B' (U2 B2 U2 L2 D' F) //DR in 10
+U' F2 U2 R2 U' //3e in 15
+
+L F' R' B' * U' F2 U2 R2 U' F' D L2 U2 B2 U2
+* = B U2 B' F R2 F' //(6-2) O K
+
+L F' R' U2 B' F R2 F' U' F2 U2 R2 U' F' D L2 U2 B2 U2 (19)
+
+Done on 10/1/2020

@@ -1,0 +1,31 @@
+R' U' F R2 F2 L2 R2 F D2 R2 F L2 D2 R D' B' L R D R F L2 U F R' U' F
+
+F' U R F' U' L2 F' R' D' R' L' B D R' D2 L2 F' R2 D2 F' R2 L2 F2 R2 F' U R
+
+
+
+L F2 U //EO
+
+(R' U2) //Sq + pairs
+
+R2 F D2 //P2x2
+
+(R F2 R' B) //Blocks
+
+F2 R2 //Sq
+
+(R' F R' F2) //3e3c
+
+
+
+L F2 U R2 F D2 F2 R2 * F2 R F' R B' R F2 R' U2 R (18)
+
+
+
+* L F' ** L' F (4-1/21) //3C
+
+** F U B' U' F' U B U' (8-2/27) //Solved
+
+
+
+L F2 U R2 F D2 F2 R2 L U B' U' F' U B U' L' F' R F' R B' R F2 R' U2 R (27)

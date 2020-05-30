@@ -1,0 +1,84 @@
+#1 Scramble: R' U' F D' F2 U' L2 D U2 R2 B2 F2 U B' F2 D L2 U' R B2 U2 R D' B2 R' U' F
+
+U B2 D' F //EO + random B2
+R' //4e4c
+B2 L2 U2 D' R2 U R //Domino in 12
+(U2 B2) //Two Squares (SQ+PS222)
+U' //2x2x2
+D2 L2 D L2 //oshit we're close to done
+U D' L2 U' F2 //Finish in 24 awww :(((
+
+ooooh U' D = slice 🙂
+Carter please slice this 24
+omggggggg 21 i think
+
+U B2 D' F R' B2 L2 U2 D' R2 U R U*' D2 L2 D L2 U* D' L2 U' F2 B2 U2
+* = w //(-3) :D
+
+Final Solution: U B2 D' F R' B2 L2 U2 D' R2 U R D B2 D B2 L2 U' F2 B2 U2 (21)
+
+#2 Scramble: R' U' F U2 B2 R2 D' U2 L2 B2 D' L2 F2 L F D' F2 R2 D' U2 R2 B R2 F2 R' U' F
+
+F' (L' B ) //EO
+(L2 U) //Setup to cursed trigger (6c8e)
+(R U' D L') //DR (9)
+(F2 L2 D') //L-shape thing
+(F2 U' L2 D R2 z2) //3e3e4x
+
+F' ^ z2 R2 [D' L2 U F2 D L2 F2] L U D' R' U' L2 B' L
+Replace [] -> {Dw' L2 Uw F2 D} L2 F2 (7-7=0/17) 3e4x
+^ = F B' U2 F B' z2 L2 (6-4=2/19) Solved 3e except now different 4x
+Replace {} -> D' L2 Uw F2 Dw (5-5=0/19) Hell yeah sub-20, All Done
+
+Final Solution: x2 y2 z2 B' z2 z2 U2 z2 z2 F z2 z2 B' z2 z2 D' z2 z2 L2 z2 z2 D z2 z2 R2 z2 z2 U z2 z2 L2 z2 z2 F2 z2 z2 L z2 z2 U z2 z2 D' z2 z2 R' z2 z2 U' z2 z2 L2 z2 z2 B' z2 z2 L x2 y2 z2 (19)
+
+#3 Scramble: R' U' F R2 U2 F2 U2 R D2 F2 L R' B2 R B' R D L F D U2 R B R' U' F
+
+(R' U2 B2 L') //EO
+U' //4c4e F/B
+(F2 R2 L2 F B2 U) //DR (11)
+(L2 B U2) //CP Work
+(F' R2 D2 F') //HTR in 18 ehhhhh not too good
+(D2 F2 B2 R2 U2) //oh actually lol done wait what this is so dumb
+
+U R2 F2 B2 D2 F D2 R2 F U2 B' L2 U' {F' [B2 R2 L2 F2] L B2 U2 R}
+[] -> F2 R2 L2 B2 -1/21 nice shortening the nonDR part
+replace {} with F2 L F2 L2 R2 U2 R (-1/20) NICER THANKS TEH
+U R2 F2 B2 D2 F D2 R2 F U2 [B' L2 U' F' L F2] L] R2 U2 R
+Replace [] -> L B' U' L2 F AWIT WHAT THE HELLLLLLL -1/19!?????!??!
+Final Solution: U R2 F2 B2 D2 F D2 R2 F U2 L B' U' L2 F L2 R2 U2 R (19)
+
+
+Final Solution: U R2 F2 B2 D2 F D2 R2 F U2 B' L2 U' F' L F2 L2 R2 U2 R (20)
+
+#4 Scramble: R' U' F U2 L2 U' F2 D' F2 D B2 U2 L D2 B' L2 B' F R D' L U F R' U' F
+
+R2 F L'//R2+EO
+U2 F B2 U' B //DR (8) wtf
+(L2 U) //HTR-2e (PHTR ftw!)
+(F2 U2 B2 R2 U2) //2e2e (15) lmFao
+
+$ R2 F L' U2 F B2 U' B U2 R*2 B2 U2 F2 U' L*2 //another 2e2e
+* = w //(4-4) change 2e2e case
+$ = F2 B2 L2 F2 B2 R2 //(6-3) enjoy
+😀 WTF WHAT IS THAT?
+wtf bro cmon 18??????
+dang I thought that my 21 stood a chance but nope lmao gj
+
+Final Solution: F2 B2 L2 F' B2 L' U2 F B2 U' B U2 L2 F2 D2 B2 D' R2 (18)
+
+#5 Scramble: R' U' F U' F2 L2 B2 U' F2 D2 F2 U R' F2 R D B' D2 U2 F' U L' F2 R' U' F
+
+D L R U' //EO
+B //4c6e case
+L R' U2 R' B' R2 F' //DR (12)
+(F2 L' D2 L) //HTR in 16 (kinda bad for this challenge, but it has big blocks)
+(F2 R2 z2) //4e4x (18)
+
+D L R U' B R' L U2 R' B' R2 ^ F' L2 z2 F2 L' D2 L F2
+^ = R2 F2 R2 F2 R2 F2 //(6-3)
+
+D L R U' B R' L U2 R' [B' F2 R2 F2 R2 F L2 Bw2] L' D2 L F2
+[] = F U2 B2 D2 B L2 B2 //Solve 4x in -1 NEVERMIND
+
+Final Solution: D L R U' B R' L U2 R' F U2 B2 D2 B L2 B2 L' D2 L F2 (20)

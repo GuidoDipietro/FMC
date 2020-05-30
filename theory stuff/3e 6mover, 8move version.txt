@@ -1,0 +1,5 @@
+U D' F2 R2 U' D B2 R2
+
+ofc a million other algs can be deduced from this.
+
+careful!

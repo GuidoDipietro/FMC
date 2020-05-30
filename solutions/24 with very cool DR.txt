@@ -1,0 +1,16 @@
+R' U' F R2 B2 R2 D B2 D2 R2 D' F2 U' B' U' L U2 B' U2 R' D B' R' U' F
+F' U R B D' R U2 B U2 L' U B U F2 D R2 D2 B2 D' R2 B2 R2 F' U R
+
+B D2 L U F //EO
+D' R' U2 D2 L U' D L //DR (13)
+(D' F2 R2 D') //HTR (17)
+(L2 D2) //222
+(B2 R2 B2 R2 U2) //finish (24)
+
+How tf did you find that DR?!?!
+Like this:
+B D2 L U F //EO
+U' R //DR-2e
+U D' R U2 D2 L' //DR (13) -> but sorta do this step first
+
+B D2 L U F D' R' U2 D2 L U' D L U2 R2 B2 R2 B2 D2 L2 D R2 F2 D (24)

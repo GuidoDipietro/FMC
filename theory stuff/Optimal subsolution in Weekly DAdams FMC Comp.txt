@@ -1,0 +1,7 @@
+F2 R' D R D' F' R' F R F' R' F2  (12f*)   //SETUP
+
+My solution: F2 R F R' F' R F' U F U' R' F' (12 HTM)
+CubeExplorer's: F2 R' D R D' F' R' F R F' R' F2  (12f*)
+
+ohohoh optimal subsolve
+

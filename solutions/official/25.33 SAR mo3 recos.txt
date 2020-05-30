@@ -1,0 +1,49 @@
+R' U' F U R2 F2 U F2 D' U2 R2 B2 D2 B D2 L2 R' U B2 U' L' D2 B R' U' F
+
+(!!!) (F) D' L' U2 B //EO
+U R2 D L' D //DR
+R' U2 ^ L U2 L' //HTR
+F2 # L2 D2 y2 //4e4x
+
+^ E2 //(2-2)
+# R' U D' F2 D U' R' //(7-0)
+
+After the attempt:
+(!!!) B2, D' M D //(10-4) for 24 (optimal)
+
+D' L' U2 B U R2 D L' D R' D2 R U2 R' B2 L' U D' B2 D U' L' R2 D2 F' (25)
+
+------------
+
+R' U' F U' L2 U B2 U F2 D' B2 U R F2 L' B' D L2 B2 U2 L U' R U' R' U' F
+
+L' (R U' R) //EO
+(B2 U' R2 D' F) //DR (9)
+D' L2 D # (R2 D) U2 R2 U R2 U B2 //2e2c
+
+# D' R2 F2 L' U' L F2 R' D R' //(10-2) (optimal)
+
+Chong Wen says:
+L' D' L2 [D U2 R2 U R2 U] B2 ...
+[] = U' F2 U F2 D (-1)
+
+L' ^ D' L2 U' F2 U F2 D B2 D' R2 F' D R2 U B2 R' U R'
+^ R D' R F2 L' U L F2 R2 D //inverse of my alg (27) (optimal)
+
+L' D' L2 R2 F2 L' U' L F2 R' D R' U2 R2 U R2 U B2 D' R2 F' D R2 U B2 R' U R' (28)
+
+------------
+
+R' U' F D2 U2 R2 F' D2 B' F R2 D2 B' D L' R U2 R' D R B' D' U' R' U' F
+
+(B U' L2 F) //EO
+(D R D B2 D F2 R) //DR
+(R2 B2 L2) U' R2 U' B2 U R2 ^ U D' //2e2e
+
+^ R2 D2 R2 U' D' B2 U D //(8-5) (optimal)
+
+[U' R2 U' B2 U D2 R2 U' D'] B2 U2 L2 B2 R F2 D' B2 D' R' D' F' L2 U B'
+
+[] = D' F2 D2 U L2 U' F2 U2 (-1) lol
+
+D' F2 D2 U L2 U' F2 U2 B2 U2 L2 B2 R F2 D' B2 D' R' D' F' L2 U B' (23)

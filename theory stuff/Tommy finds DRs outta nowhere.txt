@@ -1,0 +1,12 @@
+R' U' F R' B2 R' B2 D2 L F2 B D B R' B' F' R' F2 U2 L U R' U' F
+F' U R U' L' U2 F2 R F B R B' D' B' F2 L' D2 B2 R B2 R F' U R
+
+(B2 L) U' F R // EO
+F' D' B' // DR (8)
+(D R2 D) // 222
+(F2 U R2 U' R2 U R2) // 18 to 3e
+U' F R F' D' B' R2 U' R2 U ^ R2 U' F2 D' R2 D' L' B2
+^ - U2 R' L F2 R L' (22)
+Solution: U' F R F' D' B' R2 U' R2 U' R' L F2 R' L' U' F2 D' R2 D' L' B2 (22)
+
+what the fuck is this

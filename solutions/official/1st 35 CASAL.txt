@@ -1,0 +1,21 @@
+R' U' F U2 L' U2 R D2 F2 D2 F2 U2 L2 F' D U' B F2 D2 U' L2 B2 D R' U' F
+F' U R D' B2 L2 U D2 F2 B' U D' F L2 U2 F2 D2 F2 D2 R' U2 L U2 F' U R
+
+(F' D U2 L')
+(D2 L2 D2)
+F R2 D F B' L2 B2 //AB6C4E in 14
+
+** F R2 D B' F L2 B2 D2 L2 D2 L * U2 D' F
+
+*: U' B U2 B' U' B U B' U2 //(9-2) solve edges (5C cycle, optimal 33)
+**: U' B2 U F U' B2 U *** F' //(8-2)
+***: L' U2 L D' L' U2 L D //(8-0) solved
+
+U' B2 U F U' B2 U L' U2 L D' L' U2 L D R2 D B' F L2 B2 D2 L2 D2 L U' B U2 B' U' B U B' D' F (35)
+
+found last minute:
+(F' D U2 L')
+(B L2 R2 B R2 U2 F' U2 B2 D' R2) D2 F D F' //3E3C in 19
+
+D2 F D F' R2 D B2 U2 F U2 R2 B' R2 L2 B' L U2 D' F
+couldn't insert, optimal is 31

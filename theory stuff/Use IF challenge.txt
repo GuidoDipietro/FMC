@@ -1,0 +1,28 @@
+R' U' F B2 D B2 F2 D' U2 L2 R2 F2 L2 U F' R D' B' F' D F2 R D2 R' U' F
+F' U R D2 R' F2 D' F B D R' F U' L2 F2 R2 L2 U2 D F2 B2 D' B2 F' U R
+
+F U' F' (F' R) B' D' B2 D2 R2 U' //Just did as many blocks as I could
+
+gives 23
+Insertions
+4
+Skeleton
+F U' F' B' D' B2 D2 R2 😑 U' R' F
+😑
+U F2 U' (3-1)
+Skeleton
+F U' F' B' D' B2 D2 😃 R2 U F2 U2 R' F
+😃
+D R D' R' (4-2)
+Skeleton
+F U' F' B' D' B2 D' R D' 😡 R U F2 U2 R' F
+😡
+B D B D' B2 (5-0)
+Skeleton
+F U' F' B' D' B2 D' R D' B 😍 D B D' B2 R U F2 U2 R' F
+😍
+B L B' D B D' L' D B' D' (10-7)
+Final Solution
+F U' F' B' D' B2 D' R D' B2 L B' D B D' L' B2 R U F2 U2 R' F
+Cancellation
+10

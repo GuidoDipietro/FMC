@@ -1,0 +1,29 @@
+R' U' F D2 F D2 L2 F2 U2 R2 U2 R2 F L' F2 D R' B L' R' B R2 U F2 R' U' F
+F' U R F2 U' R2 B' R L B' R D' F2 L F' R2 U2 R2 U2 F2 L2 D2 F' D2 F' U R
+
+(B' D F)
+(L' D L2) L
+(U D R2 D')
+R F2 R' (F') //AB6C3E (3 comms) in 15
+
+L * R F2 R' F D R2 D' ** U' L2 D' L F' D' B (optimal for this is 29)
+
+*: D R U' R' D' R U R' //(8-2)
+**: D L' D' R2 D L D' R2 //(8-2) to 3E...
+no time for insertions, so just added this in the end:
+
+L D R U' R' D' R U F2 R' F D R2 L' D' R2 D L D' R2 U' L2 D' L F' D' B ***
+
+***: B' U F' U' F' B L F L' F //(10-2) solved
+
+L D R U' R' D' R U F2 R' F D R2 L' D' R2 D L D' R2 U' L2 D' L F' D' U F' U' F' B L F L' F (35)
+
+missed this:
+R <D2 F' U' F U D2> L F2 R' F D R2 D' U' L2 D' L F' D' B //4C in 21 (optimal 29)
+
+-------other stuff I found
+(B' D F)
+(L2 D L' U R2 L' U) //AB6C3E in 10 (IF can't insert)
+
+U' L R2 U' L D' L2 F' D' B
+-------

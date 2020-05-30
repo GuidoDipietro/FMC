@@ -1,0 +1,13 @@
+R2 B U2 B U2 B2 D2 L2 F D2 B D U2 R2 B R2 B' D U2 L
+
+L' //EO
+D (B D2 F R2 B2 U) //DR (8)
+R2 (R2 B U2 F B' D2 B') //2c2c (16)
+
+L' D R2 B  D2 B F' U2 B' * R2 U' B2 R2 F' D2 B'
+* = F U2 L2 F' R2 B D2 L2 B' R2 //(10-2)
+
+L' D R2 B D2 [B F' U2 B' F U2 L2 F' R2 B D2 L2 B'] U' B2 R2 F' D2 B'
+[] = R2 U2 L2 F' R2 F L2 U2 F' //(-4)
+
+L' D R2 B D2 R2 U2 L2 F' R2 F L2 U2 F' U' B2 R2 F' D2 B' (20)

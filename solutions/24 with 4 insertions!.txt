@@ -1,0 +1,24 @@
+R' U' F R U2 R F2 L' F2 D2 B' U' F L' F2 L B2 L D2 R' U R' U' F
+F' U R U' R D2 L' B2 L' F2 L F' U B D2 F2 L F2 R' U2 R' F' U R
+
+F2 L2 U2 F //EO 4/4
+* L' R2 U' R U //many blocks 5/9
+D R //4e4c 2/11
+
+F2 L2 U2 F * L' *** R2 U' R U ** D R
+
+* (B2 U2 B2) //(3-0) to 3e3c
+** (F' U2 **** F, D) //8-2 to 3e
+*** (Rw2 R2) //2-3 :D
+**** (F' D' M2 D F) //6-1
+
+F2 L2 U2 F (B2 U2 B2) L' R2 U' R U D R (3-0) to 3e3c
+F2 L2 U2 F B2 U2 B2 L' R2 U' R U (F' U2 F, D) D R (8-2) to 3e
+F2 L2 U2 F B2 U2 B2 L' (Rw2 R2) R2 U' R U F' U2 F D F' U2 F R //solve 1 edge
+F2 L2 U2 F B2 U2 B2 L x2 U' R U F' U2 F D F' U2 F R //new skeleton
+F2 L2 U2 F B2 U2 B2 L x2 U' R U F' U2 F D F' U2 (F' D' M2 D F) F R //solve all
+F2 L2 U2 F B2 U2 B2 L x2 U' R U F' U2 F D F' U2 F' D' Rw2 R2 D F2 R //final
+
+//delete rotation
+
+F2 L2 U2 F B2 U2 B2 L D' R D B' D2 B U B' D2 B' U' Rw2 R2 U B2 R (24)

@@ -1,0 +1,18 @@
+R' U' F D2 U2 R2 F' D2 B' F R2 D2 B' D L' R U2 R' D R B' D' U' R' U' F
+
+(B U' L2 F) //EO
+(D R D B2 D F2 R) //DR
+(R2 B2 L2) U' R2 U' B2 U R2 ^ U D' //2e2e
+
+^ R2 D2 R2 U' D' B2 U D //(8-5)
+
+[U' R2 U' B2 U D2 R2 U' D'] B2 U2 L2 B2 R F2 D' B2 D' R' D' F' L2 U B'
+
+[] = D' F2 D2 U L2 U' F2 U2 (-1) lol
+
+Harry says: Your solution could've been found like this
+After DR
+(R2 B2 L2)
+(U2 B2 U2 F2 U L2 U' D2 F2 D) //wide antisune (12 move finish)
+
+D' F2 D2 U L2 U' F2 U2 B2 U2 L2 B2 R F2 D' B2 D' R' D' F' L2 U B' (23)

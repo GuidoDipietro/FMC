@@ -1,0 +1,14 @@
+R' U' F U' B2 D2 F2 L2 D2 U F2 L2 F2 L2 B' L B D2 L R2 B U L' B R' U' F
+
+L2 F R U D'//EO (5/5)
+(L) * B2 D2 L2 B' R//DR (6/11)
+
+*=U' D L2 U D' B2//shorter DR (6-7/10)
+
+Rewrite
+
+L2 F R L2 U D L2 B' R (L)//DR (10)
+(F' L2 F D2 R2 B')//2e2e3e (16)
+(B R2 U2 L2 F D2 R2 D2 R2 L2)//start a 3e alg, cancel into the 2e2e (10-5/21)
+
+L2 F R L2 U D L2 B' R' L2 D2 R2 D2 F' L2 U2 D2 F' L2 F L' (21)

@@ -1,0 +1,21 @@
+R' U' F D' B2 F2 D' L2 U B2 D2 U' F' U2 L2 B' D' L' R' U2 F R2 D2 R' U' F
+
+R2 U2 F //EO
+D' L' D L D R2 D2 R' D R' D' R D R' D' //3 twisted (19)
+R2 U2 [@1] F D' L' D L D R2 D2 R' D R' D' R D R' D'
+Insert at @1: D' B D F D' B' D F'
+After the 1st insertion: R2 U2 D' B D F D' B' L' D L D [@2] R2 D2 R' D R' D' R D R' D'
+Insert at @2: D2 R' U2 R D2 R' U2 R
+Fewest moves: 28. 6 moves cancelled
+The final solution: R2 U2 D' B D F D' B' L' D L D' R' U2 R D2 R' U2 R' D2 R' D R' D' R D R' D'
+
+L' F2 L' //EO
+D2 R2 L2 U F2 U' B2 //223
+D' F' D F D2 F' D' //5C in 17
+L' F2 L' D2 R2 L2 U F2 U' B2 D' [@1] F' D F D2 F' D'
+Insert at @1: U' B U F' U' B' U F
+After the 1st insertion: L' F2 L' D2 R2 L2 U F2 U' B2 D' U' B U F' U' [@2] B' U D F D2 F' D'
+Insert at @2: U L' U' R U L U' R'
+Fewest moves: 29. 4 moves cancelled
+The final solution: L' F2 L' D2 R2 L2 U F2 U' B2 D' U' B U F' L' U' R U L U' R' B' U D F D2 F' D'
+

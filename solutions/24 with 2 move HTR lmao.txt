@@ -1,0 +1,13 @@
+R' U' F L2 F2 L2 F2 R2 D' F2 D L2 R2 U2 R' F' D F D' F' U L2 D' R' U' F
+F' U R D L2 U' F D F' D' F R U2 R2 L2 D' F2 D R2 F2 L2 F2 L2 F' U R
+
+R' B' (D' F') //EO
+U L' B2 D' U R' U L U' R //DR (14)
+B2 D' //HTR LOL (16)
+B2 U2 R2 //222
+U2 L2 B2 //2e2e (22)
+
+R' B' U L' B2 D' U R' U L U' R B2 D' B2 U2 R2 ^ U2 L2 B2 F D
+^ = B2 L2 B2 U2 L2 B2 L2 U2 //(8-6) wtf
+
+R' B' U L' B2 D' U R' U L U' R B2 D' B2 U2 R2 B2 L2 B2 U2 L2 F D (24)

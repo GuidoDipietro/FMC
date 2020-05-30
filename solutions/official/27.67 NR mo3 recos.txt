@@ -1,0 +1,61 @@
+R' U' F D2 L2 F R2 U2 R2 B D2 L B2 D' B2 L' R' B D2 B U2 L U2 R' U' F
+
+D' F B' R //EO
+D' B D' B' //Pseudo 222
+(D U F2 U' F2 U F U2) //Two more squares
+F2 L2 F2 //AB3E4C in 19... bad... but
+
+D' F B' R D' * B D' B' F2 L2 F2 U2 F' U' F2 U F2 U' D'
+
+* D2 ** U' F' U F D2 //(6-1) to 3C
+** B2 U' F' U B2 U' F U //(8-6) ...solved
+
+all in all, the insertion was just D2 B2 U' F' U B2 F D2, lol, I'm not sure why I missed to spot it directly, it was easy.
+
+D' F B' R D' B D B2 U' F' U B2 F D2 B' F2 L2 F2 U2 F' U' F2 U F2 U' D' (26)
+
+PR single! Very unexpected, the skeleton was so bad I expected this to be around 32 :o I guess I just got lucky!
+
+-----------------------------------
+
+R' U' F D2 L2 B F L2 B D2 F L D R2 U2 B L R2 U' R2 U B U2 R' U' F
+
+(R' L F) //EO
+(L D2 R2 D2) //123
+R L D' R2 //Pseudo 223 + edge
+L U L' R' //AB3E5C in 15
+
+** R L D' R2 L U R' * L' D2 R2 D2 L' F' L' R
+
+* F2 L' F2 L //(4-2) to good 6C
+** U' R2 U2 R U' L2 U R' U2 R2 U L2 //(12-1) solved! :D
+
+U' R2 U2 R U' L2 U R' U2 R2 U L' R D' R2 L U R' F2 L' F2 D2 R2 D2 L' F' L' R (28)
+
+I was very happy to come up with that 3c3c alg, I checked every other spot and couldn't find anything better.
+Other than that, there were many skeletons to check, but I just decided to go with this.
+
+-----------------------------------
+
+R' U' F U2 R2 D B2 D' R2 B2 L2 F' D R2 B D' R D2 F U2 B' U' R' U' F
+
+F2 R' //EO
+D F' //Pseudo 222
+D2 L2 U //AB3E7C (half cube left) in 7 moves xD
+
+F2 R' D * ** F' D2 L2 *** U
+
+* U2 B U2 B' //(4-0) solve edges
+** L' B L F' L' B' L F //(8-2) corner cycle
+*** L D L' U' L **** D' L' U //(8-2) corner cycle
+**** B2 D' F' D B2 D' F D //(8-2) corner cycle
+
+F2 R' D U2 B U2 B' L' B L F' L' B' L D2 L' D L' U' L B2 D' F' D B2 D' F L' U2 (29)
+
+I checked a few skeletons... Definitely wanted to use my start, but anything I found lead me to the same 7 move skeleton. So I just decided to go with it. After all, to tie my PR mean I needed a 41, and to tie NR I needed a 40, so I just went with this crazy risky skeleton.
+It turned out pretty well, to be honest. Optimal for this was 27 but I don't really mind since there were sooooo many places to check I couldn't bother doing it. (After all, I was already super happy with my results!)
+
+-----------------------------------
+
+Overall comment: I'm very happy with these results! This comp came right after a full month break from FMC, and my only practice for it was like 4 attempts the week before, so my expectations weren't very high. As at home my performance had not been very good lately, I just decided I was going to take a relaxed approach to FMC 2019, not really pushing the limit of my solutions. That is why I handed in every attempt before the 40-min mark, and why I just took the first thing I found in attempt 3. Definitely, a 27.67 mo3 is way closer to my usual home results in comparison to my other 2 official mo3s (31.67 and 32.33 XD), and I am definitely happy to finally get this (very) long desired record!
+Very fun and interesting comp. Loved it!

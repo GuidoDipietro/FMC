@@ -1,0 +1,42 @@
+D2 U2 L D2 R B2 L R2 F2 R' D2 B L' F' L2 R D2 U F2 D 
+
+(F L F2 U' F' L2 F L2 B) //2x2+premoves
+L' F L' F' //2x2x3
+B' D B L' D2 L //F2L-1
+B2 D B2 L B2 L' //2x2x1 at B
+D' B D B' //4 corners
+
+L' F L' F' B' D B L' D2 L B2 D B2 L B2 L' D' B D B2 L2 F' L2 F U F2 L' F'
+
+(F) //Premoves
+D L2 F R2 F L' F2 //2x2 premove F'
+D R D2 //2x2x3
+U' B2 U2 R U' //F2L-1+EO+Blocks
+F' U' x' R2 u R2 u' R2 y' R2 u' R2 u R2 U' R U D //Adjusted T perm
+
+Final solve: D L2 F R2 F L' F2 D R D2 U' B2 U2 R U' F' U' R2 F D2 F' R2 U2 F' L2 F U2 B' U B (30 HTM)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Mezcla: D B2 D' R2 D2 B2 U' B2 F2 D2 L2 R' D' U' R' F2 D B R2 D L'
+Mezcla inversa: (L D' R2 B' D' F2 R U D R L2 D2 F2 B2 U B2 D2 R2 D B2 D')
+
+(B) //Premoves
+D F' D' B2 F R F' //2x2
+U B2 L B //2x2x3 Premove B'
+R' F' L2 F R //F2L-1
+(L F U' F' U) //Pair
+(F' D2 B D B' D F) //Fatsune
+(D2 R F2 R' D2 B2 R' U2 R B2) //Tperm
+
+Solve: D F' D' B2 F R F' U B2 L B R' F' L2 F R B2 R' U2 R B2 D2 R F2 R' D2 F' D' B D' B' D2 F U' F U F' L' B' (39)
+
+revisited in 2019:
+D U2 F' //EO
+L D' //2 sq
+(U' L' U R U B2) //blocks
+R U //3e4c in 13
+
+IF gives 26, add R U R2 U' R after the last line for 5c in 18
+then 8-6 8-2
+
+heh I have got better in FMC!

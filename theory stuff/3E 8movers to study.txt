@@ -1,0 +1,73 @@
+U R2 B2 L2 D L2 B2 R2  (8f*)
+U L2 B2 R2 D R2 B2 L2  (8f*)
+D F2 L2 B2 U R2 B2 L2  (8f*)
+D B2 L2 F2 U L2 B2 R2  (8f*)
+L2 U L2 B2 R2 D R2 B2  (8f*)
+L2 D F2 L2 B2 U R2 B2  (8f*)
+B2 L2 U L2 B2 R2 D R2  (8f*)
+B2 L2 D F2 L2 B2 U R2  (8f*)
+
+observations:
+descripción gráfica del caso:
+	3 edge cycle.
+	2 edges (X and Y) conjugate in one face with a 180 degree turn
+	1 edge (Z) sits alone in an adjacent face, solved into position (taking Y's place) with (1) move.
+Existen 4 movimientos posibles con los que un algoritmo óptimo que resuelva este ciclo puede comenzar:
+	A: siendo un move que coloque a Z en su posición final (lugar de Y)
+	B: siendo un move que coloque a X a 180 grados de su posición final (a 180 grados de Z)
+	C: siendo un move que no afecte a ninguna pieza, opuesto a la cara donde se encuentra solo Z
+	D: siendo un move que no afecte a ninguna pieza, opuesto a la cara donde se encuentran X e Y.
+Ejemplos con el caso aquí presentado:
+	A: U
+	B: D
+	C: L2
+	D: B2
+Si el algoritmo comienza con _, termina con _:
+	A: termina con el mismo movimiento que sea el 2do. Ejemplo:
+		U R2 B2 L2 D L2 B2 R2.
+		su segundo movimiento siempre será C o el opuesto a la cara C.
+	B: termina con C o con opuesto a C.
+		las reglas son más difíciles de detallar, que probar ambos casos.
+		Casos posibles: 2do move D u opuesto a D,
+			continuación seguidilla de giros de 180 de caras adyacentes que contengan 1 o 0 piezas del ciclo.
+	C: termina con D. Siempre.
+		Posibles 2dos giros: A o B.
+		Explicación teórica: es simplemente un shift de cualquier caso de A o B que termine con C, moviendo C al comienzo.
+	D: termina con opuesto a C. Siempre.
+		Posible 2do giro: únicamente C.
+		Explicación teórica: es simplemente un doble shift de cualquier caso de A o B que termine con C, moviendo C y D al comienzo.
+Resumen: los algoritmos únicos son los que comiencen con A o B. Luego, cualquier agregado de C o D al comienzo o al final será indistinto, ya que esas caras no contienen ninguna pieza del ciclo originalmente.
+
+Los shifts posibles solamente pueden comenzar con C o DC.
+Shorthand: (En el caso en que Z está cerca, el último move del shift será uno que esté lejos de Z.)
+
+----------------CASO OPUESTO---------------
+En este caso, Z no puede ser llevado a su posición con 1 solo move. Ahora su posición final no se encuentra en X, sino en Y.
+Precisa al menos 2 movimientos para ser reubicada.
+
+R2 B2 L2 D' L2 B2 R2 U'
+R2 B2 L2 U' F2 L2 B2 D'
+R2 D' R2 B2 L2 U' L2 B2
+R2 U' B2 L2 F2 D' L2 B2
+
+L2 B2 R2 D' R2 B2 L2 U'
+L2 B2 R2 U' B2 L2 F2 D'
+
+B2 R2 D' R2 B2 L2 U' L2
+B2 R2 U' B2 L2 F2 D' L2
+
+Todas las variantes óptimas comienzan con un giro de 180 grados. Hay solo 3 caras posibles ahora:
+	A: la cara que alberga solo a Z
+	B: la cara que no alberga a ninguna pieza, opuesta a A
+	C: la cara que no alberga a ninguna pieza, que no es B.
+Si el algoritmo comienza con _, termina con _:
+	A: es más fácil probar los casos:
+		posibles 2dos movimientos: C, o bien:
+			90 grados que resuelva Z
+			90 grados que resuelva a X.
+	B: los casos más sencillos. Las bases de las que salen los otros shifts. Ya deberías saberlos.
+	C: termina con B. Siempre.
+		simplemente un shift de 1 move de los casos que empiezan con A y terminan con C.
+
+Los shitfs solo pueden comenzar con C o BC.
+Shorthand: (En el caso en que Z está lejos, el último de los del shift es un move cercano a Z.)

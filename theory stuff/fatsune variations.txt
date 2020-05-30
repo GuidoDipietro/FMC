@@ -1,0 +1,68 @@
+----ANTI-FATSUNE----
+Scramble: Rw U R' U R U2 Rw' U2
+
+Overview:
+	3 corners twisted clockwise, 3 edges cycled, 2 misoriented
+Optimal movecount: 8 OBTM.
+Number of optimal solutions: 3.
+
+Optimal solutions:
+	R B2 L' B' L B' R' U2
+		1 move break a pair, 4 move insert to solve square, LL skip
+	U2 L F2 R' F' R F' L'
+		same alg as before, with pre-AUF, cancels with U2 in the end
+	B' R B' R' B2 L U2 L'
+		"inserts" random pair next to solved block, forms 1x1x3 too, LL skip when restoring the random pair.
+
+----FATSUNE----
+Scramble: Rw U2 R' U' R U' Rw' U2
+
+Overview:
+	3 corners twisted counter-clockwise, 3 edges cycled, 2 misoriented
+Optimal movecount: 8 OBTM.
+Number of optimal solutions: 3.
+
+Optimal solutions:
+	R B L' B L B2 R' U2
+		takes pair out with 1 move, 4 move insert to solve square, LL skip
+	U2 L F R' F R F2 L'
+		U2 setup to the alg above, cancels 2 in the end
+	R U2 R' F2 L F L' F
+		3 move square taking out a pair, pair is reinserted using other moves and LL skip
+
+----VARIATIONS----
+
+To find a viable variation, set up a 3tc3e case using 1-2 moves to a case with 1 or 2 solved pairs
+
+Scramble: L' B L B2 R' U2 R B
+
+B' pairs 1 pair, conjugates all pieces to U layer. Now you can apply 3 different algs.
+	R' F' L F' L' F2 R U2
+	U2 L' B R B' R' B2 L
+	R' U2 R B2 L' B' L B'
+There is one (third alg) which cancels two moves (B' final move cancels with B conjugate undo). Thus optimal solution is 1+8+1-2 = 8 OBTM.
+
+Scramble: B R' U' R2 U R2 U' R' U B'
+
+F pairs 1 pair, conjugates all pieces to R layer. Corners have to turn clockwise, FATSUNE is the choice.
+Possible continuations:
+	B U F' U F U2 B' R2
+	B R2 B' D2 F D F' D
+	R2 F D B' D B D2 F'
+There is one alg (the third) which cancels 1 move (F' final move cancels with F' conjugate undo). Thus optimal solution is 1+8+1-1 = 9 OBTM.
+
+----WHEN FATSUNE IS NOT GOOD ENOUGH /// WHEN SUNE TIES THE FAT----
+
+Some FATSUNE/ANTI-FATSUNE cases can be conjugated to SUNE/ANTI-SUNE shifts rather.
+
+Scramble: L F2 R2 F2 U2 R' U2 R U R' U L' U2 R
+
+An option here is B' setup to ANTI-FATSUNE. Possible continuations:
+	U' B U' B' U2 F R2 F'
+	B U2 F' U' F U' B' R2
+	R2 F D2 B' D' B D' F'
+There is one (the second) which cancels 2 with the setup. If we write down the final solution it results:
+	U2 F' U' F U' B' R2 B
+But this is not the only optimal solution for this case. We can find another one spotting a good cycle of the standard SUNE alg:
+	U R' U' R2 U R2 U' R'
+	(standard alg: R2 U R2 U' R' U R' U', shifted by 3 moves)

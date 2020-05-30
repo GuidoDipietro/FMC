@@ -1,0 +1,55 @@
+My bad solutions of my 28.00 winning mo3 at UTN Bisiesto 2020:
+I promise I'll do well when I get the chance to do FMC at a comp I'm not hosting :'/
+
+---------------------------------------------
+
+R' U' F L D2 F2 R2 D2 B2 R' D2 L D' B' F' U2 F U L' F U' L B' R' U' F (opt 17)
+
+(U' F L R) //EO
+(B D' B2 U' F' D F) //DR (11)
+R2 D2 L2 U' D' B2 //223
+D2 R2 D * //3c (20)
+* = R B R' F2 R B' R' F2 //(8-1) (optimal)
+
+R2 D2 L2 U' D' B2 D2 R2 D R B R' F2 R B' R' F D' F U B2 D B R' L' F U (27)
+
+Comments: only skele I had, not a good solution. I checked around 8 EOs, and only found two short DRs (off the same EO). But given that I was solving an issue with the comp venue and overly overwhelmed just a second after this attempt, it's not too bad.
+I thought this scramble was quite hard, but I wasn't too mentally fit to judge it properly.
+
+---------------------------------------------
+
+R' U' F D' F2 R2 U2 F2 D' F2 R2 D2 U2 F D' F2 U L2 U2 R' B L F' R' U' F (opt 18)
+
+(L' D R' B') //EO
+(U L) D' L2 U' R2 U2 L' U2 L //DR (14)
+(R2 U) //HTR-4e4c
+U' F2 U //HTR (19)
+(B2 D2) //222
+(F2 U2 R L' U2 R' L') //finish (28) (optimal finish was 1 move less)
+
+D' L2 U' R2 U2 L' U2 L U' F2 U L R U2 L R' U2 F2 D2 B2 U' R2 L' U' B R D' L (28)
+
+Comments: My shortest DR was 13 moves long, and I only had a few other 14 move DRs off the 12 or 13 EOs that I checked. Sooooo many options to check. Finding that HTR in 19 off this crap DR was a relief because I knew I was gonna have at least a non-DNF, non-forty-mover backup solution. Turned out to be my final one because I couldn't find anything else. Anyway, the finish was just 1 move off optimal. Finding zero good DRs really didn't help. Again, too stressed about organising the comp and knowing it was very delayed. The scramble wasn't even too hard.
+
+---------------------------------------------
+
+R' U' F U2 L2 F U2 R2 B F' L2 U2 R' B2 R2 D B2 U' R' B U2 F U' R' U' F (opt 18)
+
+D' (D R' D) //EO
+(F' L') F L2 B L' F' L' //DR (12)
+(B' U2 F R2 B') //7e (17)
+
+D' F L2 B L' F' L' B R2 F' % * U2 B L F D' R D'
+* = R2 L2 D2 R2 L2 U2 //(6-2)
+% = D2 L2 D2 B D2 L2 D2 B //(8-0) (IF gives 25 off the 7e)
+
+D' F L2 B L' F' L' B R2 F' D2 L2 D2 B D2 L2 D2 B R2 L2 D2 R2 L2 B L F D' R D' (29)
+
+Comments: again, a bad solution. I only checked 2 EOs, I was too exhausted. This DR was actually ok (short and good corners) so there must have been something good somewhere, but I wasn't on point to be able to find it this time. I played around a bit with HTR (found HTR in 19) and with a 3e skele (in 24, final 30, optimal 29...) The insertions on this attempt were rushed in the last 15 minutes, just to have a backup solution which I scribbled in a corner of the sheet of paper then used my last 15 mins to find something better (spoiler: I couldn't). There was a spot to insert a 6-1 to make that 7e into 3e that was very easy to see, I just didn't check it. Optimal is 25 but realistically I would've just seen a 26. Anyway, improving the mean like this wouldn't make anything better (I needed a 21 just to tie PR, and I still won the comp with my 28.00). But yeah, another bad backup solution used as the final one.
+
+---------------------------------------------
+
+Overall, this was a very bad mo3 for me, but given the conditions I was under I think this was a pretty great performance. I am sure I missed a lot of good stuff that I would normally see in an attempt, but this time it was just not possible for me to find them. I slept less than 4 hours that day before, woke up about 4 times during the night, and was very stressed about setting up this comp which was very delayed at any given point during the 1st day for venue issues and my own mistakes (FMC was this day).
+2/3 of the mean were backup solutions, but hey at least I kept the sub30 streak going.
+
+I really hope I will get the chance to do an official mo3 at a comp I am not hosting sometime! It's extremely hard to do everything at once.

@@ -1,0 +1,14 @@
+R' U' F U2 R' F2 U2 L' F2 L U2 B' U' B' L R' D2 U' R B' D' F' R' U' F
+F' U R F D B R' U D2 R L' B U B U2 L' F2 L U2 F2 R U2 F' U R
+
+L' U F' L' //EO
+(B R2 L2 B L2 B D) //DR (11)
+B R2 F U2 //222
+B' D2 R2 D2 R2 //2c2c (20)
+
+L' U F' L' B * # R2 F % U2 B' D2 R2 D2 R2 D' B' L2 B' L2 R2 B'
+* = U2 //(1-0) to 2e2e
+% = S2 //(2-1) to 4e4x
+# = U' R2 S2 R2 U //(6-1) to solved
+
+L' U F' L' B U R2 F2 Fw2 R2 U R2 F' Fw2 U2 B' D2 R2 D2 R2 D' B' L2 B' L2 R2 B' (27)

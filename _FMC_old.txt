@@ -1,0 +1,2191 @@
+R2 F U2 L2 F L2 U2 R2 D2 R2 B' D B' L2 D L' B F D F
+
+D' B' L F U F U2 F D F' D2 L D L' F (B D' B' U2 B D B' U2) L F' D' L2 D L F
+
+
+D' B' L F U F U2 F D F' D2 L D L' F (B D' B' U2 B D B' U2) L F' D' L2 D L F
+
+(L' U L D L' U' L D')D' B' L F U F U2 F D F' D2 L D L' F B D' B' U2 B D B' U2 L F' D' L2 D L F
+D' B' (B D B' U2 B D' B' U2) L F U F U2 F D F' D2 L D L' F B D' B' U2 B D B' U2 L F' D' L2 D L F
+D' B' L F U F U2 F D F' D2 L D L' F B D' B' U2 (R' F' R B2 R' F R B2) B D B' U2 L F' D' L2 D L F
+D' B' L F U F U2 F D F' D2 L D L' F B D' B' U2 B D B' U2 L F' D' L2 D L F (U' F D2 F' U F D2 F')
+D' B' L F U F U2 F D F' D2 L D L' F B D' B' U2 B D B' U2 L F' D' L2 D L F
+D' B' L F U F U2 F D F' D2 L D L' F B D' B' U2 B D B' U2 L F' D' L2 D L F
+
+
+
+
+
+Scramble: R2 F U2 L2 F L2 U2 R2 D2 R2 B' D B' L2 D L' B F D F
+
+Solve:
+Premove: F
+D' B' //Obvious 2x2
+L F U F U2 //2x2x3
+F D F' D' //F2L-1, and I don't like that corner there, so I transformed it into pseudo F2L-1, so that's premove F
+D' L D L' F L F' //EO
+D' L2 D L //Last pair+L4C
+
+Skeleton: D' B' L F U F U2 F D F' D L D L' F L F' D' L2 D L F
+Final solve: 
+D' B' L F U F U2 F D F' D2 L D L' F (B D' B' U2 B D B' U2) L F' D' L2 D L F
+D' B' L F U F U2 F D F' D2 L D L' F B D' B' U2 (R' F' R B2 R' F R B2) B D B' U2 L F' D' L2 D L F
+D' B' L F U F U2 F D F' D2 L D L' F B D' B' U2 R' F' R B2 R' F R B' D B' U2 L F' D' L2 D L F (37 HTM, 1 cancellation)
+
+-----------------------------------------------
+
+L D2 F L' U' D' L' D U' R' F U2 B2 F D' R D F' D2 F2 D2 F' L2 B2 F'
+B' F' U' D2 L' R F' L' F R' F' L2 F' D F2 L D L' F' L2 F2 L' F2 D2 F' U2 F D2 F' U2 R2 U'
+
+ B' F' U' D"//2x2x1+Premove (4/4)
+ (U R2) //2x2 (2/6)
+ (F' L F2 L2) //2x2x3 (4/10)
+ (F L D' L') //F2L-1, Premove D, put on normal scramble like D" (4/14)
+ D' L' F' L F' D F2 //L5C (7/21)
+
+ Skeleton: B' F' U' D2 L' F' L F' D F2 L D L' F' L2 F2 L' F R2 U' (20)
+ Insertion finding:
+ L D2 F L' U' D' L' D U' R' F U2 B2 F D' R D F' D2 F2 D2 F' L2 B2 F'
+ 1st:
+ (R' F' R B R' F R B')B' F' U' D2 L' F' L F' D F2 L D L' F' L2 F2 L' F R2 U'
+ B' F' U' D2 (D' L' D R' D' L D R) L' F' L F' D F2 L D L' F' L2 F2 L' F R2 U'
+ B' F' U' D2 L' F' (F R F' L' F R' F' L) L F' D F2 L D L' F' L2 F2 L' F R2 U'
+
+I use
+B' F' U' D2 L' R F' L' F R' F' L2 F' D F2 L D L' F' L2 F2 L' F R2 U'
+
+2nd:
+L D2 F L' U' D' L' D U' R' F U2 B2 F D' R D F' D2 F2 D2 F' L2 B2 F'
+
+B' F' U' D2 L' R F' L' F R' F' L2 F' D F2 L D L' F' L2 F2 L' F (F D2 F' U2 F D2 F' U2) R2 U'
+
+Final solve: B' F' U' D2 L' R F' L' F R' F' L2 F' D F2 L D L' F' L2 F2 L' F2 D2 F' U2 F D2 F' U2 R2 U' (32, 4 cancellations)
+
+-----------------------------------------------------------------------------------------
+Amazing historic date 5/10/14
+First sub-30
+
+Scramble: F2 B D R L F2 R' B' L2 U R2 L2 F R2 L D2 B' F2 L' U2
+Inverse scramble: (U2 L F2 B D2 L' R2 F' L2 R2 U' L2 B R F2 L' R' D' B' F2)
+
+(R F) //Premoves
+D' R' D' R B2 R' //2x2, Pre R'
+R U R' U2 F2 U' F2 //2x2x3, Pre F'
+B L' B' //F2L-1
+B' U' B U L U L' //L3C
+
+Skeleton: D' R' D' R B2 U R' U2 F2 U' F2 B L' B2 U' B U L U L' F' R'
+Solve backup: D' R' D' R B2 U R' U2 F2 U' F2 B L' B2 U' B U L U L' F' R' B D' B' U B D B' U'
+
+Insertion finding:
+
+D' R' D' R B2 U (F' L F R2 F' L' F R2) R' U2 F2 U' F2 B L' B2 U' B U L U L' F' R'
+
+Only one found
+
+Final solution:
+
+D' R' D' R B2 U F' L F R2 F' L' F R U2 F2 U' F2 B L' B2 U' B U L U L' F' R' (29 HTM, first sub 30)
+
+----------------------------------------------------------------------------------
+U2 F2 U2 F' L2 U2 B' U2 B' D' R D B R' U2 F2 D' F2
+(F2 D F2 U2 R B' D' R' D B U2 B U2 L2 F U2 F2 U2)
+
+B2 //Premoves
+D U2 F U2 B L2 B2 F' //2x2x3, Pre B2
+B R2 B' F' R' F R' D2 R2 D2 D R' D' R D R2 D' R //????
+IF:
+D U2 F U2 [@1] B L2 B' F' R2 B' F' R' F R' D2 R2 D' R' D' R D R2 D' R B2
+ Insert at @1: R2 B L2 B' R2 B L2 B'
+ After the 1st insertion: D U2 F U2 R2 B L2 B' R2 F' R2 B' F' R' [@2] F R' D2 R2 D' R' D' R D R2 D' R B2
+ Insert at @2: R B R' F' R B' R' F
+ Fewest moves: 30. 11 moves cancelled
+ The final solution: D U2 F U2 R2 B L2 B' R2 F' R2 F' R' F' R B' R' F2 R' D2 R2 D' R' D' R D R2 D' R B2 (30 HTM)
+
+-----------------------------------------------------------------------------------------
+Mezcla: D2 L2 B2 R2 B2 F2 U2 B2 D F2 U' L' B F2 R D2 F' L F2 U F2 
+Mezcla inversa: (F2 U' F2 L' F D2 R' F2 B' L U F2 D' B2 U2 F2 B2 R2 B2 L2 D2)
+
+(D' U') //Premoves
+D2 R' B' U B2 L2 U' D2 //2x2x3, Pre: U D
+U' R U D' F' D F R F' R' F2 U F U' F' //Final
+Skeleton: D2 R' B' U B2 L2 U2 D2 R U D' F' D F R F' R' F2 U F U' F' U D
+Insertions: D2 R' B' U * B2 L2 U2 D2 R + U D' F' D F R F' R' F2 U F U' F' U D
+* = U F2 U' B U F2 U' B'
++ = R' B2 R F' R' B2 R F
+Optimal: 33. Mine: 36.
+
+Insertion finding:
+
+1st:
+D2 R' B' (F' R F L2 F' R' F L2) U B2 L2 U2 D2 R U D' F' D F R F' R' F2 U F U' F' U D (8)
+D2 R' B' U (U F2 U' B U F2 U' B') B2 L2 U2 D2 R U D' F' D F R F' R' F2 U F U' F' U D (6)v
+Stop
+
+2nd:
+
+D2 R' B' U2 F2 U' B U F2 U' B (F D' F' U2 F D F' U2) L2 U2 D2 R U D' F' D F R F' R' F2 U F U' F' U D (8)
+D2 R' B' U2 F2 U' B U F2 U' B L2 U2 (U R' U' L2 U R U' L2) D2 R U D' F' D F R F' R' F2 U F U' F' U D (7)
+D2 R' B' U2 F2 U' B U F2 U' B L2 U2 D2 R (R' B2 R F' R' B2 R F) U D' F' D F R F' R' F2 U F U' F' U D (6)v
+D2 R' B' U2 F2 U' B U F2 U' B L2 U2 D2 R U D' F' D F R F' R' F2 U F U' F' (B' D2 B U' B' D2 B U) U D (7)
+
+End
+
+Final solve: D2 R' B' U2 F2 U' B U F2 U' B L2 U2 D2 B2 R F' R' B2 R F U D' F' D F R F' R' F2 U F U' F' U D (36 HTM)
+------------------------------------------------------------------------------------------------------------
+R2 D L2 R2 U' B2 D B2 U2 F2 U2 B' D B F2 U' F' R F2 R2 
+(R2 F2 R' F U F2 B' D' B U2 F2 U2 B2 D' B2 U R2 L2 D' R2)
+
+
++ U2 * L2 F' U2 F //2x2
+L B L' D //2x2x3
+R2 B2 U B R B' U' //F2L-1
+(B' R2 B U R' U' R' B' R B R) //L4C
+* = U R U' L' U R' U' L
++ = R' D R U' R' D' R U
+
+Skeleton: U2 L2 F' U2 F L B L' D R2 B2 U B R B' U' R' B' R' B R U R U' B' R2 B
+
+Insertions:
+1st
+
+U2 (U R U' L' U R' U' L) L2 F' U2 F L B L' D R2 B2 U B R B' U' R' B' R' B R U R U' B' R2 B -6
+
+2nd
+
+(R' D R U' R' D' R U)U' R U' L' U R' U' L' F' U2 F L B L' D R2 B2 U B R B' U' R' B' R' B R U R U' B' R2 B -5
+U' R U' (F' R F L2 F' R' F L2) L' U R' U' L' F' U2 F L B L' D R2 B2 U B R B' U' R' B' R' B R U R U' B' R2 B -7
+U' R U' L' U R' U' L' F' U2 (R' B R F R' B' R F') F L B L' D R2 B2 U B R B' U' R' B' R' B R U R U' B' R2 B -6
+
+Final solution: R' D R U' R' D' R2 U' L' U R' U' L' F' U2 F L B L' D R2 B2 U B R B' U' R' B' R' B R U R U' B' R2 B (38)
+
+---------------------------------
+
+Scramble: U' B' U' F2 L' U' R L F' U' R2 F' U2 B R2 F R2 B L2 U2 D2
+Inverse: D2 U2 L2 B' R2 F' R2 B' U2 F R2 U F L' R' U L F2 U B U
+
+Skeleton:
+(B R)//Premoves
+R' B' L2 B L2 B' //2x2
+F' D' R D2 R2 [F]//2x2x3 [F] is premove from inverse
+(L D L' F2) //F2L-1
+R' D R D' F D F' D //L3C
+L' F' L B' L' F L B //Done -> Insert wherever you want
+
+
+R' B' L2 B L2 B' F' D' R D2 R2 F R' D R D' F D F' D F2 L D' L' R' B' U R2 U' L U R2 U' L' (34) HTM
+
+No will of doing insertions. Could've been sub-30
+
+
+-------------------------------------------------------
+
+Scramble: R2 F U2 B D2 F B' R D L R2 D2 L U2 B' R' F2 L2 B2 R
+Inverse: R' B2 L2 F2 R B U2 L' D2 R2 L' D' R' B F' D2 B' U2 F' R2
+
+Skeleton:
+R' B2 //Premoves
+D R U2 B2 //2x2
+D' R' F' D R' //2x2x3
+F D2 F2 D2 F' D' F D F' //F2L
+F' D' R D F D' F' R' F //LL
+
+Final solve: D R U2 B2 D' R' F' D R' F D2 F2 D2 F' D' F D F2 D' R D F D' F' R' F R' B2 (28 HTM) PB
+
+-----------------------------------------------------------------------------------------------------
+
+Scramble: F2 D' F2 D L2 F2 D L2 U' L2 D B' U L D L U' L2 B' R2 U' 
+Inverse: U R2 B L2 U L' D' L' U' B D' L2 U L2 D' F2 L2 D' F2 D F2
+
+(D F2 L D) //2x2
+(B L' U' B2) //2x2x3
+(F' L F L' U2 L2) //F2L
+F U R U2 R' U2 F' //More blocks
+L U F U' F' L' //OLL
+R U2 R' U' R U2 L' U R' U' L U //PLL
+
+F U R U2 R' U2 F' L U F U' F' L' R U2 R' U' R U2 L' U R' U' L U L2 U2 L F' L' F B2 U L B' D' L' F2 D' (39 HTM)
+
+Or
+
+F R L2 //Premoves
+D F2 B' U' D2 L2 //2x2 Pre L2
+U' L' R' U' L R2 //2x2x2 Pre R F
+R L' U L R' //Pair
+U F' L' U' L U' F //Magic
+R F' U2 F U F' U2 B U' F U B' R' //Setup+ JPerm
+
+D F2 B' U' D2 L2 U' L' R' U' R' U L R' U F' L' U' L U' F R F' U2 F U F' U2 B U' F U B' R' F R L2 (37 HTM)
+
+--------------------------------------------------------------------------------------------------------
+
+Scramble: F L' R' F2 U B' R B2 R' U2 L' R' F2 L' B R2 L F2 U2 D'
+Inverse: D U2 F2 L' R2 B' L F2 R L U2 R B2 R' B U' F2 R L F'
+
+U B2 //Pre
+
+D' B' D L2 //2x2
+U' D B D' //2x2x3
+U R' U' //F2L-1
+(F R2 D R' D' F' R) //Blocks
+U' R U R' //L4C
+
+Skeleton: D' B' D L2 U' D B D' U R' U2 R U R2 F D R D' R2 F' U B2 (22 HTM)
+
+Insertions:
+1st: *
+D' B' D L2 U' D B D' U R' U2 R U R2 F [F2 R2 F' L' F R2 F' L F'] D R D' R2 F' U B2 (TOTAL: 30, 1 CANC)
+D' B' D L2 U' D B D' U R' U2 R U R2 F D R [R B2 R' F' R B2 R' F] D' R2 F' U B2 (TOTAL: 29, 1 CANC)
+D' B' D L2 U' D B D' U R' U2 R U R2 F D R D' R2 F' [D L2 D' R' D L2 D' R] U B2 (TOTAL: 30, 0 CANC)
+D' B' D L2 U' D B D' U R' U2 R U R2 F D R D' R2 F' U [L F2 L' B2 L F2 L' B2] B2 (TOTAL: 28, 1 CANC) -this
+2nd: +
+D' B' [F2 L B' L' F2 L B L'] D L2 U' D B D' U R' U2 R U R2 F D R D' R2 F' U L F2 L' B2 L F2 L' (TOTAL: 36, 0 CANC)
+D' B' D L2 U' D B D' U R' U2 R U R2 F D R D' [R U' L2 U R' U' L2 U] R2 F' U L F2 L' B2 L F2 L' (TOTAL: 36, 0 CANC)
+D' B' D L2 U' D B D' U R' U2 R U R2 F D R D' R2 [R F L F' R' F L' F'] F' U L F2 L' B2 L F2 L' (TOTAL: 34, 2 CANC) -this
+D' B' D L2 U' D B D' U R' U2 R U R2 F D R D' R2 F' [F' U' F D' F' U F D] U L F2 L' B2 L F2 L' (TOTAL: 35, 1 CANC)
+
+D' B' D L2 U' D B D' U R' U2 R U R2 F D R D' R2 + F' U * B2
+
+Final solve: D' B' D L2 U' D B D' U R' U2 R U R2 F D R D' R' F L F' R' F L' F2 U L F2 L' B2 L F2 L' (34 HTM)
+
+-----------------------------------------------------------------------
+
+Scramble: R' B' R F' B D' B' R' F' B2 U2 F2 D2 R F2 L2 F2 L B2 R 
+Inverse: R' B2 L' F2 L2 F2 R' D2 F2 U2 B2 F R B D B' F R' B R
+
+L' B' R //Premoves
+
+L' B R2 //2x2
+D2 B2 D' B //2x2x3
+F' D' F L' D' L' //F2L-1
+(L' D' L D2) //Tripod
+L' D L D2 B D B' //L3C
+
+Skeleton: L' B R2 D2 B2 D' B F' D' F L' D' L2 D L D2 B D B' D2 L' D B' R (24)
+
+Insertion:
+[D2 L' U' L D2 L' U L]L' B R2 D2 B2 D' B F' D' F L' D' L2 D L D2 B D B' D2 L' D B' R [30, 2 CANC] *same
+L' [L D2 L' U' L D2 L' U] B R2 D2 B2 D' B F' D' F L' D' L2 D L D2 B D B' D2 L' D B' R [30, 2 CANC] *as this
+L' B R2 D2 B2 D' B F' D' F L' [B' U' B D' B' U B D] D' L2 D L D2 B D B' D2 L' D B' R [30, 2 CANC] +same
+L' B R2 D2 B2 D' B F' D' F L' D' [D B' U' B D' B' U B] L2 D L D2 B D B' D2 L' D B' R [30, 2 CANC] +as this
+
+Solution 1: D2 L' U' L D2 L' U B R2 D2 B2 D' B F' D' F L' D' L2 D L D2 B D B' D2 L' D B' R (30 HTM)
+
+Solution 2: L' B R2 D2 B2 D' B F' D' F L' B' U' B D' B' U B L2 D L D2 B D B' D2 L' D B' R (30 HTM)
+
+----------------------------------------------------------------------------
+
+Scramble: D2 F2 B' U' F' D' U2 R2 L' D' F L' R2 D' F' L' U' L B2 F
+Inverse: F' B2 L' U L F D R2 L F' D L R2 U2 D F U B F2 D2
+
+(D' B2) //Premoves
+D' B2 D' //2x2 Premove D
+U L U' L' B2 //2x2x3 Premove B2
+U B' F U F' B //F2L-1
+(L2 B L' B' L2 U' L' U) //F2L
+(D L2 D' L' D L' D' L') //OLL+PLLSkip
+
+Final solve: D' B2 D' U L U' L' B2 U B' F U F' B L D L D' L D L2 D' U' L U L2 B L B' L2 B2 D (32 HTM)
+
+--------------------------------------------------------------------------------
+
+Scramble: F2 B R B' U D2 B R' F2 B' L' U' F2 D R' U' L2 R F U2
+Inverse: U2 F' R' L2 U R D' F2 U L B F2 R B' D2 U' B R' B' F2
+
+
+B U' F R2 U' R' D' F2 L2 //2x2x3
+L' F' L2 D L' //EO
+F D2 F2 D2 F' //F2L -> Premove F2
+D2 //L4C
+
+B U' F R2 U' R' * D' F2 L F' L2 D L' F D2 F2 D2 F' D2 F2
+
+* : R U2 R' D R + U2 R' D'
++ : R' B2 R F' R' B2 R F
+
+Final solve: B U' F R2 U R' D B2 R F' R' B2 R F U2 R' D2 F2 L F' L2 D L' F D2 F2 D2 F' D2 F2 (30 HTM)
+
+---------------------------------------------------------------------------------------
+
+Scramble: L2 R2 D' L2 D L2 B2 D R2 U2 B2 L' F D' L R D' L' D2 B' F2 
+Inverse: F2 B D2 L D R' L' D F' L B2 U2 R2 D' B2 L2 D' L2 D R2 L2
+
+D R' B L' B F2 U2 F' U B'//2x2x3
+R2 D R D2 R D R' D' R' D R //L3C
+
+Skeleton: D R' B L' B F2 U2 F' U B' R2 D R D2 R D R' D' R' D R (21 HTM)
+
+Insertions:
+D R' B [R' D2 R U2 R' D2 R U2] L' B F2 U2 F' U B' R2 D R D2 R D R' D' R' D R (21+8=29)
+D R' B L' B [L B' L' F2 L B L' F2] F2 U2 F' U B' R2 D R D2 R D R' D' R' D R (21+8-2=27)
+D R' B L' B F2 U2 F' U B' R2 D R [B U B' D2 B U' B' D2] D2 R D R' D' R' D R (21+8-2=27)
+
+Final solve: D R' B L' B F2 U2 F' U B' R2 D R B U B' D2 B U' B' R D R' D' R' D R (27 HTM) PB
+
+-------------------------------------------------------------------------------------
+
+Scramble: L2 U2 L R B' L' F' B D' F B D2 F L2 D2 F2 L2 R2 B L
+Inverse: L' B' R2 L2 F2 D2 L2 F' D2 B' F' D B' F L B R' L' U2 L2
+
+(U') //Premoves
+U2 L2 R U' //2x2 -> Premove U
+(D' L2 D R D' R') //2x2x3
+(B' L' U' L2 U L') //F2L-1
+(B' D' B D2 L' D' L B') //L3C
+
+Skeleton: U2 L2 R U' B L' D L D2 B' D B L U' L2 U L B R D R' D' L2 D U (25 HTM)
+
+Insertions:
+U2 L2 R U' B L' [R' F2 R B R' F2 R B'] D L D2 B' D B L U' L2 U L B R D R' D' L2 D U (25+8=33)
+U2 L2 R U' B L' D L D2 B' D B L [F' D2 F U' F' D2 F U] U' L2 U L B R D R' D' L2 D U (25+8-2=31)
+U2 L2 R U' B L' D L D2 B' D B L U' [U F' D2 F U' F' D2 F] L2 U L B R D R' D' L2 D U (25+8-2=31)
+U2 L2 R U' B L' D L D2 B' D B L U' L2 U L [L2 U R' U' L2 U R U'] B R D R' D' L2 D U (25+8-1=32)
+
+Final solve: U2 L2 R U' B L' D L D2 B' D B L F' D2 F U' F' D2 F L2 U L B R D R' D' L2 D U (31 HTM)
+
+-------------------------------------------------------------------------------------------
+
+Scramble: R2 B2 U2 R2 B2 R B2 L D2 L2 B U F U F' D2 F' L2 R U'
+Inverse: U R' L2 F D2 F U' F' U' B' L2 D2 L' B2 R' B2 R2 U2 B2 R2
+
+
+(R' L' U' L2 F U' F' D B L2) //2x2x3
+(D') //Premove
+R' B' R2 D R' //EO
+B D //F2L-1 -> Premove D
+(B' R' B R B2 R' B R) //U perm
+B2 U D' R2 D U' //L3E
+
+Skeleton: R' B' R2 D R' B D R' B' R B2 R' B' R B D L2 B' D' F U F' L2 U L R (26)
+
+Insertion:
+R' B' R2 D R' B D R' B' R B2 R' B' R B D L2 B' D' F U F' L2 U L R (B2 U D' R2 D U') (26+6=32)
+R' B' R2 D R' B D R' B' R B2 R' B' R B D L2 B' D' (D' F' D S2 D' F D S2) F U F' L2 U L R (26+10-1=35)
+R' B' R2 D R' B D R' B' R B2 R' B' R B D L2 B' D' F U F' L2 U (D2 F' B R2 F B') L R (26+6=32)
+
+Final solution: R' B' R2 D R' B D R' B' R B2 R' B' R B D L2 B' D' F U F' L2 U L R B2 U D' R2 D U' (32)
+
+---------------------------------------------------------------------------------------------------
+
+Scramble: L' R D2 R2 B2 D2 R2 B2 U2 R2 U' L' R2 D2 R' U2 F D2 B' U'
+Inverse: U B D2 F' U2 R D2 R2 L U R2 U2 B2 R2 D2 B2 R2 D2 R' L
+
+(F' L) //Premoves
+U' L2 F L2 D R2 F2 //Blocks -> Premove F
+L' B U B' //2x2x3+rest
+L2 B' U2 B L2 //F2L-1 -> Premove L'
+F U F' //EO+Pair
+(U2 L' U L) //F2L
+F' U2 F L U' F' U' F U L' U2 //ZBLL
+
+Final solve: U' L2 F L2 D R2 F2 L' B U B' L2 B' U2 B L2 F U F2 U2 F L U' F' U' F U L' U2 L' U' L U2 L' F (35 HTM)
+
+-------------------------------------------------------------------------------------------------------
+
+Scramble: U2 R L2 F' R' L' B U2 F U' L2 B2 R2 D L2 U R2 L2 F2 L2
+Inverse: L2 F2 L2 R2 U' L2 D' R2 B2 L2 U F' U2 B' L R F L2 R' U2
+
+(L D B') //Premoves
+U' B2 U F' L //2x2 -> Premove L'
+L' F' D2 F L D' //2x2x3 -> Premove D'
+R' L' D' L B2 //F2L-1-Edge -> Premove B
+(B R B') //EO
+R D2 R2 D' R2 D2 //F2L
+B R B' R B R2 B' //OLL->3PairCycle
+U2 L' B2 L B2 R' B2 R B2 U2 //OptimalLPerm
+
+Skeleton: U' B2 U F' L L' F' D2 F L D' R' L' D' L B2 R D2 R2 D' R2 D2 B R B' R B R2 B' U2 L' B2 L B2 R' B2 R B2 U2 B R' B' B D' L'
+
+Final solve: U' B2 U F2 D2 F L D' R' L' D' L B2 R D2 R2 D' R2 D2 B R B' R B R2 B' U2 L' B2 L B2 R' B2 R B2 U2 B R' D' L' (40 :( ) [pésima]
+
+
+----------------------------------------------------------------------------------------------------
+
+Scramble: L2 B R2 U2 L' F' B R' B2 U2 L2 U' L2 D' B2 R2 D2 L2 U
+Inverse: U' L2 D2 R2 B2 D L2 U L2 U2 B2 R B' F L U2 R2 B' L2
+
+D2 B //Premoves
+(B' R B2 R2 L F' R' D' R B2) //2x2x3 -> Premoves B' D2
+(U) //Premove
+U' F' U' F //F2L-1 -> Premove U'
+R' U //Premoves
+(R' U R U' R U R) //Tripod -> Premoves U' R
+(U F' U' F R' F R F') //L3C
+
+Skeleton: D2 B U' F' U' F R' U F R' F' R F' U F U' R' U' R' U R' U' R U' B2 R' D R F L' R2 B2 R' B (34 :( )
+
+Insertion:
+[F' R' F L' F' R F L]D2 B U' F' U' F R' U F R' F' R F' U F U' R' U' R' U R' U' R U' B2 R' D R F L' R2 B2 R' B (34+8=42)
+D2 B U' F' U' [U2 B' D' B U2 B' D B] F R' U F R' F' R F' U F U' R' U' R' U R' U' R U' B2 R' D R F L' R2 B2 R' B (34+8-1=41)
+D2 B U' F' U' F R' U F R' F' R F' U F [F L2 F' R' F L2 F' R] U' R' U' R' U R' U' R U' B2 R' D R F L' R2 B2 R' B (34+8-1=41)
+D2 B U' F' U' F R' U F R' F' R F' U F U' R' U' R' [R B R' F' R B' R' F] U R' U' R U' B2 R' D R F L' R2 B2 R' B (34+8-2=40)
+D2 B U' F' U' F R' U F R' F' R F' U F U' R' U' R' U R' U' R [F' U' B' U F U' B U] U' B2 R' D R F L' R2 B2 R' B (34+8-3=39)
+D2 B U' F' U' F R' U F R' F' R F' U F U' R' U' R' U R' U' R U' [U F' U' B' U F U' B] B2 R' D R F L' R2 B2 R' B (34+8-3=39)
+D2 B U' F' U' F R' U F R' F' R F' U F U' R' U' R' U R' U' R U' B2 [D L D' R' D L' D' R] R' D R F L' R2 B2 R' B (34+8-4!!=38)
+
+Final solve: D2 B U' F' U' F R' U F R' F' R F' U F U' R' U' R' U R' U' R U' B2 D L D' R' D L' R F L' R2 B2 R' B (38 HTM) [malísima]
+
+-----------------------------------------------------------------------------------------
+
+Scramble: U' F2 U F2 D R2 B2 D2 F2 D2 U' B' L U' B2 F2 R2 D L' R
+Inverse: R' L D' R2 F2 B2 U L' B U D2 F2 D2 B2 R2 D' F2 U' F2 U
+
+(F) //Premove
+L D2 R2 B U' F //2x2x3 -> Premove F'
+R2 D R2 D //F2L-1
+R' F' R F //F2L
+D B' D' R' D R B R' D' //L3C
+
+Skeleton: L D2 R2 B U' F R2 D R2 D R' F' R F D B' D' R' D R B R' D' F' (24)
+
+Insertion:
+L [F' L B2 L' F L B2 L'] D2 R2 B U' F R2 D R2 D R' F' R F D B' D' R' D R B R' D' F' (24+8=32)
+L D2 R2 [R' D' L D R D' L' D] B U' F R2 D R2 D R' F' R F D B' D' R' D R B R' D' F' (24+8-1=31)
+L D2 R2 B U' [D B' D' F D B D' F'] F R2 D R2 D R' F' R F D B' D' R' D R B R' D' F' (24+8-2=30)
+L D2 R2 B U' F R2 D R2 D R' F' R [R D R' U2 R D' R' U2] F D B' D' R' D R B R' D' F' (24+8-1-31)
+
+Final solve: L D2 R2 B U' D B' D' F D B D' R2 D R2 D R' F' R F D B' D' R' D R B R' D' F' (30)
+
+
+------------------------------------------------------------------------------------------
+
+Scramble: F2 U' D2 R F2 D' U' F R' L2 B R2 D F' B L' D2 F' L' D
+Inverse: D' L F D2 L B' F D' R2 B' L2 R F' U D F2 R' D2 U F2
+
+R2 //Premove
+(F' B U) //2x2 -> Premove R2
+(L) //Premove
+(D') //Premove
+L2 D2 L2 //2x2x3 -> Premove L'
+R' B' R D2 //F2L-1 -> Premove D
+B D' B' D L B2 L' //F2L
+L B L' B L B2 L' //OLL
+U2 F R2 F' U2 L2 F' D2 F L2 //OptimalTPerm
+
+Final Solve: R2 L2 D2 L2 R' B' R D2 B D' B' D L B' L' B L B2 L' U2 F R2 F' U2 L2 F' D2 F L2 D L' U' B' F (34)
+
+-----------------------------------------------------------------------------------------
+
+Scramble: U2 F' R2 F R2 F2 L2 U2 L2 F' U2 R U' B' R2 F R F' L2 D' U2 
+Inverse: U2 D L2 F R' F' R2 B U R' U2 F L2 U2 L2 F2 R2 F' R2 F U2
+
+F' //2 Pairs
+D2 L F' L D2 //2x2 Pre D
+F2 U' R2 D2 R' U R D' //F2L-2
+(U' R B' R' B2 U2) //F2L-1
+(B' R B' R' B R' U R U') //L4C
+
+Skeleton: F' D2 L F' L D2 F2 U' R2 D2 R' U R D' U R' U' R B' R B R' B U2 B2 R B R' U (29)
+
+Insertion 1:
+(D' R' D L' D' R D L) F' D2 L F' L D2 F2 U' R2 D2 R' U R D' U R' U' R B' R B R' B U2 B2 R B R' U //0
+F' D2 (D' B D F D' B' D F') L F' L D2 F2 U' R2 D2 R' U R D' U R' U' R B' R B R' B U2 B2 R B R' U //-1
+F' D2 L F' L D2 (U2 F D F' U2 F D' F') F2 U' R2 D2 R' U R D' U R' U' R B' R B R' B U2 B2 R B R' U //-1
+F' D2 L F' L D2 F2 U' R2 D2 R' U R (B' R' F2 R B R' F2 R) D' U R' U' R B' R B R' B U2 B2 R B R' U //0
+F' D2 L F' L D2 F2 U' R2 D2 R' U R D' (D' R D L' D' R' D L) U R' U' R B' R B R' B U2 B2 R B R' U //-1
+F' D2 L F' L D2 F2 U' R2 D2 R' U R D' U (U' L U R U' L' U R') R' U' R B' R B R' B U2 B2 R B R' U //-3 (Resulting in 34 moves)
+
+Insertion 2:
+(U' F' U B' U' F U B) F' D2 L F' L D2 F2 U' R2 D2 R' U R D' L U R U' L' U R2 U' R B' R B R' B U2 B2 R B R' U //0
+F' (L U L' D' L U' L' D) D2 L F' L D2 F2 U' R2 D2 R' U R D' L U R U' L' U R2 U' R B' R B R' B U2 B2 R B R' U //-1
+F' D2 L F' (D2 L' U L D2 L' U' L) L D2 F2 U' R2 D2 R' U R D' L U R U' L' U R2 U' R B' R B R' B U2 B2 R B R' U //-1
+
+Final solve: F' D2 L F' D2 L' U L D2 L' U' L2 D2 F2 U' R2 D2 R' U R D' L U R U' L' U R2 U' R B' R B R' B U2 B2 R B R' U (41!!) horrible
+
+--------------------------------------------
+
+Scramble: B' R' F L2 R2 F2 U2 L U R' F U L R2 F2 L' D' B' R2 L
+Inverse: L' R2 B D L F2 R2 L' U' F' R U' L' U2 F2 R2 L2 F' R B
+
+R2 D B2 //2x2x1
+(L' B L) //2x2x2
+(F R F' R' U2) //2x2x3
+(D B R' B' D' R) //Blocks Pre U' R2
+R2 U //Premove
+F R' F R //F2L
+D F R F' R' D' L D F D' F' L' //OLL+PLL skip
+
+Final solve: R2 D B2 R2 U F R' F R D F R F' R' D' L D F D' F' L' R' D B R B' D' U2 R F R' F' L' B' L (35 HTM)
+
+--------------------------------------------------------
+25th 
+
+Scramble: R2 F' U' B R2 D' F' L U2 D' R' L F2 U B F L R F' B'
+Inverse: B F R' L' F' B' U' F2 L' R D U2 L' F D R2 B' U F R2
+
+(B) //Premove
+U2 R L' D F2 L U B2 U' //Pseudo 2x2x3, Premove B'
+D' R' D L2 D' R D //Semi-commutator to F2L-1
+B D B' L' D2 L //F2L+EO
+F' D2 F2 D F2 D F2 D2 F' //L3C
+
+Skeleton: U2 R L' D F2 L U B2 U' D' R' D L2 D' R D B D B' L' D2 L F' D2 F2 D F2 D F2 D2 F' B' (32)
+
+Backup solve: U2 R L' D F2 L U B2 U' D' R' D L2 D' R D B D B' L' D2 L F' D2 F2 D F2 D F2 D2 L' F B2 R' F R B2 R2 B' (39)
+
+Insertion:
+U2 R (D R D' L' D R' D' L) L' D F2 L U B2 U' D' R' D L2 D' R D B D B' L' D2 L F' D2 F2 D F2 D F2 D2 F' B' (32+8-4)
+
+Final solve: U2 R D R D' L' D R' F2 L U B2 U' D' R' D L2 D' R D B D B' L' D2 L F' D2 F2 D F2 D F2 D2 F' B' (36 HTM)
+
+---------------------------------------------------------------------------------------------
+26th
+
+Scramble: L' R' U D F2 U D2 B U' L' R2 B U' F L2 R2 U2 L2 B' R'  
+Inverse: R B L2 U2 R2 L2 F' U B' R2 L U B' D2 U' F2 D' U' R L
+
+L' F' U' B2 F U //2x2
+(B2) //Pair
+L D2 B' L' D2 B2 D B2 D2 //Blocks  
+B' D L' D' L B' L' B L' D L D' //To LL  
+D B2 D' B' D B' D' B2 //L3C
+
+Backup solve n1: B R2 L F' D F' R U R' D2 R' U2 R L U2 L' R U' R' F U' F' U B L' B' L2 U L' U L U2 L' R' U2 R U R' U2 L U' R U L' U (45 HTM)
+Backup solve n2: L' F' U' B2 F U L D2 B' L' D2 B2 D B2 D2 B' D L' D' L B' L' B L' D L B2 D' B' D B' D L2 D R D' L2 D R' D (40 HTM)
+
+Skeleton: L' F' U' B2 F U L D2 B' L' D2 B2 D B2 D2 B' D L' D' L B' L' B L' D L B2 D' B' D B' D' (32)
+
+Insertion:
+(L D L' U L D' L' U') L' F' U' B2 F U L D2 B' L' D2 B2 D B2 D2 B' D L' D' L B' L' B L' D L B2 D' B' D B' D' (+8-0=40)
+L' (R B' R' F R B R' F') F' U' B2 F U L D2 B' L' D2 B2 D B2 D2 B' D L' D' L B' L' B L' D L B2 D' B' D B' D' (+8-1=39)
+L' F' U' B2 F U (B' R2 B L' B' R2 B L) L D2 B' L' D2 B2 D B2 D2 B' D L' D' L B' L' B L' D L B2 D' B' D B' D' (+8-1=39)
+L' F' U' B2 F U L D2 B' L' (F U' F' D F U F' D') D2 B2 D B2 D2 B' D L' D' L B' L' B L' D L B2 D' B' D B' D' (+8-1=39)
+L' F' U' B2 F U L D2 B' L' D2 (D' R U2 R' D R U2 R') B2 D B2 D2 B' D L' D' L B' L' B L' D L B2 D' B' D B' D' (+8-1=39)
+L' F' U' B2 F U L D2 B' L' D2 B2 D B2 D2 B' (R' U R D2 R' U' R D2) D L' D' L B' L' B L' D L B2 D' B' D B' D' (+8-1=39)
+L' F' U' B2 F U L D2 B' L' D2 B2 D B2 D2 B' D L' D' L B' L' B L' D L B2 D' B' D B' D' (D2 L2 D R D' L2 D R' D) (+9-1=40)
+
+Final solve: L' F' U' B2 F U B' R2 B L' B' R2 B L2 D2 B' L' D2 B2 D B2 D2 B' D L' D' L B' L' B L' D L B2 D' B' D B' D' (39 HTM)
+
+-------------------------------------------------------
+27th
+
+Scramble: R F2 B D2 L2 F2 B' D F2 U D B' L F2 R2 B U2 R F' U'
+Inverse: U F R' U2 B' R2 F2 L' B D' U' F2 D' B F2 L2 D2 B' F2 R'
+
+L2 F' L' B' L' B2 L' F2 B2 //2x2x3
+(D2 R' D R) //F2L-1 pseudo, premove R2
+R2 //Premove
+R D R' //Pair
+
+L' u2 L D' L' u2 L D -> Pair cycle, translated below
+
+L' D2 R D' R' D2 L //Pair cycle to L3C
+B2 R2 B L B' R2 B L' B //A PLL
+
+Backup solve: L2 F' L' B' L' B2 L' F2 B2 R' D R' L' D2 R D' R' D2 L B2 R2 B L B' R2 B L' B R' D' R D2 (32 HTM)
+Skeleton: L2 F' L' B' L' B2 L' F2 B2 R' D R' L' D2 R D' R' D2 L R' D' R D2 (23)
+
+Insertion:
+L2 F' L' B' L' B2 L' F2 B2 R' D R' L' D2 R D' R' D2 L R' D' R D2 (D' R2 D L D' R2 D L') +8-1=30
+L2 F' L' B' L' B2 (D L' U L D' L' U' L) L' F2 B2 R' D R' L' D2 R D' R' D2 L R' D' R D2 +8-2=29
+L2 F' L' B' L' B2 L' (L D L' U L D' L' U') F2 B2 R' D R' L' D2 R D' R' D2 L R' D' R D2 +8-2=29
+L2 F' L' B' L' B2 L' F2 B2 R' D (F L' F' R F L F' R') R' L' D2 R D' R' D2 L R' D' R D2 +8-1=30
+
+Final solve: L2 F' L' B' L' B2 D L' U L D' L' U' F2 B2 R' D R' L' D2 R D' R' D2 L R' D' R D2 (29 HTM)
+
+First sub-30 of the year!
+Nice solve, after the 9-move 2x2x3 every edge was oriented :)
+I'm happy with the result.
+Insertions are optimals :) That's even better!
+
+----------------------------------
+28th
+
+Scramble: L' U' D' R L2 B' F2 U2 L' B2 U2 R' F L' U D' F2 R2 B2 F'
+Inverse: F B2 R2 F2 D U' L F' R U2 B2 L U2 F2 B L2 R' D U L
+
+L //Pairs
+B F R2 //2x2
+F U L //2x2x1
+F' B' U' B2 L2 B' //Pseudo F2L-1, Premoves L2 F2
+(F2 L2) //Premoves
+
+L U' L' B' U' B U' B' U' B U2 //L4C in 26 moves
+
+Backup solve: L B F R2 F U L F' B' U' B2 L2 B' L U' L' B' U' B U' B' U' B U2 L2 F' L' F' R' F L F' R D R' F2 R D' R' D F2 D' R (43)
+
+or
+
+L //Pairs
+B F R2 //2x2
+F U L //2x2x1
+F' B' U' B2 L2 B' L //Pseudo F2L-1, Premoves L F2
+(F2 L') //Premoves
+U F U' F' U' F U' F' //L3C in 24
+
+Skeleton: L B F R2 F U L F' B' U' B2 L2 B' L U F U' F' U' F U' F' L F2 (24)
+Backup solve: L B F R2 F U L F' B' U' B2 L2 B' L U F U' F' U' F U' F' L F2 L D L' U L D' L' U' (32)
+
+Insertion:
+L (D' F D B D' F' D B') B F R2 F U L F' B' U' B2 L2 B' L U F U' F' U' F U' F' L F2 +8-2=30
+L B F R2 F U L F' B' U' B2 L2 B' L U F U' F' (F' D' F U2 F' D F U2) U' F U' F' L F2 +8-2=30
+L B F R2 F U L F' B' U' B2 L2 B' L U F U' F' U' F U' (U L U' R U L' U' R') F' L F2 +8-2=30
+L B F R2 F U L F' B' U' B2 L2 B' L U F U' F' U' F U' F' (L D L' U L D' L' U') L F2 +8-0=32
+L B F R2 F U L F' B' U' B2 L2 B' L U F U' F' U' F U' F' L (B U2 B' D' B U2 B' D) F2 +8-0=32
+
+Final solve: L B F R2 F U L F' B' U' B2 L2 B' L U F U' F' U' F L U' R U L' U' R' F' L F2 (30 HTM)
+
+Found in 30 minutes, optimal insertions give 29 
+
+--------------------------------------------------------
+29th
+
+Scramble: R' F2 U2 R' F2 L F2 D2 U2 L' B2 D L' F' R2 U L B2 L2 D
+Inverse: D' L2 B2 L' U' R2 F L D' B2 L U2 D2 F2 L' F2 R U2 F2 R
+17:31
+
+U' L' D R' U2 R' L2 D2 R2 //Pseudo 2x2x3, Pre R' L'
+(L R) //Premoves
+R L' D L R2 B' R //EO and blocks
+B' D2 B' D2 B2 D2 B' D2 B D' //L3C
+
+Skeleton: U' L' D R' U2 R' L2 D2 R' L' D L R2 B' R B' D2 B' D2 B2 D2 B' D2 B D' R' L' (27)"+8=35"
+Backup solve: U' L' D R' U2 R' L2 D2 R' L' D L R2 B' R B' D2 B' D2 B2 D2 B' D2 B D' F L F' R F L' F' R2 L' (34)
+
+Insertion:
+U' L' (L U2 L' D' L U2 L' D) D R' U2 R' L2 D2 R' L' D L R2 B' R B' D2 B' D2 B2 D2 B' D2 B D' R' L' +8-4=31
+U' L' D (D F' U' F D' F' U F) R' U2 R' L2 D2 R' L' D L R2 B' R B' D2 B' D2 B2 D2 B' D2 B D' R' L' +8-1=34
+U' L' D R' U2 (B' L B R' B' L' B R) R' L2 D2 R' L' D L R2 B' R B' D2 B' D2 B2 D2 B' D2 B D' R' L' +8-2=33
+U' L' D R' U2 R' L2 D2 R' L' D L R2 B' R B' (B' R' B L2 B' R B L2) D2 B' D2 B2 D2 B' D2 B D' R' L' +8-1=34
+U' L' D R' U2 R' L2 D2 R' L' D L R2 B' R B' D2 B' D2 B2 D2 B' D2 B (B' L' F L B L' F' L) D' R' L' +8-2=33
+U' L' D R' U2 R' L2 D2 R' L' D L R2 B' R B' D2 B' D2 B2 D2 B' D2 B D' R' L' (B' L2 B R B' L2 B R') +8-0=35
+
+Final solve: U L' D' L U2 L' D2 R' U2 R' L2 D2 R' L' D L R2 B' R B' D2 B' D2 B2 D2 B' D2 B D' R' L' (31)
+-------------------------------------------------------------------------
+30th
+
+Scramble: U' R2 B2 D' R2 D2 L2 D' L2 D' F' R' B L' D2 U B2 L2 F U' 
+Inverse: U F' L2 B2 U' D2 L B' R F D L2 D L2 D2 R2 D B2 R2 U
+
+R2 U' R' B' L F' B2 D2 R D //2x2x3+blocks
+(R D R' B L B L' B) //Pseudo F2L, Pre B2
+B2 //Premove
+L D L' D L D' L' D L D2 L' //To L3E
+L B' L' S L B L' S' //L3E -> L B' L' F' B D B D' F B'
+
+Backup solve: R2 U' R' B' L F' B2 D2 R D B2 L D L' D L D' L' D L D2 B' L' F' B D B D' F B2 L B' L' B' R D' R' (37) (final solve)
+
+R2 U' R' B' L F' B2 D2 R D //2x2x3+blocks
+(R D R' B L B L' B) //Pseudo F2L, Pre B2
+B2 //Premove
+R' D' B' D B R //To L4C
+
+Skeleton: R2 U' R' B' L F' B2 D2 R D B2 R' D' B' D B R B' L B' L' B' R D' R' (25)
+
+Insertion 1:
+(F' L F R' F' L' F R) R2 U' R' B' L F' B2 D2 R D B2 R' D' B' D B R B' L B' L' B' R D' R' +8-1=32
+R2 U' R' B' (B U2 B' D' B U2 B' D) L F' B2 D2 R D B2 R' D' B' D B R B' L B' L' B' R D' R' +8-2=31
+stop
+Skeleton2: R2 U' R' U2 B' D' B U2 B' D L F' B2 D2 R D B2 R' D' B' D B R B' L B' L' B' R D' R' (31)
+
+Insertion 2:
+R2 (F2 R' B2 R F2 R' B2 R) U' R' U2 B' D' B U2 B' D L F' B2 D2 R D B2 R' D' B' D B R B' L B' L' B' R D' R' +8-0=39
+R2 U' R' U2 B' D' B U2 B' D (D L2 D' R' D L2 D' R) L F' B2 D2 R D B2 R' D' B' D B R B' L B' L' B' R D' R' +8-1=38
+R2 U' R' U2 B' D' B U2 B' D L F' B2 D2 R D B2 R' D' B' D B R B' L (L2 U' R U L2 U' R' U) B' L' B' R D' R' +8-1=38
+
+-----------------------------
+
+31st
+
+Scramble: B L2 U2 R2 F U2 B2 U2 L2 F2 L B L D R2 B F2 R D
+Inverse: D' R' F2 B' R2 D' L' B' L' F2 L2 U2 B2 U2 F' R2 U2 L2 B'
+
+D' L2 R' B //2x2x1
+L' F' L'//2x2x1
+R2 B' R2 //2x2x2
+U B' U' //Corner
+B F2 //Pairing up things
+(L' U' L U) //2x2x1
+L' F U' F' //Edge
+L2 //Pairing up blocks
+B L B' L' //L3C
+R2 F' D2 F R' F' R D2 R' F R' //Comm
+
+Backup solve: D' L2 R' B L' F' L' R2 B' R2 U B' U' B F2 L' F U' F' L2 B L B' L' R2 F' D2 F R' F' R D2 R' F R' U' L' U L (39)
+
+Skeleton: D' L2 R' B L' F' L' R2 B' R2 U B' U' B F2 L' F U' F' L2 B L B' L' U' L' U L (28)
+
+Insertion:
+(U B' D2 B U B' D2 B) D' L2 R' B L' F' L' R2 B' R2 U B' U' B F2 L' F U' F' L2 B L B' L' U' L' U L 28+8-0=36
+D' L2 R' B (U' R' U L' U' R U L) L' F' L' R2 B' R2 U B' U' B F2 L' F U' F' L2 B L B' L' U' L' U L 28+8-2=34 -> this
+D' L2 R' B L' (L U' R' U L' U' R U) F' L' R2 B' R2 U B' U' B F2 L' F U' F' L2 B L B' L' U' L' U L 28+8-2=34
+D' L2 R' B L' F' (F U B U' F' U B' U') L' R2 B' R2 U B' U' B F2 L' F U' F' L2 B L B' L' U' L' U L 28+8-2=34
+D' L2 R' B L' F' L' R2 (U B D' B' U' B D B') B' R2 U B' U' B F2 L' F U' F' L2 B L B' L' U' L' U L 28+8-1=35
+D' L2 R' B L' F' L' R2 B' R2 U B' U' B F2 L' F U' F' L2 B L B' L' U' L' U L (D' B2 D' F2 D B2 D' F2 D2) 28+9=37
+
+Final solve: D' L2 R' B U' R' U L' U' R U F' L' R2 B' R2 U B' U' B F2 L' F U' F' L2 B L B' L' U' L' U L (34 HTM)
+
+----------------------------------------------------------------------
+
+32nd
+
+Scramble: D2 B2 L' D2 B2 L' B2 F2 R' B2 F R' B' F2 U B' R' B' L' R2
+Inverse: R2 L B R B U' F2 B R F' B2 R F2 B2 L B2 D2 L B2 D2
+
+L B L B F' L2 U2 B' F U F' U2 //2x2x3
+F2 D B R2 B' //2x2x1
+R2 D' R //Pairing things up (sorry pair :( )
+R' F' R //Pair + EO
+U F U' //F2L
+(U' F2 U F U' F U (F')) //L3C w/o AUF (the F' in brackets)
+(D2 L2 D' R' D L2 D' R D' F') //APerm for backup
+
+Backup solve: L B L B F' L2 U2 B' F U F' U2 F2 D B R2 B' R2 D' F' R U F U' F D R' D L2 D' R D L2 D2 U' F' U F' U' F2 U (41)
+Skeleton: L B L B F' L2 U2 B' F U F' U2 F2 D B R2 B' R2 D' F' R U F U' F U' F' U F' U' F2 U (32)
+
+Insertion:
+(D F D' B' D F' D' B) L B L B F' L2 U2 B' F U F' U2 F2 D B R2 B' R2 D' F' R U F U' F U' F' U F' U' F2 U 32+8-0=40
+L B L B F' (F L' F' R2 F L F' R2) L2 U2 B' F U F' U2 F2 D B R2 B' R2 D' F' R U F U' F U' F' U F' U' F2 U 32+8-2=38
+
+Final solve: L B L B L' F' R2 F L F' R2 L2 U2 B' F U F' U2 F2 D B R2 B' R2 D' F' R U F U' F U' F' U F' U' F2 U (38)
+-------------------------------------------------------
+33rd
+
+Scramble: R2 U' F2 D2 R' F2 B R2 D B U L R' F D2 L2 U2 F D2 B2
+Inverse: B2 D2 F' U2 L2 D2 F' R L' U' B' D' R2 B' F2 R D2 F2 U R2
+
+U' R B R L B //2x2
+R D R D2 //2x2x3
+F R F' L2 //F2L-1 pseudo
+D' R D L2 //F2L
+(F R F2 R' F' U F R F R' U' R') //L3C (x y rotated OLL + R' actually)
+
+Skeleton: U' R B R L B R D R D2 F R F' L2 D' R D L2 R U R F' R' F' U' F R F2 R' F' (30)
+Backup solve: U' R B R L B R D R D2 F R F' L2 D' R D L2 B' D B' U2 B D' B' U2 B2 R U R F' R' F' U' F R F2 R' F' (39)
+
+Insertion: 
+(R D' R' U R D R' U') U' R B R L B R D R D2 F R F' L2 D' R D L2 R U R F' R' F' U' F R F2 R' F' 30+8-1 = 37 -> this
+U' R B R L B R D R D2 F R (D B D' F D B' D' F') F' L2 D' R D L2 R U R F' R' F' U' F R F2 R' F' 30+8-1 = 37
+U' R B R L B R D R D2 F R F' L2 D' R D L2 R U R F' R' F' U' (L B2 L' F2 L B2 L' F2) F R F2 R' F' 30+8-1 = 37
+U' R B R L B R D R D2 F R F' L2 D' R D L2 R U R F' R' F' U' F R F2 R' F' (U F' R2 F U' F' U R2 U' F) 30+10 = 40 (backup is better lol)
+
+Final solve: R D' R' U R D R' U2 R B R L B R D R D2 F R F' L2 D' R D L2 R U R F' R' F' U' F R F2 R' F' (37 HTM)
+
+Took me approx 1 hour. The beginning was really good (that L2 that lead to F2L-1 was incredible) but I couldn't find any better ending that what I've found. :/
+IF gives 36 moves.
+
+--------------------------------------------------------------
+34th
+
+Scramble: R2 U' L D F' L D2 U' R' B' L2 U' L R F' B' D2 F2 L2 R2
+Inverse: R2 L2 F2 D2 B F R' L' U L2 B R U D2 L' F D' L' U R2
+
+F U F2 L //2x2
+(U' R2 U' R' F2) //2x2x3
+F' B U' F B' //EO 4 edges + 2x2x1
+R U2 F' U' F R2 //EO + 2x2x1
+(B U B') //L3C
+(R D R' U R D' R' U F' D2 F U' F' D2 F) //Backup
+
+Backup: F U F2 L F' B U' F B' R U2 F' U' F R2 F' D2 F U F' D2 F U' R D R' U' R D' R' B U' B' F2 R U R2 U (38)
+
+Skeleton: F U F2 L F' B U' F B' R U2 F' U' F R2 U' B U' B' F2 R U R2 U (24)
+
+Insertion 1:
+F U F2 (U L2 U' R2 U L2 U' R2) L F' B U' F B' R U2 F' U' F R2 U' B U' B' F2 R U R2 U 24+8-0=32
+F U F2 L F' B U' (U2 L' D' L U2 L' D L) F B' R U2 F' U' F R2 U' B U' B' F2 R U R2 U 24+8-1=31
+F U F2 L F' B U' F B' R U2 F' U' F R2 U' B U' B' F2 R U (U2 R D R' U2 R D' R') R2 U 24+8-2=30
+Skeleton 2: F U F2 L F' B U' F B' R U2 F' U' F R2 U' B U' B' F2 R U' R D R' U2 R D' R U (30)
+Backup 2: F U F2 L F' B U' F B' R U2 F' U' F R2 U' B U' B' F2 R U' R D R' U2 R D' R U F' U B U' F U B' U' (38)
+
+Insertion 2:
+F U F2 L F' B U' (U' R' U L2 U' R U L2) F B' R U2 F' U' F R2 U' B U' B' F2 R U' R D R' U2 R D' R U 30+8-1=37
+F U F2 L F' B U' F B' R U2 F' U' F R2 U' B (R D' R' U' R D R' U) U' B' F2 R U' R D R' U2 R D' R U 30+8-2=36
+F U F2 L F' B U' F B' R U2 F' U' F R2 U' B U' B' F2 R U' R D R' (L D' L' U2 L D L' U2) U2 R D' R U 30+8-2=36
+F U F2 L F' B U' F B' R U2 F' U' F R2 U' B U' B' F2 R U' R D R' U2 (U2 L D' L' U2 L D L') R D' R U 30+8-2=36
+F U F2 L F' B U' F B' R U2 F' U' F R2 U' B U' B' F2 R U' R D R' U2 R D' (U L U') R U (L') 30+4=34!
+
+Final solve: F U F2 L F' B U' F B' R U2 F' U' F R2 U' B U' B' F2 R U' R D R' U2 R D' U L U' R U L' (34)
+
+The last insertion was the weirdest thing that happened to me in FMC since I started FMCing.
+F U F2 L F' B U' F B' R U2 F' U' F R2 U' B U' B' F2 R U' R D R' U2 R D' * R U
+When I was at * trying to find the 2nd insertion, I found out that it was a commutator that had been started already.
+I mean, if you perform the moves R U, it's a niklas. And it had already been started.
+So, what I did, I inserted the corner with U L U', then the rest was just straightforward. In addition, the moves needed were the final moves of the skeleton (plus an obvious L')!
+So, it was sort of a quadruple cancellation.
+Happy with the ending.
+The 1st insertion was really hard. I mean, I couldn't find any good one.
+The 2nd one was magical instead.
+IF gives 32 for 3-cycles and 30 for 2*2-cycle.
+
+--------------------------------------------------
+
+35th
+
+Scramble: U F' L' F D' R' D B U R2 U2 L B2 U2 B2 L' D2 B2 L' B2
+Inverse: B2 L B2 D2 L B2 U2 B2 L' U2 R2 U' B' D' R D F' L F U'
+
+F' R' U2 L2 //1x2x3
+U' R2 U2 R' D2 //2x2x3
+F U F' //EO
+L' U2 //Pair
+(U2) //Pair
+(L2 U' L U) //F2L-1 + Pair
+D' L2 U L2 U' L2 D L' //3-pair-cycle
+
+Skeleton: F' R' U2 L2 U' R2 U2 R' D2 F U F' L' U2 D' L2 U L2 U' L2 D L' U' L' U L2 U2 (27)
+Backup solve: F' R' U2 L2 U' R2 U2 R' D2 F U F' L' U2 D' L2 U L2 U' L2 D L' U' L' U L2 U2 (U2 R' D R U2 R' D' R) (D' B D F2 D' B' D F2) (41)
+
+Insertion 1:
+(R B' R' F2 R B R' F2) F' R' U2 L2 U' R2 U2 R' D2 F U F' L' U2 D' L2 U L2 U' L2 D L' U' L' U L2 U2 27+8-1
+F' R' U2 L2 (R D R' U' R D' R' U) U' R2 U2 R' D2 F U F' L' U2 D' L2 U L2 U' L2 D L' U' L' U L2 U2 27+8-3
+F' R' U2 L2 U' R2 (R' D' R U2 R' D R U2) U2 R' D2 F U F' L' U2 D' L2 U L2 U' L2 D L' U' L' U L2 U2 27+8-6 -> this
+F' R' U2 L2 U' R2 U2 (U2 R' D' R U2 R' D R) R' D2 F U F' L' U2 D' L2 U L2 U' L2 D L' U' L' U L2 U2 27+8-6
+F' R' U2 L2 U' R2 U2 R' (R U2 R' D' R U2 R' D) D2 F U F' L' U2 D' L2 U L2 U' L2 D L' U' L' U L2 U2 27+8-6
+F' R' U2 L2 U' R2 U2 R' D2 F (B D B' U B D' B' U') U F' L' U2 D' L2 U L2 U' L2 D L' U' L' U L2 U2 27+8-2
+F' R' U2 L2 U' R2 U2 R' D2 F U F' L' (L U' L' D' L U L D') U2 D' L2 U L2 U' L2 D L' U' L' U L2 U2 27+8-2
+F' R' U2 L2 U' R2 U2 R' D2 F U F' L' U2 D' L2 U L2 U' L2 D L' (L B L' F2 L B' L' F2) U' L' U L2 U2 27+8-2
+F' R' U2 L2 U' R2 U2 R' D2 F U F' L' U2 D' L2 U L2 U' L2 D L' U' L' (L D L' U2 L D' L' U2) U L2 U2 27+8-3
+F' R' U2 L2 U' R2 U2 R' D2 F U F' L' U2 D' L2 U L2 U' L2 D L' U' L' U L2 (L2 D R' D' L2 D R D) U2 27+8-2
+Skeleton 2: F' R' U2 L2 U' R D' R U2 R' D' F U F' L' U2 D' L2 U L2 U' L2 D L' U' L' U L2 U2 (29)
+Backup 2: F' R' U2 L2 U' R D' R U2 R' D' F U F' L' U2 D' L2 U L2 U' L2 D L' U' L' U L2 U2 D' B D F2 D' B' D F2 (37)
+
+Insertion 2:
+F' R' U2 L2 U' R D' R U2 R' D' F U F' L' U2 (B' U B D' B' U' B D) D' L2 U L2 U' L2 D L' U' L' U L2 U2 29+8-2=35
+F' R' U2 L2 U' R D' R U2 R' D' F U F' L' U2 D' L2 U L2 U' L2 D L' U' L' U (B' R B) L2 (B' R' B) U2 29+6=35
+Both yield to a 35-move final solve, one having 2 cancellations, the other having a weird insertion technique I've been getting a lot lately.
+This technique is actually not a technique, but somehow having a bit of luck. Near the end of the solve, you find an already started insertion.
+F' R' U2 L2 U' R D' R U2 R' D' F U F' L' U2 D' L2 U L2 U' L2 D L' U' L' U * L2 U2
+See, at *, if you do L2, it's a 3-cycle "with premove U2". Then what I do, is insert the URF corner in ULB, "undo the L2" (that actually I've never performed), undo the insertion, and then undo the "premove".
+All the things that are "quoted" are because the solve does it by itself. You can see that the L2 move and the U2 move are already part of the skeleton, I just inserted the corner insertion and undoing.
+
+Final solve: F' R' U2 L2 U' R D' R U2 R' D' F U F' L' U2 D' L2 U L2 U' L2 D L' U' L' U B' R B L2 B' R' B U2 (35)
+
+Found in 58 minutes!
+-----------------------------------
+
+36th
+
+Scramble: L' F' R2 L B' U L' B' R2 D' F L' R' B L R D2 B2 L2 U2
+Inverse: U2 L2 B2 D2 R' L' B' R L F' D R2 B L U' B L' R2 F L
+
+(U2) //Premove
+R F2 D' R F' //2x2x3
+D2 R2 //Cross + pairs
+D' R D R' //All but 3 corners, 3 edges
+(D2) //Premove
+
+Skeleton: R F2 D' R F' D2 R2 D' R D R' U2 D2 (13)
+Backup solve: R F2 D' R F' D2 R2 D' R D R' U2 D2 D B' E2 B D' B' E2 B F' R F L2 F' R' F L2 (31)
+
+Edge insertion:
+R F2 D' R F' D2 R2 D' (D L' E' L D' L' E L) R D R' U2 D2 (13+10-2 = 21)
+Skeleton: R F2 D' R F' D2 R2 L' E' L D' L' E L R D R' U2 D2, converted:
+R F2 D' R F' D2 R2 L' U' D F D' F' U D' L R D R' U2 D2 (21)
+
+Corner insertion:
+R F2 D' R F' D2 (U' L2 U R' U' L2 U R) R2 L' U' D F D' F' U D' L R D R' U2 D2 (21+8-1=28)
+R F2 D' R F' D2 R2 L' (R U L U' R' U L' U') U' D F D' F' U D' L R D R' U2 D2 (21+8-2=27) -> this
+
+Final solve: R F2 D' R F' D2 R' L' U L U' R' U L' U2 D F D' F' U D' L R D R' U2 D2 (27) PB TIED
+(the initial skeleton is shorter than the total moves required for both insertions, lol)
+
+Even though this solve is very good, I feel like I could have found a much better one.
+I mean, there was a pseudo 2x2 at the beginning of the solve!
+The 1st place of this week must have found a sub-20 solve xD
+IF gives 25 moves.
+
+--------------------------------------------
+
+37th
+
+Scramble: D L2 D2 U' B2 U B2 L2 D B2 U2 R' B' F D R2 F L' D2 U F2
+Inverse: F2 U' D2 L F' R2 D' F' B R U2 B2 D' L2 B2 U' B2 U D2 L2 D'
+
+L' F' D' F2 L //2x2x1
+(D') //Premove
+U R2 U' //Pairs
+(R2 U) //Pseudo 2x2x3
+U' //Premove
+(U' D B' D' U) //EO + Blocks
+B2 R' B' R' B2 R //Blocks
+R F' R2 B R' B' R2 F //Pair cycle
+B' //Fixing
+
+Skeleton: L' F' D' F2 L U R2 U2 B2 R' B' R' B2 R2 F' R2 B R' B' R2 F B' U' D B D' R2 D (28)
+
+Insertion:
+L' F' D' F2 L U R2 U2 B2 R' B' R' B2 R2 F' R2 B R' B' R2 F B' U' (U B' U' F2 U B U' F2) D B D' R2 D 28+8-3=33
+
+Final solve: L' F' D' F2 L U R2 U2 B2 R' B' R' B2 R2 F' R2 B R' B' R2 F B2 U' F2 U B U' F2 D B D' R2 D (33)
+
+The solve was not bad, but it took me hell of a long time to find it!!!
+Also, I've done it on paper (I usually write it directly here, in the "with this comment" textbox, to save some time).
+Took me exactly 1 hour to find it. From 11:45 to 12:55, and I had a 10 minutes break. Freaking creepy
+Insertion is optimal :)
+
+---------------------------------------------
+
+38th
+
+PB AO3 in David Adams' Weekly FMC! 34,27,28=29.66 SUB 30 YAY
+
+Scramble: F R U' F' B L F' B' D' L' U B2 L R F U R' L' F' R'
+Inverse: R F L R U' F' R' L' B2 U' L D B F L' B' F U R' F'
+
+(L F2 D L2) //2x2
+(U' R' U' F U2 F) //2x2x3 + EO
+R U R U R U R2 //L5C
+
+Backup solve: R U R U R U R' F L2 F' R' F L2 F2 U B U' F U B' U' F' U2 F' U R U L2 D' F2 L' (31)
+Skeleton: R U R U R U R2 F' U2 F' U R U L2 D' F2 L' (17)
+
+Insertion 1:
+R U R U (U' R' D' R U R' D R) R U R2 F' U2 F' U R U L2 D' F2 L' 17+8-5 = 20
+Skeleton 2: R U D' R U R' D R2 U R2 F' U2 F' U R U L2 D' F2 L' (20)
+
+Insertion 2:
+R U D' R U R' (U2 R' D' R U2 R' D R) D R2 U R2 F' U2 F' U R U L2 D' F2 L' 20+8-0=28
+
+Final solve: R U D' R U R' U2 R' D' R U2 R' D R D R2 U R2 F' U2 F' U R U L2 D' F2 L' (28)
+
+The skeleton was very good, and the first insertion too. The second one was bad because it didn't cancell not even 1 move.
+Despite that, the insertions are optimal.
+I'm happy with this solve. Also, this breaks my ao3 PB, which is now 29.66 (34,27,28 sub30!!!!)
+
+Started at 13:00
+break at 13:38 for lunch (38 mins) by now
+return 13:54, break 14:00 tried to find sth else in a short time before having lunch (38+6 mins)
+return 15:46 ends 15:53 (38+6+7 mins = 51 mins)
+I don't like doing FMC with so many breaks, what's more, I don't like to have breaks, but sometimes can't avoid them.
+
+--------------------------------------------------
+
+39th
+
+Scramble: D' R' B2 D2 U' R' D2 B2 U R2 D2 F' L R D' L2 F U2 D B'
+Inverse: B D' U2 F' L2 D R' L' F D2 R2 U' B2 D2 R U D2 B2 R D
+
+(U' B' U2 R2) //Pseudo 2x2
+(L' B2 U' B2) //2x2x1
+R B F U F' //EO
+L2 U2 L2 U' L //F2L-1
+U //L3C L3E
+Skeleton: R B F U F' L2 U2 L2 U' L U B2 U B2 L R2 U2 B U (19)
+Backup: R B F U F' L2 U2 L2 U' L U (F' E F U' F' E' F R' F' R B' R' F R B U) B2 U B2 L R2 U2 B U (19 + 18 = 37)
+Insertion 1:
+R B (B' U2 D2 F U F' U2 D2 B U') F U F' L2 U2 L2 U' L U B2 U B2 L R2 U2 B U (19+10-2 = 27)
+Insertion 2:
+R (F' D2 F U2 F' D2 F U2) U2 D2 F U F' U2 D2 B U' F U F' L2 U2 L2 U' L U B2 U B2 L R2 U2 B U (27+8-2=33)
+R U2 D2 F U F' U2 D2 B U' F U F' L2 U2 L2 U' L U B2 U (U' F' D F U F' D' F) B2 L R2 U2 B U (27+8-2=33)
+Final solve: R F' D2 F U2 F' D2 F D2 F U F' U2 D2 B U' F U F' L2 U2 L2 U' L U B2 U B2 L R2 U2 B U (33)
+IF gives 31 moves.
+
+I found a 39 moves solve, but then I found this 19-move skeleton which I completed with 14 moves. Nice solve.
+
+-------------------------------------------------------
+
+40th
+
+Scramble: U' F B' R' D B2 U F' R L D B R' U2 L2 B2 D' U2 F D2
+Inverse: D2 F' U2 D B2 L2 U2 R B' D' L' R' F U' B2 D' R B F' U
+
+F2 D U' B' U' B2 //2x2 + Pair
+(L F L' U') //Pairs
+(R' L' U2 L) //2x2x1 x 2
+(U' F U F' U') //EO + Pairs
+X-spot (see at the end)
+F2 R F R' F' R //F2L-1 at B face
+R F' U F U' R' F' //LL skip XDXDXD -> this is so good
+
+Final solve: F2 D U' B' U' B2 F2 R F R' F' R2 F' U F U' R' F' U F U' F' U L' U2 L R U L F' L' (31 HTM)
+
+Before I had got a nice 22 moves (with cancellations) skeleton to L4Pieces, and after that I found an easier way to do it (which was the same solve but found differently xd). This is shown here:
+
+Backup solve: F2 D U' B' U' B F' R' B R' B' R B R B2 D' B R B R' B' D R B F D R D' R' F U2 L' U L R U L F' L' (39)
+
+explanation:
+F2 D U' B' U' B2 //2x2 + Pair
+(L F L' U') //Pairs
+(R' L' U2 L) //2x2x1 x 2
+(L' U L) //EO
+(U2 F2) //Pseudo F2L, premove F -> do U2 F' R D R' D' and you get here *
+F' //Premove
+(F R D R' D' F' *) //OLL -> you get here
+(B' R' D' B R B' R' B' D B2 R' B' R' B R B' R B) //PLL
+
+The whole thing took me ~36 minutes.
+
+After having finished my solve, I checked how close to optimal was my solution from X-spot. It turned out that CubeExplorer's optimal solution is 12 moves long, same as mine, and begins with exactly the same 4 moves XD
+F2 R F R' F' R F D R' D' R F2  (12f*)
+
+----------------------------------------------------------
+
+41st
+
+Scramble: B2 R2 D2 L2 U2 F L2 B2 U2 R F' U B' L2 B2 L D2 L2 R U' 
+Inverse: U R' L2 D2 L' B2 L2 B U' F R' U2 B2 L2 F' U2 L2 D2 R2 B2 
+
+R2 L' F R //2x2x1 
+B2 U B //2x2x1 
+R2 //Pair 
+U2 F2 U //Pseudo 2x2 
+(U B D) //Pseudo F2L-1-edge, Premove D 
+D' //Premove 
+L B D L2 D' B' R2 //Pseudo F2L-slot + 2x2x1, premove R2 
+(R2) //Premove 
+L B' L2 F L' F' L2 B L' //Pair cycle to L3C 
+
+Skeleton: R2 L' F R B2 U B R2 U2 F2 U D' L B D L2 D' B' R2 L B' L2 F L' F' L2 B L' R2 D' B' U' (32) 
+Backup: R2 L' F R B2 U B R2 U2 F2 U D' L B D L2 D' B' R2 L B' L2 F L' F' L2 B L' R2 D' B' U' + L' U2 L D L' U2 L D' (40 HTM) 
+
+Insertion: 
+
+R2 L' F R B2 U B R2 U2 F2 (F' L' B' L F L' B L) U D' L B D L2 D' B' R2 L B' L2 F L' F' L2 B L' R2 D' B' U' 32+8-1=39 
+R2 L' F R B2 U B R2 U2 F2 U D' (F R' F' L F R F' L') L B D L2 D' B' R2 L B' L2 F L' F' L2 B L' R2 D' B' U' 32+8-2=38->this 
+R2 L' F R B2 U B R2 U2 F2 U D' L B D L2 D' B' R2 L B' L2 (L' F' R2 F L F' R2 F) F L' F' L2 B L' R2 D' B' U' 32+8-2=38 
+R2 L' F R B2 U B R2 U2 F2 U D' L B D L2 D' B' R2 L B' L2 F L' F' L2 B L' R2 D' (B' D' B U2 B' D B U2) B' U' 32+8-0=40 
+
+Final solve: R2 L' F R B2 U B R2 U2 F2 U D' F R' F' L F R F' B D L2 D' B' R2 L B' L2 F L' F' L2 B L' R2 D' B' U' (38 HTM) 
+
+Awful solve, despite the insertion being optimal. A 32-move L3C skeleton is super noob
+
+--------------------------------------------------------
+
+42nd
+
+Scramble: F' R2 L' D2 F2 R2 D B' R F' L2 R2 F' B2 R2 F D' U2 B2 R
+Inverse: R' B2 U2 D F' R2 B2 F R2 L2 F R' B D' R2 F2 D2 L R2 F
+
+D2 F' B2 D //2x2
+(F) //2 pairs
+(L U' L') //2x2x1
+L2 U' //Pseudo F2L-1-corner, premoves L' U2
+(U2 L) //Premoves
+(F2) //Pair
+(B' U' F U B) //Unfinished comm
+U' R' F' R U //F2L
+U F U' F' U' R U R' //OLL+PLL
+
+Final solve: D2 F' B2 D L2 U2 R' F' R U2 F U' F' U' R U R' B' U' F' U B F2 L' U2 L U L' F' (29)
+
+Found in 37 minutes.
+
+------------------------------------------------------------
+
+43rd
+
+Scramble: U2 R2 D2 L B2 D R2 B' U L R' U D B' R2 F L R' D2 B
+Inverse: B' D2 R L' F' R2 B D' U' R L' U' B R2 D' B2 L' D2 R2 U2
+
+(F R) //2x2x1
+(D2 F') //2x2x1
+U' F R U2 F R2 D //2x2x3 + 2x2x1, almost F2L-1
+(R B' R B) //2 pairs
+B2 //F2L-1 pseudo, premove B
+(B') //Premove
+(D' R' D) //2x2x1
+R' U R2 D' R' D R2 U' R //Pair 3-cycle to L3C
++
+B' D' B U' B' D B U //Comm.
+Backup solve ^. 37 HTM
+
+Skeleton:
+U' F R U2 F R2 D B2 R' U R2 D' R' D R2 U' R D' R D R' B R' F D2 R' F' (27 HTM)
+
+Insertion:
+U' F R U2 F R2 D B2 R' U R2 (R' D2 R U' R' D2 R U) D' R' D R2 U' R D' R D R' B R' F D2 R' F' 27+8-1=34
+U' F R U2 F R2 D B2 R' U R2 D' R' D R2 (R U L U' R' U L' U') U' R D' R D R' B R' F D2 R' F' 27+8-2=33 -> this
+U' F R U2 F R2 D B2 R' U R2 D' R' D R2 U' R D' R D R' (R U R' D2 R U' R' D2) B R' F D2 R' F' 27+8-2=33
+
+Final solve: U' F R U2 F R2 D B2 R' U R2 D' R' D R' U L U' R' U L' U2 R D' R D R' B R' F D2 R' F' (33)
+
+Found in 59 minutes with 58 seconds!!!!!!!!!!!!!!!!!!!!!!! OMG
+I took a 5 minutes break though. So it were almost 55 minutes of thinking.
+The insertion is optimal.
+
+-----------------------------------------------------------------
+
+44th --- First of 2017!
+
+Scramble: B' F2 R U' B2 D' F' L2 B' D2 L' F2 R D' L2 U2 L R' U B'
+Inverse: B U' R L' U2 L2 D R' F2 L D2 B L2 F D B2 U R' F2 B
+
+F R2 //2x2x1
+D F' //2x2x1 and pair
+(L2 U' F U F U2 L2) //2x2x3
+L B L' //Pair
+(B) //To L3E + L4C
+
+Skeleton:
+F R2 D F' L B L' B' L2 U2 F' U' F' U L2 (15)
+
+Edges insertion:
+F R2 D F' L B L' B' L2 U2 F' U' F' (F' R2 F M F' R2 F M') U L2 = 15+10-1 = 24
+Skeleton: F R2 D F' L B L' B' L2 U2 F' U' F2 R2 F R L' U' R2 U L R' U L2 (24)
+
+Corner insertion no. 1:
+F R2 D F' (F L F' R2 F L' F' R2) L B L' B' L2 U2 F' U' F2 R2 F R L' U' R2 U L R' U L2 24+8-2=30
+F R2 D F' L B L' (L' F L B' L' F' L B) B' L2 U2 F' U' F2 R2 F R L' U' R2 U L R' U L2 24+8-4=28->this
+F R2 D F' L B L' B' L2 U2 F' U' F2 R2 F R L' U' R2 U L R' (B' U F U' B U F' U') U L2 24+8-2=30
+Skeleton: F R2 D F' L B L2 F L B' L' F' L' U2 F' U' F2 R2 F R L' U' R2 U L R' U L2 (28)
+
+Corner insertion no. 2:
+F (U R2 U' L' U R2 U' L) R2 D F' L B L2 F L B' L' F' L' U2 F' U' F2 R2 F R L' U' R2 U L R' U L2 28+8-0=36
+F R2 D (L F R' F' L' F R F') F' L B L2 F L B' L' F' L' U2 F' U' F2 R2 F R L' U' R2 U L R' U L2 28+8-1=35
+F R2 D F' L B L2 F L B' L' F' (D' L' U2 L D L' U2 L) L' U2 F' U' F2 R2 F R L' U' R2 U L R' U L2 28+8-4=32->this
+F R2 D F' L B L2 F L B' L' F' L' (L D' L' U2 L D L' U2) U2 F' U' F2 R2 F R L' U' R2 U L R' U L2 28+8-4=32
+
+Final solve: F R2 D F' L B L2 F L B' L' F' D' L' U2 L D L' F' U' F2 R2 F R L' U' R2 U L R' U L2 (32)
+
+Found in 55 minutes.
+Extra insertion moves: 26, Total cancellations: 9 moves, Total extra moves: 17.
+IF gives 31 moves. Almost there!
+
+--------------------------------------------------------------------------------------------
+
+45th
+
+Scramble: U' L2 B2 U2 D F' U2 L2 D2 B F2 U L' F R' L F' D2 L2 U
+Inverse: U' L2 D2 F L' R F' L U' F2 B' D2 L2 U2 F D' U2 B2 L2 U
+
+(F2 D2) //2x2x2 - corner
+(U' F R' F') //2x2x1
+R //Pseudo 2x2x3 - corner, premove R'
+(R) //Premove
+(L U' L') //Pair + 2 EO
+(B R' U R B' U') //Pair positioning + EO (I did B U' after this and spent a lot of time trying stuff, didn't find anything :/ CubeExplorer found 14 HTM from here!!)
+(B' U' B' U) //Pair
+then
+(L B' L' B' L B2 L') //F2L
+(L B' R' B L' B' R) //COLL
+(F2 B L R' U2 R L' B U2 B') //ELL
+or
+L B L' //Pairs
+(L B' L' B2 L B L' B') //To L3C
+
+Final solution: R L B L' B L B' L' B2 L B L' U' B U B U (U' B U F2 U' B' U F2) B R' U' R B' L U L' R' F R F' U D2 F2 (37 HTM)
+
+this was suuuuuuch a bad solve :( The scramble looked promising but I couldn't find anything. :(:(:(:(
+
+Found in 57 minutes D: ohhh
+
+-------------------------------------------------------------------------------------------------------
+
+46th
+
+Scramble: F' B' U2 R2 B2 L D' B2 U2 F2 D R L2 F2 D' U' L B' D' F
+Inverse: F' D B L' U D F2 L2 R' D' F2 U2 B2 D L' B2 R2 U2 B F
+
+D //Pairs
+(D R2 B U') //2 x 2x2x1
+(F' D2 F) //2x2x2 + pair
+(B' L2 U) //1x2x3
+(F' L F B') //F2L-1
+(F U F') //EO
+then
+U L' U' L //F2L
+B U' F' U B' U F U F' U F //ZBLL (32 backup solve)
+or
+(U L' U' L U' L' U' L U') //L3C in 26 moves
+
+Skeleton: D U L' U L U L' U L U' F U' F2 B L' F U' L2 B F' D2 F U B' R2 D' (26 HTM)
+
+Insertion:
+D U (F R F' L F R' F' L') L' U L U L' U L U' F U' F2 B L' F U' L2 B F' D2 F U B' R2 D' 26+8-1=33
+D U L' U L U (U2 L D L' U2 L D' L') L' U L U' F U' F2 B L' F U' L2 B F' D2 F U B' R2 D' 26+8-2=32
+D U L' U L U L' U L U' F U' F2 B L' F U' L2 B (B' U2 B D B' U2 B D') F' D2 F U B' R2 D' 26+8-2=32
+
+Final solve: D U L' U L U L' U L U' F U' F2 B L' F U' L2 U2 B D B' U2 B D' F' D2 F U B' R2 D' (32 HTM, same length as backup solve XD)
+
+Found in 36 minutes. Pretty much a straightforward solve.
+
+---------------------------------------------------------------------------------------------------------
+
+47th 
+
+Scramble: L2 R U L2 F D' R2 L D U R' B F U2 D' L U D2 R F
+Inverse: F' R' D2 U' L' D U2 F' B' R U' D' L' R2 D F' L2 U' R' L2
+
+(F' U) //2x2x1
+L F' //2x2x1
+B2 U2 B L' //2x2x2 + pairs
+B2 //Premove
+(F' B R' B' F) //Partial EO+Pairs
+(D2 F D' F') //F2L-1 + EO
+B' R' B D B' R B D' //Pair cycle
+D R' D R D' R' D //L3C
+R' D L D' R D L' D' //Backup solve 
+
+Skeleton: L F' B2 U2 B L' B R' B D B' R B R' D R D' R' D F D F' D2 F' B R B' F U' F (30)
+
+Insertion:
+L F' B2 U2 B L' B R' B D B' R B R' (F' U F D F' U' F D') D R D' R' D F D F' D2 F' B R B' F U' F 30+8-2=36
+L F' B2 U2 B L' B R' B D B' R B R' D R D' R' D F D F' D2 F' B R (U2 B' D B U2 B' D' B) B' F U' F 30+8-2=36 -> this
+
+Optimal, quite obvious insertion. Not really a good solution :/
+
+---------------------------------------------------------------------------------------------------------
+
+48th
+
+Scramble: D R' L2 D2 R2 F B D2 L' F2 D L' B F2 L R' B' F L' R2
+Inverse: R2 L F' B R L' F2 B' L D' F2 L D2 B' F' R2 D2 L2 R D'
+
+(D' L') //2x2x1
+U D F' //2x2x1
+(D') //2 pairs
+U' F' B R F //1x2x3
+R2 B2 R D' R' //F2L-1 pseudo
+B' L B L' //Pair
+R' B2 R B R' //Correct pseudoness and insert another pair
+D B2 D' B' D B' D' B' //Sune + PLL skip yay
+
+Final solve: U D F' U' F' B R F R2 B2 R D' R' B' L B L' R' B2 R B R' D B2 D' B' D B' D' B' D L D (33 HTM)
+
+I got quite lucky with the PLL skip. I found this solution solving the cube to go to inverse scramble. I love these serendipity solves lol
+
+Found in just 22 minutes!
+
+------------------------------------------------------------------------------------------------------------------
+
+49th
+
+Scramble: D2 F' U' R B2 F' D2 R L D2 B' U2 F2 L D2 R' F2 D' R2 U
+Inverse: U' R2 D F2 R D2 L' F2 U2 B D2 L' R' D2 F B2 R' U F D2
+
+(L' B L) //2x2x1 + pair
+U R' B //Pseudo 2x2x2
+(B) //Premove
+F' U2 L U' F2 U F2 //Cross + pair
+U R U R' //pair
+U2 B' U' B /pair
+L U L' U L U' F U' F' L' U' //OLL leading to PLL skip
+
+Final solve: U R' B F' U2 L U' F2 U F2 U R U R' U2 B' U' B L U L' U L U' F U' F' L' U' B' L' B' L (33)
+
+I ended up using the backup solve because the other solutions that I found mid-way were simply terrible xd
+Found in 42 minutes
+
+----------------------------------------------------------------------------------------------------
+
+50th
+
+Scramble: R' U' F D' F' R2 B' D2 F' R L' U B2 R2 L2 B U2 B2 D2 F' D2 B R' U' F
+Inverse: F' U R B' D2 F D2 B2 U2 B' L2 R2 B2 U' L R' F D2 B R2 F D F' U R
+
+D' L2 D L2 //2x2x2
+(U B R B' R2) //2x2x3
+F R B' R' F' //F2L-1
+U B2 U' L' B2 L //2x2x1 + some EO
+B2 U B U' L' B L B' //L4C
+
+D' L2 D L2 F (U2 R' D2 R U2 R' D2 R) R B' R' F' U B2 U' L' B2 L B2 U B U' L' B L B' R2 B (D' R' U2 R D R' U2 R) R' B' (F' D2 F U' F' D2 F U) U' (28 BAAD)
+D' L2 D L2 F R B' R' F' U (U' R D R' U R D' R') B2 U' L' B2 (B R B' L B R' B' L') L B2 U B U' L' B L B' R2 B R' B' F' D2 F U' F' D2 F (34)
+D' L2 D L2 F R B' R' F' U B2 U' L' B' R B' L B R' B U B U' L' B L B' R2 B R' B' F' D2 F U' F' D2 F (38) (optimal insertions = 36)
+
+SUPER SHITTY
+
+--------------------------------------------------------------------------------------------------------------
+
+51st
+
+Skrembol: R2 U' L2 R2 F2 U B2 R2 U' F2 L2 R' D' F' R' B2 F2 D2 U' L'
+
+L' D' B L B' //2x2x2
+U F R2 U //XCross
+U' F2 U //Pair
+R' F R //Pair
+(D' F D F R F' R' F') //L5C
+(F U F' D2 F U' F' D2) //Comm
+(R2 B' R F2 R' B R F2 R) //Comm
+
+a random fast attempt just to get better in the ranking :P
+
+L' D' B L B' U F R2 (U U') F2 U R' (F R R' F2) R' B' R F2 R' B R2 D2 F U F' D2 F U' (F' F) R F R' F' D' F' D = 40 - 7 = 33 lel
+
+-------------------------------------------------------------------------------------------------
+
+52nd
+
+Skrembol: D2 R2 D2 B2 D2 U2 R2 U2 F D2 R' D2 B L2 R F' R' U F2 
+
+R' U2 L' B' L //1x2x3
+U' B L B2 //2x2x3
+(D' F D2 R D') //EO
+(F R F2 R' F2 R F2 R' F') //L4C
+
+Skeleton: R' U2 L' B' (B' R' B, L) L U' B L B2 F R F2 R' F2 R F2 R' F' D R' D2 (L', F R F') F' D (35 HTM)
+
+meh. found in 20 minutes
+
+optimal insertions give 33
+
+----------------------------------------------------------------------------------------
+
+53rd PB
+Skrembol: R' U' F L D B2 D' F L B' R' D F U2 B' U2 F2 B' R2 U2 D2 B D2 R' U' F
+Inverse: F' U R D2 B' D2 U2 R2 B F2 U2 B U2 F' D' R B L' F' D B2 D' L' F' U R
+
+(R' D R2 U') //2 X 2x2x1
+(B' D F' D' R) //2x2x3 extension
+(F B' L F B' U') //6 unsolved pieces
+
+Backup: U B F' L' B F' R' D F D' B U R2 D' R (U' L U R U' L' U R' + B L' S' L2 S L' B') (32)
+
+Skeleton: U B F' L' B F' R' D F D' B U R2 D' (F' L2 F R F' L2 F R') R (15+8-2=21)
+Next skeleton: U B F' L' B F' R' D F D' B (F U' F' U2 D2 B U B' D2 U2) U R2 D' F' L2 F (F' R L' U2 L R' F') R F' L2 F (21+7-3=25!!!!)
+
+Final solution: U B F' L' B F' R' D F D' B U R2 D' F' R L U2 L R' F' R F' L2 F (25) HTM!!!!! THIS IS PBBBB
+
+---------------------------------------------------------------------------------------------
+
+54th
+Scramble: R' U' F B2 R' F2 R2 B2 R F2 R' D2 R F' R U2 R' D' U' F U R' D R' U' F
+Inverse: F' U R D' R U' F' U D R U2 R' F R' D2 R F2 R' B2 R2 F2 R B2 F' U R
+
+R B' R' B D F' //Pseudo 2x2x3
+[D2 L2 //f2l-2 pseudo
+B D B' D' B D B' D' //pair
+F L' F' L D' L D L' F' //some sort of VLS?
+R F R B2 R' F R B2 R2 //to Backup in 34 moves]
+
+Skeleton: R B' R' B D F' D2 L2 B D B' D' B (F2 D B' D' F2 D B D') D B' D' F L' F' L D' L D L' F' (25)
+
+Final solution: R B' R' B D F' D2 L2 B D B' D' B F2 D B' D' F' L' F' L D' L D L' F' (26!!!!!! 7 moves cancelled!!!!), giving PB mo3 = 28.66
+
+----------------------------------------------------------------------------------------
+
+55th
+Scramble: R' U' F D F2 U' R2 F2 D L2 R2 U2 R2 U' R' U2 F' L' R D' B2 L B L' R' U' F
+Inverse: F' U R L B' L' B2 D R' L F U2 R U R2 U2 R2 L2 D' F2 R2 U F2 D' F' U R
+
+D L F D R' //Pseudo 2x2x3
+U' F2 R' F R2 //Pseudo F2L-1
+(R2) //Premove
+(B L' B') //EO
+U' L U L' U' L2 U L //L3C
+
+Skeleton: D L F D R' U' F2 R' F R2 U' L U L' U' L2 U L B L B' R2 (22)
+Backup: D L F D R' U' F2 R' F R2 U' L U L' U' L2 U L B L B' R2 L2 B R' B' L2 B R B' (30)
+Insertion: D L F D R' U' (R B2 R' F2 R B2 R' F2) F2 R' F R2 U' L U L' U' L2 U L B L B' R2 (27!!!)
+PB mo3 26.00!!!!!!!!!!!!!!!!
+
+Giving PB mo3 (25, 26, 27) = 26.00!!!!! :0
+
+-----------------------------------------------------------------------------------------
+
+57th
+30 mover, found in 27 minutes, gave PB avg5 (33 25 26 27 30 = 27.66)
+S: R' U' F R2 U' B2 R2 U2 F2 R2 U L2 D2 B2 F' D L D L2 R' D2 F2 L U2 R' U' F
+I: F' U R U2 L' F2 D2 R L2 D' L' D' F B2 D2 L2 U' R2 F2 U2 R2 B2 U R2 F' U R
+
+Spoiler
+R2 F L D U L' D' //2x2x3
+B D' R' D2 B2 D' //EO + Blocks
+R' B2 //F2L-1
+(R B' R' B) //Pairs n stuff
+R B' R2 B R2 //L3C
+
+Skeleton: R2 F L D U L' D' B D' R' D2 B2 D' R' B2 R B' R2 B R2 B' R B R' (24)
+Backup: skeleton + R2', F' L F = 31 moves
+Insertion: R2 F L D U L' D' B D' R' D2 B2 D' (U R' D2 R U' R' D2 R) R' B2 R B' R2 B R2 B' R B R'
+Final solve: R2 F L D U L' D' B D' R' D2 B2 D' U R' D2 R U' R' D2 B2 R B' R2 B R2 B' R B R' = 30
+-----------------------------------------------------------------------------------
+
+58th
+Scramble: R' U' F D2 U2 F U2 B R2 B' F' L2 D2 F D' L' U R' U R2 F R' U' R' U' F
+Inverse: F' U R U R F' R2 U' R U' L D F' D2 L2 F B R2 B' U2 F' U2 D2 F' U R
+
+B2 U F2 // 1x2x3
+D' U' L' D L' U2 //2x2x3 (9 moves)
+(D' F' R2 F ) //EO
+D' R2 D2 R2 D' //L3C L3E ske=18
+Skeleton: B2 * U F2 @ D' U' L' D L' U2 D' R2 D2 R2 D' F' R2 F D = 18+8-2+6-3 = 27
+Insertion 1:
+* = (R' U L U' R U L' U')
+@ = (R2 U' D B2 D' U)
+
+Final solution: B2 R' U L U' R U L' F2 R2 U' D B2 D2 L' D L' U2 D' R2 D2 R2 D' F' R2 F D (27 HTM)
+Giving PB ao5! (25, 26, 27, 30, 27) = 26.66 noiceice
+
+------------------------------------------------------------------------------------------
+
+59th
+Scr: L2 U' B2 D' R2 B2 F2 D2 R2 B2 D2 U' R B R2 D' L R2 D'
+Inv: D R2 L' D R2 B' R' U D2 B2 R2 D2 F2 B2 R2 D B2 U L2
+
+U F2 R' D2 U R' //2x2x2
+D' F L' F2 //Pseudo 2x2x3
+(F2) //Premove
+D2 //Pairs
+L2 D' L' D' //F2L-1
+L F L F' //2x2x1
+L' D' L D //L3C in 24
+D R D' L2 D R' D' L2 //Backup in 31
+
+Skeleton: U F2 R' D2 U R' D' F L' F2 D2 L2 D' (B' L' F' L B L' F L) L' D' L F L F' L' D' L D F2 (24)
+Final solve: U F2 R' D2 U R' D' F L' F2 D2 L2 D' B' L' F' L B L' F D' L F L F' L' D' L D F2 (24+8-2 = 30)
+
+--------------------------------------------------------------------
+
+60th
+Scramble: R' U' F U B L' B2 U F R' U' L B L2 B2 D B2 D F2 R2 U' F2 D F2 R' U' F
+Inverse: F' U R F2 D' F2 U R2 F2 D' B2 D' B2 L2 B' L' U R F' U' B2 L B' U' F' U R
+
+F' //Pseudo 2x2x1
+(F2) //Premove
+(L2 B) //Pair
+(R' U2 R) //Save block
+(D' R D) //2x2x2
+(B2 U' B) //F2L-1-edge
+B2 U' //F2L-1
+F L U L' U' F' //EO
+B2 L' B' L' B' //2x2x1
+L B L B2 //L3C in 30-1 ow so baddd
+
+Skeleton: F' B2 U' F L U L' U' F' B2 L' B' L' (R B' L' B R' B' L B) B' L B L B U B2 D' R' D R' U2 R B' L2 F2 (29+8-3=34)
+
+Really bad solve lol
+
+------------------------------------------------------------------------------------------------
+
+61th
+Scramble: R' U' F U2 L2 F' B' R F B U2 R' U L2 D2 F2 U L2 D R2 U B2 D R' U' F
+Inverse: F' U R D' B2 U' R2 D' L2 U' F2 D2 L2 U' R U2 B' F' R' B F L2 U2 F' U R
+
+R2 B2 F' R //2x2x1
+F U2 R' //2x2x1 x2 + edge
+D2 B D' //Pseudo 2x2x3 + many pairs
+(U2 R2 F2 R2) //F2L-1 pseudo
+R U //premoves
+F U F' U' R' F' R F2 //L3C in 24
+
+Skeleton: R2 B2 F' R F U2 R' D2 B D' R U F U F' U' R' F' R (U' L' U R2 U' L U R2 for 32 backup) F2 R2 F2 R2 U2
+
+R2 B2 F' R F U2 R' D2 B D' R U F U (R B' R' F2 R B R' F2) F' U' R' F' R F2 R2 F2 R2 U2 (24+8-1 = 31)
+
+THIS WAS THE WORST INSERTION I'VE EVER DONE UGHHHH
+
+-------------------------------------------------------------------------------------------------
+
+62th
+Skr: R' U' F U2 F' U2 R2 B2 D2 U2 F' L2 D2 L' R D R' U F L' D2 F' L2 R' U' F
+
+inv: F' U R L2 F D2 L F' U' R D' R' L D2 L2 F U2 D2 B2 R2 U2 F U2 F' U R
+
+(R U' F2 R U2) //2x2x2
+(L D F R F R' L') //F2L-1 pseudo
+L2 D L //EO
+D B D2 B' D2 B D' B' D2 //L3C in 24 ugh
+
+Skeleton: L2 D L D B D2 B' (B' U' B D2 B' U B D2) D2 B D' B' D2 L R F' R' F' D' L' U2 R' F2 U R' = 24+8-4 = 28
+
+Final solution: L2 D L D B D2 B2 U' B D2 B' U B2 D' B' D2 L R F' R' F' D' L' U2 R' F2 U R' (28 HTM)
+
+-----------------------------------------------------------------------------------------------
+
+63rd (first official attempt!)
+Scr R' U' F D F2 U' L2 D U' B2 U' B' L D' R D2 L' R' F R2 D2 B R' U' F
+Inv F' U R B' D2 R2 F' R L D2 R' D L' B U B2 U D' L2 U F2 D' F' U R'
+
+L B L' B' D //2x2
+U' R B' U R B' //2x2x3
+(R' B U B2 R B) //F2L-1 + EO
+(U R' U2 R U' R' U R U2) //Pair -> L3C
+
+Skeleton: L B L' B' D U' R B' U R B' U2 R' U' R U R' U2 R U' B' R' B2 @ U' B' R (26+8-2 = 32)
+@: B2 D F2 D' B2 D F2 D'
+
+Final solve: L B L' B' D U' R B' U R B' U2 R' U' R U R' U2 R U' B' R' D F2 D' B2 D F2 D' U' B' R (32 HTM)
+
+------------------------------------------------------------------------------------------------
+
+64th
+Scr: R' U' F L2 D R2 U' L2 U L2 B2 U2 B' D2 R2 U R D2 R U2 B' R D R' U' F
+
+Inv: F' U R D' R' B U2 R' D2 R' U' R2 D2 B U2 B2 L2 U' L2 U R2 D' L2 F' U R
+
+
+
+Solve 1
+
+U' B D F' //2x2x1 + pair
+
+(B' L2 D') //2x2x2 + 3*pair
+
+(F R F' B2 R2 B2) //2x2x3
+
+(U' L U L') //EO
+
+(B U' B2 U B) //Tripod
+
+(U B U B' U) //To pair 3cycle
+
+(U' U2 L' U B U2 B' U' L U) //To backup (35 BAD)
+
+
+
+Solve 2
+
+U' B D F' //2x2x1 + pair
+(B' L2 D') //2x2x2 + 3*pair
+
+(F R F' B2 R2 B2) //2x2x3
+
+B' U' B U //Tripod
+
+B' L' B' L B //L5C
+
+
+
+Sk: U' B D F' B' U' B (R2 U L U' R2 U L' U') U B' L' 
+    B' L (L' D' L U L' D L U') B' R2 B2 F R' F' D L2 B (21+8-2+8-2 = 33 HTM)
+
+super bad omfg
+
+-----------------------------------------------------------------------------------------------
+
+65th
+Inverse: R' U B R' D' U' R B L2 R' U' D' R' B' U F2 D L' U D
+Scramble: D' U' L D' F2 U' B R D U R L2 B' R' U D R B' U' R
+
+B2 R' U //2x2x1 x 2
+D' L D2 //2x2x2
+R' U2 R2 //Blocks
+F2 R //F2L-1
+(R' F') //Pre
+R U R' //EO
+U2 F' U F U F' U' F //L2C
+Skeleton: B2 R' U D' L D2 R' U2 R2 F2 R2 U (U' R F2 R' U B2 U' R F2 R' U B2) R' U2 F' U F U F' U' F2 R (22 + 12 - 3 = 31)
+
+I also found this promising start but no good ending :/
+B2 R' U //2x2x1 x 2
+D' L D2 //2x2x2
+R' U R' //Pairs?
+(B U2 B') //Block
+(L' U' L R' F2) //F2L-1
+
+------------------------------------------------------------------------------------
+
+66th
+Scr: R' U' F B U L2 F L U' R' B' R2 D' B2 L F2 U2 L' U2 B2 U2 B2 L2 R' U' F
+Inv: F' U R L2 B2 U2 B2 U2 L U2 F2 L' B2 D R2 B R U L' F' L2 U' B' F' U R
+
+D L D B //2x2
+(F' U' F) //2x2x3
+(B' U' B) //EO
+(U L' U) //Blocks
+U2 L U' L2 U' //Semitripod
+(L2) //3C3E in 19!
+
+Sk: D L D B U2 L U' L' (L U' L U L U L U' L' U' L2) L' U' L2 U' L U' B' U B F' U (L F' U D' L2 U' D F' L') F
+Sk2: D L D B U2 L U2 L U L U L U' L' U' L U' L2 U' L U' B' U B F' U F (27)
+Sk2 alt: D L D B U2 L U' L2 U' L2 U' L U' B' U B F' U L F' U (U F U' B2 U F' U' B2) D' L2 D U' F' L' F (35 CRAP)
+
+--------------------------------------------------------------------------------------
+
+67th
+Scr: R' U' F D F2 U L2 D' U2 B2 L2 D R2 D2 U' R' U B2 U2 L2 R F2 U L F R' U' F
+Inv: F' U R F' L' U' F2 R' L2 U2 B2 U' R U D2 R2 D' L2 B2 U2 D L2 U' F2 D' F' U R
+
+(D' F' U' R' B U R B2 D2) //2x2x3 Pseudo mismatched
+B' D B D' //Pairs
+(L B) //Blocks
+(D' B' U' L' F' L F U L2 B2) //L3C in 25
+
+Sk: B' (B D B' U B D' B' U') D B D' B2 L2 U' F' L' F L U B D B' (U L' D2 L U' L' D2 L) L' D2 B2 R' U' B' R U F D
+F: B' D B D' B2 L2 U' F' L' F L U B D B' U L' D2 L U' L' B2 R' U' B' R U F D (29)
+
+-------------------------------------------------------------------------------
+
+68th (first of 2019)
+pathetic!
+
+Scr: R' U' F D F2 U2 R' B2 R B2 L2 U2 B2 R2 U2 F R F' D' U' L B' U2 R D2 R' U' F
+Inv: F' U R D2 R' U2 B L' U D F R' F' U2 R2 B2 U2 L2 B2 R' B2 R U2 F2 D' F' U R
+
+B' //2x2x1
+(R' B' R2) //2x2
+(L U' L2) //2x2x1
+D' L D //1x2x3
+F U F' L2 F //F2L-1 Pseudo
+(F2) //correcting
+B' U B U B' U B U2 B' U2 B //To Yperm
+R2 U' R2 U' R2 U F U F' R2 F U' F' U' //YPerm
+
+B' D' L D F U F' L2 F B' U B U B' U B U2 B' U2 B R2 U' R2 U' R2 U F U F' R2 F U' F' U' F2 L2 U L' R2 B R (41 HTM sad)
+
+------------------------------------------------------------------------------------
+
+69th
+Scramble: R2 U2 R2 F' R2 B L2 U2 F2 D2 B2 D R B L' R F' L2 B' R D2
+Inverse: D2 R' B L2 F R' L B' R' D' B2 D2 F2 U2 L2 B' R2 F R2 U2 R2
+
+U2 R' //2x2x1
+(L B' L B) //1x2x3
+L B U F U' B' //F2L-stuff
+(F2 R F2 R') //EO+pair
+(F2 D F D F' D' F2 D' F2 D F2) //L3E
+
+U2 R' L B U F U' B' F2 D' F2 D F2 D F D' F' D' F2 R (R' L D2 L' R F2) F2 R' F2 B' L' B L' (27+6-6 = 27!)
+
+Final: U2 R' L B U F U' B' F2 D' F2 D F2 D F D' F' D' F2 L D2 L' F2 B' L' B L'
+
+-----------------------------------------------------------------------------------
+
+70th
+Scr: R' U' F D F' U2 R2 D2 B2 L2 B' U2 B' L2 F2 D' U2 F2 R' U F' R' D L2 R' U' F
+Inv: F' U R L2 D' R F U' R F2 U2 D F2 L2 B U2 B L2 B2 D2 R2 U2 F D' F' U R
+
+(D2 U2 R B) //EO
+(U' R U' R' U2) //2x2x2+2xpair
+(B2 R' D' R' D R D' B2) //F2L-1
+(D2 R D2 R' D2 R D R' D') //L3C
+
+D R D' R' D2 R D2 R' D2 B2 D R' D' R D R B2 U2 R U R' U B' R' U2 (R' U2 R D2 R' U2 R D2) D2
+
+Final: D R D' R' D2 R D2 R' D2 B2 D R' D' R D R B2 U2 R U R' U B' R' U2 R' U2 R D2 R' U2 R (32 HTM)
+
+--------------------------------------------------------------------------------------
+
+71st
+R' U' F D B2 U2 L2 U' L2 U L2 F R' F2 D' R F2 U2 B' F D' F2 R' U' F
+F' U R F2 D F' B U2 F2 R' D F2 R F' L2 U' L2 U L2 U2 B2 D' F' U R
+
+U' L B //2x2x1 + 4eo
+(B' L' B) //EO
+R2 D2 R2 D R F2 //Blocks
+(U L U2 L') //F2L-1
+L U2 L U' //3 twisted :(
+
+U' L B R2 D2 R2 (R2 D L' D' R2 D L D') D R F2 L U2 L U' L U2 L' U' B' L B (20+8-5=23)
+U' (F' R2 F L F' R2 F L') L B R2 D' L' D' R2 D L R F2 L U2 L U' L U2 L' U' B' L B (23+8-2=29)
+
+Final: U' F' R2 F L F' R2 F B R2 D' L' D' R2 D L R F2 L U2 L U' L U2 L' U' B' L B (29 HTM)
+
+------------------------------------------------------------------------------------------
+
+72nd
+R' U' F U2 R2 F2 U2 L R' D2 U2 R B2 D' F D' L2 R2 D2 F L R' D' U' R' U' F
+F' U R U D R L' F' D2 R2 L2 D F' D B2 R' U2 D2 R L' U2 F2 R2 U2 F' U R
+
+R' D L //2x2x1
+U' R2 B F L2 R' F R //F2L-1 pseudo
+L2 D' L D2 F' D' F L2 F' L' F' D F D' L //(26)
+
+R' D L U' R2 B F L2 R' F R L2 D' L D2 F' D' F L2 F' L' F' D F D' L (26 HTM)
+
+or
+
+R' D L //2x2x1
+U' R2 B F L2 R' F R //F2L-1 pseudo
+L2 F //Blocks
+(F2) //Premove
+L2 //4e4c
+can't figure anything out from here :/
+
+-------------------------------------------------------------------------------------------
+
+73rd PB
+R' U' F L2 B2 U2 B' L2 B F' R2 D L' F2 R D2 F R' D2 L2 B2 D2 B R' U' F
+F' U R B' D2 B2 L2 D2 R F' D2 R' F2 L D' R2 F B' L2 B U2 B2 L2 F' U R
+
+(F B' U2 R) //EO
+(D2 U F) //2 x 1x1x3
+(D B2 D' L2 U2) //F2L?
+U' D2 //Premoves
+(U' D2 F D' F D F2 D' F U D') //1LLL
+
+U' D2 D U' F' D F2 D' F' D F' D2 U U2 L2 D B2 D' F' U' D2 R' U2 B F'
+
+U2 D' F' D F2 D' F' D F' D2 U' L2 D B2 D' F' U' D2 R' U2 B F' (22) PB!
+(29,26,22) = 25.66 mo3 and (27,32,29,26,22) = 27.33 ao5
+
+--------------------------------------------------------------------------------
+
+74th
+R' U' F L2 U2 D2 F' R2 B2 U' R2 B U2 L2 U2 B2 L' F2 R' U2 L F2 R2 D R' U' F
+F' U R D' R2 F2 L' U2 R F2 L B2 U2 L2 U2 B' R2 U B2 R2 F D2 U2 L2 F' U R
+
+(D' B' R U2 F L F' L2 D R2) //EO+2x2x3
+U' F U L' U' L U L U' L U L' U' F' //ZBLL to L3C
+
+U' F U L' U' L U (U' B2 U F' U' B2 U F) L U' L U L' U' F' R2 D' L2 F L' F' U2 R' B D
+
+Final: U' F U L' U' L B2 U F' U' B2 U F L U' L U L' U' F' R2 D' L2 F L' F' U2 R' B D (30HTM)
+(26,22,30)
+
+--------------------------------------------------------------------------
+
+75th
+R' U' F L2 D2 F' R2 B F' D2 F2 L' F U' B2 U' B U2 R F2 U F2 U2 R' U' F
+F' U R U2 F2 U' F2 R' U2 B' U B2 U F' L F2 D2 F B' R2 F D2 L2 F' U R
+
+L B F //EO (3/3)
+(D L2 U' R2 U D' R') //PDR(2e) + 1x2x3 + pair (7/10)
+option a:
+(L2 D R2 U2 L2 U L2 U2 L U L U) //L3C (12/22)
+option b:
+U L2 U' (L2 D R2 U2 L2 U2 L2) //2e2c (10/20)
+
+ska: L B F U' L' U' (U B U' F' U B' U' F) L' U2 L2 U' L2 U2 R2 D' L2 R D U' R2 U L2 D' = (22+8-2 = 28)
+skb: L B F U L2 U' L2 U2 L2 U2 R2 D' L2 R D U' R2 U L2 D' (no good insertion)
+
+Final: L B F U' L' B U' F' U B' U' F L' U2 L2 U' L2 U2 R2 D' L2 R D U' R2 U L2 D' (28 HTM)
+(22,30,28)
+
+---------------------------------------------------------------------
+
+76th
+R' U' F U2 F2 L2 B D2 F' U2 F' D2 R D2 R B D B R B U2 F D2 R' U' F
+F' U R D2 F' U2 B' R' B' D' B' R' D2 R' D2 F U2 F D2 B' L2 F2 U2 F' U R
+
+U R B F' D' B' R2 //1x2x3
+(F R' F2) //2x2x3
+a: L' B2 U' D L D' U //EO+F2L-1 (18)
+b: (B D L' D' B2 L' + L B2 L' B' L B L' B' L B' L') L2 //L3E ("28")
+
+Skeleton a: U R B F' D' B' (B' L2 B L R' U' L2 U L' R) R2 L' B L' B L B' L' B L D L D' B' F2 R F' (23)
+Final: U R B F' D' B2 L2 B L R' U' L2 U L2 R' B L' B L B' L' B L D L D' B' F2 R F' (30)
+(30,28,30)
+
+----------------------------------------------------
+
+77th
+R' U' F U2 F2 R2 B2 D' F2 U B2 U B' R F2 L2 B2 D F2 L D R' D R' U' F
+F' U R D' R D' L' F2 D' B2 L2 F2 R' B U' B2 U' F2 D B2 R2 F2 U2 F' U R
+
+R2 B R U' B U' B' //EO + some pairs (7/7)
+(U' L U2 R2 U2 D R2 U2 L U L' U2) //Blocks to L6C (12/19)
+
+R2 B R U' B U' B' U2 L U' L' U2 R2 D' U2 R2 (R D L D' R' D L' D') U2 L' U 19+8-1 = 26
+R2 B R U' B U' B' U2 L U' L' U2 R2 D' U2 R' D L D' (D R2 D' L D R2 D' L') R' D L' D' U2 L' U 26+8-2=32
+
+R2 B R U' B U' B' U2 L U' L' U2 R2 D' U2 R' D L R2 D' L D R2 D' L' R' D L' D' U2 L' U (32)
+(28, 30, 32) = 30.00
+
+----------------------------------------------------------
+
+78th
+R' U' F L2 F2 L2 U' L2 D' F2 D' L2 D U2 B' R' U R' U' F' R' D' L B2 R' U' F
+F' U R B2 L' D R F U R U' R B U2 D' L2 D F2 D L2 U L2 F2 L2 F' U R
+
+U2 L' //EO (2/2)
+U' B U //Square (3/5)
+F2 L2 //2x2x2 (2/7)
+B' U D B D' U' R2 //2x2x3 (7/14)
+U B U' B' U B' U2 B U2 //L3C (9/23)
+
+Skeleton: U2 L' (L B2 L' F L B2 L' F') U' B U F2 L2 B' U D B D' U' R2 U B U' B' U B' U2 B U2 (23+8-2)
+
+Final: U2 B2 L' F L B2 L' F' U' B U F2 L2 B' U D B D' U' R2 U B U' B' U B' U2 B U2 (29)
+(30,32,29)
+
+-------------------------------------------------------------
+
+79th
+R' U' F U2 R2 B2 F2 U2 R2 F L2 F2 R' F' D2 L U2 R' U B2 R' D R' U' F
+F' U R D' R B2 U' R U2 L' D2 F R F2 L2 F' R2 U2 F2 B2 R2 U2 F' U R
+
+R D2 F B2 L2 (L2 F L2 F') //EO + blocks (9/9)
+(L U2 D' B2 D2 R2) //F2L-1 pseudo (6/15)
+U R' F2 R F2 U F2 //L3C (7/22)
+
+R D2 F B2 L2 U R' F2 R F2 U F2 R2 D2 (D2 R' U R D2 R' U' R) B2 D U2 L' F L2 F' L2 (22+8-3 = 27)
+R D2 F B2 L2 U R' F2 R F2 U F2 R U R D2 R' U' R B2 D U2 L' F L2 F' L2
+(32,29,27)
+
+--------------------------------------------------------------
+
+80th
+R' U' F L2 R2 F2 R2 D' U2 L2 U L F' R B' U2 L R' F U2 B L U' R' U' F
+F' U R U L' B' U2 F' R L' U2 B R' F L' U' L2 U2 D R2 F2 R2 L2 F' U R
+
+R B R2 L F' //EO (5/5)
+U D' R D' R' D2 R //DR (7/12)
+U2 B2 L2 F2 L2 //F2L-1 (5/17)
+(U F2 U' R L' U2 R' L) //L3C (8/25)
+
+R B R2 L (U2 F' D2 F U2 F' D2 F) F' U D' R D' R' D2 R U2 B2 L2 F2 L R U2 L R' U F2 U' (24+8-3=29)
+(29,27,29)
+
+or
+R B R2 L F' //EO (5/5)
+U R (R' D L D' R D L' D')//PDR (2/7)
+L2 D' L2 (B2 U' B2 U' B2 R2 D R2 D' R2 D') //3e3c (14/21)
+
+(if yields 30)
+
+-------------------------------------------------------------------
+
+81th
+R' U' F R2 U' B2 U' L2 B2 F2 U B' F2 L R2 B' F2 R' F' L2 R D U R' U' F
+F' U R U' D' R' L2 F R F2 B R2 L' F2 B U' F2 B2 L2 U B2 U R2 F' U R
+
+(L B) //2x2x2 Pseudo (2/2)
+U' D' R2 F' D' //Diamond (5/7)
+(U' R2 U) //2x2x1 (3/10)
+R' B R' B' R' //3e3c (5/15)
+
+U' D' R2 F' D' R' (U2 L R' B' R B L' U2 (R F R' B R F' R' B')) B R' B' R' U' R2 U B' L' (15+8+8-0-3 = 28)
+
+U' D' R2 F' D' R' U2 L R' B' R B L' U2 R F R' B R F' R2 B' R' U' R2 U B' L'
+(27,29,28)
+
+----------------------------------------------------------------------
+
+82nd
+R' U' F R' F2 B' U2 L2 F B2 D' L' U R2 F' R2 F2 D2 B' R2 L2 F U2 F2 R' U' F
+
+F' U R F2 U2 F' L2 R2 B D2 F2 R2 F R2 U' L D B2 F' L2 U2 B F2 R F' U R
+
+
+
+D' R' U2 R' U' //EO + square
+
+B L B' //2x2x2
+
+(F2 B' R B) //2x2x3 + square
+
+F' R F2 R' F2 R U' R' U //Insert 2 pairs
+
+R2 U' R' U R' F2 //Finish
+
+
+
+D' R' U2 R' U' B L B' F' R F2 R' F2 R U' R' U R2 U' R' U R' F2 B' R' B F2 (27)
+
+(29,28,27)
+
+------------------------------------------------------
+
+83rd:
+R' U' F D2 B2 D2 R2 B2 U2 R2 F2 U F2 U L' U' L B D' F2 U B' F R D R' U' F
+F' U R D' R' F' B U' F2 D B' L' U L U' F2 U' F2 R2 U2 B2 R2 D2 B2 D2 F' U R
+
+(R F L D L' F U2) //EO + pseudo 2x2
+F' D' B2 D //Blocks
+B2 D' B D B2 //Huge block
+
+(F' R2 F D' B' D' B2 D2 B' D' B D' B' D2) F' D' B2 D B2 D' B D B2 U2 F' L D' L' F' R' (30)
+
+(28,27,30)
+
+---------------------------------------------------------
+
+84th:
+R' U' F D L2 B2 D' F2 U' B2 F2 D' R2 U' F U2 F2 D R D2 R' B L2 D' R' U' F
+F' U R D L2 B' R D2 R' D' F2 U2 F' U R2 D F2 B2 U F2 D B2 L2 D' F' U R
+
+B' U D' B R F' R' F2 R2 (R') //2x2x3 (10/10)
+L B' L' U B U' B' L' B //L4C (9/19)
+
+B' U D' B R F' R' F2 R2 (D2 L' U' L D2 L' U L) L B' L' U B U' B' (B' L' F' L B L' F L) L' B R
+B' U D' B R F' R' F2 R2 D2 L' U' L D2 L' U L2 B' L' U B U' B2 L' F' L B L' F B R
+ = (19+8-3+8-1 = 31)
+(27,30,31)
+
+----------------------------------------
+
+85th
+R' U' F L2 B L2 R2 B D2 F D2 R2 D' L' F L' D B' U F L D2 R' U' F
+F' U R D2 L' F' U' B D' L F' L D R2 D2 F' D2 B' R2 L2 B' L2 F' U R
+
+D B D2 R' L F' //EO
+R' D F2 R //2x2x3 pseudo
+(D' U2 L' U' L U2) //3e3c
+
+D B D2 R' L F' (F' R' B2 R F R' B2 R) R' D F2 R U2 L' U L D U2
+D B D2 R' L (U' F2 R2 B2 D' B2 R2 F2) F2 R' B2 R F R' B2 D F2 R U2 L' U L D U2
+D B D2 R' L U' F2 R2 B2 D' B2 R B2 R F R' B2 D F2 R U2 L' U L D U2 (16+8+8-3-3=26)
+(30,31,26)
+
+---------------------------
+
+86th
+R' U' F D2 B' D2 F' D2 U2 R2 U2 F2 D U' B' U R' U' F L B2 R' F2 R' U' F
+
+F' U R F2 R B2 L' F' U R U' B U D' F2 U2 R2 U2 D2 F D2 B D2 F' U R
+
+
+
+D L B' U' R' //EO (5/5)
+
+B' D B //Block (3/8)
+
+U F' U' R2 D //Cool diamond (5/13)
+
+D2 U' F' U2 F D2 //L5C (6/19)
+
+
+
+D L B' U' R' B' D B U (U2 F' D2 F U2 F' D2 F) F' U' R2 D' U' F' U2 F D2
+
+D L B' U' R' B' D B U' F' D2 F U2 F' D2 U' R2 D' U' F' U2 (R U' L2 U R' U' L2 U) F D2 = (18+8+8-3-0=31)
+(31,26,31)
+
+-----------------------------------
+
+87th
+R' U' F L2 R2 U2 B2 R2 D' B2 R2 U B2 L' R2 F D B L' D' U' B2 R' D R' U' F
+F' U R D' R B2 U D L B' D' R' R2 L B2 U' R2 B2 D R2 B2 U2 R2 L2 F' U R
+
+D U' B U ~ L'
+B2 D B2 D'
+R2 U' F U F B D F U' F' % D'
+
+~ U' R2 U L' U' R2 U L
+% B' R B L2 B' R' B L2
+
+D U' B R2 U L' U' R2 U B2 D B2 D' R2 U' F U F B D F U' F' B' R B L2 B' R' B L2 D' (20+8+8-4+0 = 32)
+awful. arrrghhhh insertionsssss. IF gives 31. Still awful.
+(26,31,32)
+
+--------------------------------------------------
+
+88th
+R' U' F B' U2 L2 B' D2 U2 R2 F' U2 F' U' L F' D2 U' F' D' B U R D R' U' F
+F' U R D' R' U' B' D F U D2 F L' U F U2 F R2 U2 D2 B L2 U2 B F' U R
+
+(U2 B2 L) //EO + 2x2x1
+(U F D') //2x2x3 pseudo
+F2 D' F D' F' D2 //6c3e
+
+F2 D' F D' (B D2 B D2 B2) F' D' F' U' L' B2 U2
+F2 D' F D' B D2 (D2 R U2 R' D2 R U2 R') B D2 B2 F' D' F' U' L' B2 U2
+F2 D' F D' B R U2 R' D2 R U2 R' B D2 B2 F' D' F' U' (U2 L' D L U2 L' D' L) L' B2 U2
+F2 D' F D' B R U2 R' D2 R U2 R' B D2 B2 F' D' F' U L' D L U2 L' D' B2 U2 (11+5+8+8-0-2-3=27)
+(31,32,27)
+
+---------------------------------------------------
+
+89th
+R' U' F R2 D B2 R2 D' B2 U2 L2 F2 U2 B D U2 L2 U F' L' B' D R' D2 R' U' F
+F' U R D2 R D' B L F U' L2 U2 D' B' U2 F2 L2 U2 B2 D R2 B2 D' R2 F' U R
+
+D' R (U2 D2 R) //EO + square
+(D B') //Square + pair
+F' L2 D' L2 //2x2x2 + 1x2x3
+(F2 U2 F2) //1x2x3
+(F B' R2 F' B) //Many blocks
+F2 U B U B' U //L3C in 24
+
+D' R F' L2 D' L2 F2 U B U B' U B' F R2 B (U2 F D' F' U2 F D F') F U2 F2 B D' R' D2 U2 (24+8-2-30)
+
+D' R (U2 D2 R') //EO
+B2 R2 F' //2 squares
+(F D F) //EO
+U2 D2 B2 U' L2 D2 //Bad 6C in 17
+IF gives 28
+(32,27,30)
+
+----------------------------------------------------
+
+90th
+R' U' F D2 L2 F2 D2 L' F2 R B2 L' D2 U2 B R2 D B2 D' L2 B R' F' U R' U' F
+
+B' U' D R B //EO
+B2 D B2 //Block
+L' D2 //1x2x3
+
+(R U R' U R' U' R2 U R U) //L5C in 19 :(((
+
+B' U D R B' D B2 L' (L D' L' U' L D L' U) D2 U' R' U' R2 U R U' (D' L D R2 D' L' D R2) R U' R' (19+8+8+4-1=30)
+B' U D R B' D B2 D' L' U' L D L' D2 R' U' R2 U R U' D' L D R2 D' L' D R' U' R' (30)
+
+(27,30,30)
+
+-------------------------------------------------------------
+
+91th
+R' U' F D L2 R2 U B2 R2 U L2 D R F' L R B' D' U' L U' F' U' R' U' F
+F' U R U F U L' U D B R' L' F R' D' L2 U' R2 B2 U' R2 L2 D' F' U R
+
+(F R2 D2 F') //EO + pairs
+(U F2 R) //1x2x3
+U F2 //2x2x3 pseudo
+(F2) //Pseudo move
+L' D' L B2 R L' D L R' D' R D' R' D2 //3C
+
+U F2 (D' R' D L' D' R D L) L' D' L B2 R L' D L R' D' R D' R' D2 F2 R' F2 U' F D2 R2 F' (24+8-4=28)
+U F2 D' R' D L' D' R L B2 R L' D L R' D' R D' R' D2 F2 R' F2 U' F D2 R2 F' (28)
+
+Noticed the finish could have been just:
+"D' R' D" L' D' "R" L B2 R L' D L R' D' R D' R' D2
+Missed that!
+
+Genned optimal finishes:
+(F R2 D2 F') //EO
+(U F2 R F2) U F2 //2x2x3
+R2 U R U' B2 U R' L' F2 L U' R2 D2  (13f*) //CE finish! Intersting handling of the 1x1x3 pair.
+or
+(D2 R2 U L' F2 R L U' B2 U R' U' R2  (13f)) //CE finish. Random D2 R2 test moves then 2 blocks, then ez.
+
+U F2 R2 U R U' B2 U R' L' F2 L U' R2 D2 F2 R' F2 U' F D2 R2 F' (23)
+(30,30,28)
+
+------------------------------------------------------------
+
+92nd
+R' U' F L B2 R F L D L2 U' L' F B U2 L2 U2 B R2 B L2 D2 B2 R' U' F
+F' U R B2 D2 L2 B' R2 B' U2 L2 U2 B' F' L U L2 D' L' F' R' B2 L' F' U R
+
+U' B2 U2 B' //EO
+R' F2 D' L2 D U2 //123+P
+L' * U2 R U2 R U' L2 R2 D' R D ** R //3e3c horrible
+
+*: L R' F2 L' R U2
+**: B R F R' B' R F' R'
+
+U' B2 U2 B' R' F2 D' L2 D U2 R' F2 L' R2 U2 R U' L2 R2 D' R D B R F R' B' R F' (29)
+(30,28,29)
+
+---------------------------------------------------
+
+93rd
+R' U' F D2 F2 U F2 R2 U' F2 U' L R B' R2 D' B D2 B2 D2 U2 F' R' U' F
+F' U R F U2 D2 B2 D2 B' D R2 B R' L' U F2 U R2 F2 U' F2 D2 F' U R
+
+U2 B F L F' L' //EO + 2 squares
+R' D' L2 //2x2x3
+(U' L F2 L') //F2L-1
+(U' L' U2 L U2) //4C
+
+U2 B F L F' L' R' D' L2 & U2 L' # U2 L U L F2 L' U = (18+8+8-4-2=28)
+U2 B F L F' L' R' D' L' D L' U2 L D' L2 F' D F U2 F' D' F L U L F2 L' U
+
+& (L D L' U2 L D' L' U2)
+# (F' D F U2 F' D' F U2)
+
+(28,29,28)
+
+---------------------------------------------------------
+
+94th
+R' U' F L2 D2 L2 D2 R2 U' B2 U L D' F2 D' B' L' F L' B2 L' D2 U2 R' U' F
+F' U R U2 D2 L B2 L F' L B D F2 D L' U' B2 U R2 D2 L2 D2 L2 F' U R
+
+D2 L' (F' D2 R' U') //EO+blocks (6/6)
+(B D' B2) //2x2x3+blocks (3/9)
+(D' R2 D R2) D' F D' F' //4C (8/17)
+
+D2 L' D' F ** D' F' R2 * D' R2 D B2 D B' U R D2 F
+
+* R' U' R, D'
+** L' U' L, D'
+
+D2 L' D' F L' U' L D' L' U L F' R U' R D' R' U R' D B2 D B' U R D2 F (17+8+8-4-2=27)
+CE finish after the 2x2x3+blocks
+D' F2 U2 F' D' F U2 F R2 D' R2 D F  (13f*)
+or inverse (F' D' R2 D R2 F' U2 F' D F U2 F2 D  (13f*))
+the one in inverse was actually foundable by hand for me >:(
+
+Also didn't have time to insert:
+D2 L' (F' D2 R' U')
+(B D' B2) D' //4e4c in 10
+D2 L' D' B2 D B' U R D2 F
+still couldn't find anything there afterwards either.
+
+other solution:
+D2 L' (F' D2 R' U') //EO+blocks (6/6)
+(F' R2 F) then (B D' B2) //2x2x3+block + 2x2x1
+(B R2 B') //L3C -> optimal is 19 :'(
+
+(29,28,27)
+
+--------------------------------------------
+
+95th
+R' U' F D2 B L2 F2 D2 B2 F2 U' F2 L' B D2 L2 D' L' U F2 U' B R' U' F
+F' U R B' U F2 U' L D L2 D2 B' L F2 U F2 B2 D2 F2 L2 B' D2 F' U R
+
+(U2 R L F') //EO
+R B2 F2 U' L' R' D' R' //2x2x3 + random F2 to see if something is easier
+(D' L2 D' L2 D2 L2) //5C in 18
+
+R * B2 F2 U' L' R' ** D' R' L2 D2 L2 D L2 D F L' R' U2
+
+* D B D', F2
+* L' U' L, D'
+
+R D B D' F2 D B' D' B2 U' L2 R' U' L D' L' U L' R' D2 L2 D L2 D F L' R' U2 (18+8+8-2-4=28)
+(28,27,28)
+
+------------------------------------
+
+96th
+R' U' F  D2 R2 D2 R  B2 R2 F2 D2 L' U' F2 R' U2 B' D  F' D  R  U2 R2 F  R' U' F
+F' U R F' R2 U2 R' D' F D' B U2 R F2 U L D2 F2 R2 B2 R' D2 R2 D2 F' U R
+
+U2 B L' B' //EO
+(F2 R L2 U2) //2sq
+R' U2 R D' R D' F2 D' (U2 R B2 R' U2) //L3C in 22
+
+U2 B L' B' R' U2 R D' R D' F2 (F' D F U' F' D' F U) D' U2 R B2 R2 L2 F2 (18+8-2=24 kha)
+U2 B L' B' R' U2 R D' R D' F D F U' F' D' F U' D' R B2 R2 L2 F2
+(retrying my official 29)
+(27,28,24) = 26.33, nice
+
+-------------------------------------------------
+
+97th
+R' U' F D2 F2 R2 B D2 B L2 F D2 L2 F2 U L2 B' R B2 D B F2 L R' U' F
+F' U R L' F2 B' D' B2 R' B L2 U' F2 L2 D2 F' L2 B' D2 B' R2 F2 D2 F' U R
+
+(F' L' D' F') //EO
+(R2 B2 U2 L' F2 D) //Blocks
+(R' U F2 U R U2 * R' U R U' L' U L U2) //Backup skeleton (which ended up being the Final)
+
+* U L' U' R2 U L U' R2
+
+U2 L' U' L U R' U' R' U L' U' R2 U L U R' U' F2 U' R D' F2 L U2 B2 R2 F D L F (24+8-2=30)
+(28,24,30) sad
+
+---------------------------------------------------
+
+98th
+R' U' F U2 B2 U' B2 U2 R2 U B2 F2 U L2 B' R2 D2 U' F2 R D F2 U2 R' U' F
+F' U R U2 F2 D' R' F2 U D2 R2 B L2 U' F2 B2 U' R2 U2 B2 U B2 U2 F' U R
+
+D2 (D2 U2) //1x2x3
+(R D' R) R' //2x2x3
+(L' F L2) //Square
+L F L' F' L F L' //Sad
+L' F' L' U L U' L F' L' F2 L F2 //Very sad
+
+D2 R' L F L' F' L F L2 F' L' U L U' L F' L' F2 L F2 L2 F' L R' D R' U2 D2 (28)
+
+or
+D2 (D2 U2)
+(R D' R) R'
+L2 U L2 U' L2
+F' B L' F' L F B' (20 to good 6c)
+IF gives 29 so I'm not angry
+
+D2 (D2 U2) (R D' R) R' (L' F L2) (L D F D' L' F' L F L')
+D2 R' L F' L' F L D F' D' L F' L R' D R' U2 D2
+perhaps
+(24, 30, 28)
+
+-----------------------------------------------------------
+
+99th
+R' U' F D B2 D B2 U' L2 U2 B2 D R U' B' F2 D R2 D' B' U B' R' U' F
+F' U R B U' B D R2 D' F2 B U R' D' B2 U2 L2 U B2 D' B2 D' F' U R
+
+wtf lol
+L' B' L' U //EO
+R //Easy block
+(F2 L F2 D2) //Square
+L F L2 F L' F' L F2 //3C lol
+
+L' B' L' U R L F L2 F L' F' L F2 D2 (D B D', F2) F2 L' F2 (17+8-3=22 PB single!)
+(30, 28, 22)
+
+---------------------------------------------
+
+100th
+R' U' F D2 F' R2 F L2 F' D2 F D2 U F' L2 B L2 U' L D L R' U' R' U' F
+F' U R U R L' D' L' U L2 B' L2 F U' D2 F' D2 F L2 F' R2 F D2 F' U R
+
+F' * U2 F R F2
+L' D L D L D2
+F2 R' U R' U' R2 F2
+U R' U L' U' L R U2
+
+* F, U B' U'
+
+U B' U' F' U B U F R F2 L' D L D L D2 F2 R' U R' U' R2 F2 U R' U L' U' L R U2 (26+8-3=31)
+
+(28, 22, 31)

@@ -1,0 +1,11 @@
+R' U' F R2 D U2 R2 B2 U2 B2 U' R' D L2 F2 U' L' U2 F' U R' F' R' U' F
+
+U R2 D2 B2 // 222
+(R2 U F') // cross..
+(B' R' D R2 D' B) // 5c in 12
+
+U R2 D2 B ^ D R2 D' # R F B U' R2
+
+^ - B' U B D B' U' B D' // 3c in 16
+# - F' L2 F R F' L2 F R' (21)
+U R2 D2 U B D B' U' B R2 D' F' L2 F R F' L2 F2 B U' R2 (21)

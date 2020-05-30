@@ -1,0 +1,4 @@
+as you have F L2 F', M2
+you can get the same cycle by doing Fw L2 Fw', M2
+
+applies for other cases such as F L2 F', M' or similar

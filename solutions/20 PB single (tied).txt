@@ -1,0 +1,11 @@
+R' U' F L' R D2 R2 F2 D2 B2 L B2 F R' D' U B' L R2 B2 R' F U' R' U' F
+F' U R U F' R B2 R2 L' B U' D R F' B2 L' B2 D2 F2 R2 D2 R' L F' U R
+
+(U' R B' L') //EO
+U B F R2 F' L2 U B2 U B U' //3c in 15 wtf
+
+U B F R2 F' L2 U B2 U * B U' L B R' U
+* = D2 B U B' D2 B U' B' //(8-3) wtf
+There are other 2 spots for 8-3 what even
+
+U B F R2 F' L2 U B2 U D2 B U B' D2 B U2 L B R' U (20)

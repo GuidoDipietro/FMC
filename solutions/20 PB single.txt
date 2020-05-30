@@ -1,0 +1,20 @@
+https://alg.cubing.net/?alg=R_U-_L_F2_L_D2_F2_L2_F2_D-_B2_U-_L-_U_L-_D2_U_F-_L2_F&setup=R-_U-_F_D-_R2_D-_R2_U-_F2_R2_F2_D2_F2_D2_F_L_F_R-_B_D2_L_U2_B-_R-_U-_F
+
+R' U' F D' R2 D' R2 U' F2 R2 F2 D2 F2 D2 F L F R' B D2 L U2 B' R' U' F
+F' U R B U2 L' D2 B' R F' L' F' D2 F2 D2 F2 R2 F2 U R2 D R2 D F' U R
+
+(F' L2 F) //EO blocks
+(U' D2 F2) //222
+R U' R2 L' B2 L U' //4e4c in 13
+
+R U' L' R2 B2 L U' F2 D2 U F' L2 F
+R U' L' R2 B2 L U' F2 (F2 B2 R2 F2 B2 U' L' U L') D2 U F' L2 F //(9-2) to 3E in 20
+R U' L' R2 B2 L U' B2 R2 (R2 B2 U' B2 R2 F2 D' F2) F2 B2 U' L' U L' D2 U F' L2 F //(8-7) to solved lol
+
+R U' L' (M2) R2 B2 L U2 B2 (M2) R2 F2 D' B2 U' L' U L' D2 U F' L2 F //(2-3)+(2-2) to the same YES
+
+R U' L x2 B2 L U2 B2 Rw2 F2 D' B2 U' L' U L' D2 U F' L2 F (20)
+
+YESSSSSSSS
+
+R U' L F2 L D2 F2 L2 F2 D' B2 U' L' U L' D2 U F' L2 F (20)

@@ -1,0 +1,17 @@
+R' U' F R2 U2 R2 U L2 F2 U' L2 U R2 F' U' R' B2 U' R B2 F' L' R' U' F
+F' U R L F B2 R' U B2 R U F R2 U' L2 U F2 L2 U' R2 U2 R2 F' U R
+
+(U' F) //EO
+L D R' F2 R' D L2 D //DR in 10
+(L' D2 U2 L' U2 L' U2 L) //3c in 18
+
+L D R' F2 R' D L2 D L' U2 L U2 L U2 D2 L * F' U
+* = D2 F' U' F D2 F' U F //(8-3) wtf again?
+
+L D @ R' F2 R' D L2 D L' U2 L U2 L @ U2 D2 L D2 F' U' F D2 F' U2
+@ = E2 //(2-1)+(2-4) holy WTF HAHAHA this worked lmao
+
+L D' U2 L' B2 L' D R2 D R*' U2 R U2 R* L D2 F' U' F D2 F' U2
+* = w //(2-2)+(2-3) wtf one more
+
+L D' U2 L' B2 L' D R2 D L' B2 R B2 L2 D2 F' U' F D2 F' U2 (21)

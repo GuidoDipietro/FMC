@@ -1,0 +1,20 @@
+R' U' F B U D' R2 F2 R F2 B R U2 D R2 D' F2 B2 U F2 B2 D2 L2 R' U' F
+F' U R L2 D2 B2 F2 U' F2 B2 D R2 D' U2 R' B' F2 R' F2 R2 D U' B' F' U R
+
+(U' F) F2 U2 B //EO
+U2 R (U D R' D R) //DR (12)
+D' B2 U2 D' F2 U D //5e (19)
+
+These insertions took a looong time to find, I had a lot of time left...
+F2 U2 B U2 R # D' B2 @ ^ U2 D' F2 U D R' D' R U' D' F' U
+@ = B2 Bw2 //5e4x (2-2)
+# = R2 F2 Fw2 R2 //(4-1) 2e2e in 22
+^ = F2 U' Fw2 R2 F2 U' Fw2 R2 //(8-3) solved in 27
+
+Then luckily this happened afterwards:
+F2 U2 B U2 R' F2 B*2 L2 U2 B2 L2 F*2 D' B2 R2 U2 D' F2 U D R' D' R U' D' F' U
+* = w //(4-7) solved in 24
+F2 U2 B U2 R [D2 B2 R2 B2 D' B2 R2 U2 D' F2 U D] R' D' R U' D' F' U
+[] = U2 F2 L2 F2 U' R2 F2 U2 D' L2 D2 //(-1) solved in 23
+
+F2 U2 B U2 R U2 F2 L2 F2 U' R2 F2 U2 D' L2 D2 R' D' R U' D' F' U (23)

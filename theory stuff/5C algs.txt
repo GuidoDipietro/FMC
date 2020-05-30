@@ -1,0 +1,27 @@
+	spottable F2 U2 F2 U B U' F2 U2 F2 U' B' U
+	spottable F2 U2 F2 U B' U' F2 U2 F2 U' B U
+	spottable F2 U2 F2 U' B U F2 U2 F2 U B' U'
+	spottable F2 U2 F2 U' B' U F2 U2 F2 U B U'
+
+	spottable F2 U2 F2 U B2 U' F2 U2 F2 U' B2 U //actually a 6C, and here are the variations:
+
+{
+U' F2 U' B2 L2 U' D2 B2 U' F2 R2 D2  (12f*)
+(inverse)U' B2 U F2 U2 F2 U B2 U' F2 U2 F2  (12f*)
+U' B2 D R2 U2 R2 D F2 U' B2 D2 F2  (12f*)
+D' R2 U L2 D2 R2 U L2 D' F2 U2 F2  (12f*)
+}
+
+{
+U' R2 D R2 D' B2 D R2 D' R2 B2 U  (12f*)
+	spottable D' F2 D F2 U' B2 D R2 D' R2 B2 U  (12f*)
+	spottable D' F2 D F2 D' R2 D F2 D' F2 R2 D  (12f*)
+}
+
+{
+inverses of spottables (unspottables as they are)
+U' B2 R2 D R2 D' B2 U F2 D' F2 D  (12f*)
+D' R2 F2 D F2 D' R2 D F2 D' F2 D  (12f*)
+
+U' B2 R2 D R2 D' B2 D R2 D' R2 U  (12f*)
+}

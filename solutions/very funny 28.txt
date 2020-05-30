@@ -1,0 +1,25 @@
+I think this solution deserves a post.
+First of all, Speedsolving A2 SPOILERS
+
+As I first performed this scramble on a cube, I noticed it was one of the best FMC scrambles I had ever tried, for fingertricks XD It just flowed really nicely. Try it yourself!
+
+R' U' F B' R2 D2 U2 B' R2 F' R2 F R2 F' L' U' L' R2 B R' F' R B R' U' F
+
+Ok, now onto the solution:
+I found a 11 move silly F2L-1, then couldn't find anything better other than a 19 to 3tc2fe skeleton from there. I couldn't remember the alg that did that crazy fliptwist OLL-like thing, so I spent some 20/30 minutes playing around with the cube until I spotted a 12 mover, managed to optimize it to 10 moves (I'm pretty proud of that!) I didn't remember what the optimal count was, so I just used that alg.
+Inserted and cancelled 1 move, getting a 28.
+
+(L' U2 L2 U' L') //222
+(U' B' U D2 R' D2) //F2L-1
+D B D' B D B D' B' //3TC2FE ugh in 19
+
+D B D' B D B D' (R' B' R B' D2 L' D' L D' B2) B' D2 R D2 U' B U L U L2 U2 L
+D B D' B D B D' R' B' R B' D2 L' D' L D' B D2 R D2 U' B U L U L2 U2 L (28)
+
+I decided to keep trying things so I just went ahead and inserted a weird sune at a spot
+
+D B D' B D B D' (B D' B2 D B D' B @ D B) B' D2 R D2 U' B U L U L2 U2 L
+
+Then optimal for that was 30, which I spotted. (10-5, U' B D B' U D' R D' R' D at @). Not any better, but the solution was hilarious, coz the first 14 moves are 2 gen and 27/30 moves are quarter turns. Pretty funny.
+
+See why FMC is the best event?

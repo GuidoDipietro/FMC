@@ -1,0 +1,16 @@
+R' U' F D F D2 B2 R2 D2 U2 F2 L R2 U2 R B2 F' L' R2 D R' F2 U' R' U' F
+F' U R U F2 R D' R2 L F B2 R' U2 R2 L' F2 U2 D2 R2 B2 D2 F' D' F' U R
+
+R B (U' D' F)
+L U' L2 D' U2 L B2 L //DR (13) dc and many blocks
+D' //HTR-2e4c
+R2 L2 U' L2 U' ^ //HTR (19)
+F2 R2 U2 R2 U2 D2 B2 ^ U2 D2 //solved (28)
+^ = U2 Uw2 //(-2)
+
+R B L U' L2 D' U2 L B2 L [D' R2 L2 U' L2 U D2 B2 L2 U2 L2 U2 D2] F D U
+[] = Dw' R2 L2 Uw' L2 U Dw2 B2 L2 U2 L2 Uw2 D2 //(-3)
+
+R B L U' L2 D' U2 L B2 L U' F2 B2 D' L2 U' F2 R2 U2 R2 F D U (23)
+
+lol

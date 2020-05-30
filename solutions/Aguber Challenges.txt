@@ -1,0 +1,26 @@
+U F U2 B D2 F' U2 F2 D2 R2 D2 L' B2 L2 U L U' F2 L
+L' F2 U L' U' L2 B2 L D2 R2 D2 F2 U2 F D2 B' U2 F' U'
+
+B' D' R' D' R' //223
+(L U L') //EO
+(B' U' B2) //F2L-1
+(U2 B' U' B U' B' U' B) //2e2e in 19
+
+B' D' R' D' R' ^ B' U B U B' U B U2 B2 U B L U' L'
+^ R L U2 R' L' F' B' U2 F B //(10-4)
+
+B' D' R' D' L U2 R' L' F' B' U2 F U B U B' U B U2 B2 U B L U' L' (25)
+
+------------------
+R' U' F L2 U' L2 B2 D L2 D' R2 B R B2 R U' R2 U L2 U' F' D R' U' F
+F' U R D' F U L2 U' R2 U R' B2 R' B' R2 D L2 D' B2 L2 U L2 F' U R
+
+(U R') //EO wut
+(F U' L2 D2 B2 D F) //DR in 9 lol, optimal finish is D2 R2 D' F2 U B2 U' F2 R2 D' F2 L2 D R2 (14f*)
+(R2 U L2 D B2 U D' L2 U2 D) //3c in 19
+
+D' U2 L2 D (D' L2 F2 U' F2 U L2 F2 D F2) U' B2 D' L2 U' R2 F' D' B2 D2 L2 U F' R U'
+[D' U2 F2 U' F2 U L2 F2 D F2 U' B2 D' L2 U'] R2 F' D' B2 D2 L2 U F' R U'
+[] = U R2 D' F2 U L2 F2 D F2 D' R2 U' L2 U'
+
+U R2 D' F2 U L2 F2 D F2 D' R2 U' L2 U' R2 F' D' B2 D2 L2 U F' R U' (24)

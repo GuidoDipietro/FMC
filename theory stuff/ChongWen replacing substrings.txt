@@ -1,0 +1,16 @@
+R' U' F R2 B2 L' F2 D2 L' B2 R' B2 U' B2 D' F L U2 L' D U' L F R' U' F
+
+B' D' R2 F' L'//2sq (5/5)
+R2 U R (D')//F2L-1 (4/9)
+L' B' L B2 U B2 U'//4c (7/16)
+
+B' D' R2 F' L' R2 U R L' ** B' L * B2 U B2 U' D
+
+*=L' R' B2 L R D U B2 D' U' B2//to 3c (11-6/21)
+**=R' B L B' R B L' B' (8-3/26) this already beats IF by 1
+
+"Final": B' D' R2 F' L' R2 U L' B L B' R B <L' B2 R' B2 L> R D [U B2 D' B2 U'] D
+
+Replace <> with R' U2 R' U2 R and [] with D L2 D' L2 D' to cancel 4 more moves
+
+Final: B' D' R2 F' L' R2 U L' B L B' R B R' U2 R' U2 R2 D2 L2 D' L2 (22)

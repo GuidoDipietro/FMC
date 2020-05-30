@@ -1,0 +1,16 @@
+R' U' F  U  B2 R2 F2 U2 R2 U  F2 D  B2 D  F  D' B  R' F' L' D  R2 U2 B2 R' U' F 
+
+F //222 mis-centers
+(D' R U' B2 U) //223
+U F D F' U' D //3c1tc3e in 12
+
+F U F D F' U' D ^ L' D2 L B' R
+
+^ U D' F B' R' L U D' x y' //(8-8) NICE
+
+F * U F D B' R' L D' B2 U R' D
+
+* R D' F D % F' R' //(6-0) to 3c
+% D B D' F' D B' D' F //(8-3) hell yeah
+
+F R D' F D2 B D' F' D B' D' R' U F D B' R' L D' B2 U R' D (23)

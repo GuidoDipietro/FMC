@@ -1,0 +1,22 @@
+R' U' F U2 L2 B2 U2 L2 D B2 F2 D F2 L2 B U L U' L R D' B L' U2 R' U' F
+F' U R U2 L B' D R' L' U L' U' B' L2 F2 D' F2 B2 D' L2 U2 B2 L2 U2 F' U R
+
+(L) L U L //EO
+B D' R2 //sq + pairs
+B2 U2 B D2 //222 + squares
+F U2 //yes
+F' D B' D' F //3e3c in 18 I guess
+
+L U L B D' R2 * B2 U2 B D2 F U2 F' D B' D' ** F L'
+
+* F' D F' D' F2 //(5-0) to 3c in ugly 23
+** F R' F' L F R F' L' //(8-0) nice
+
+then
+L U L B D' R2 F' D F' D' F2 ^ B2 U2 B D2 # F U2 F' D B' D' F R' F' L F R F' L' F L'
+
+^ S2 //(2-5) :D
+# S2 //(2-1)
+
+L U L B D' R2 F' D F' D' z2 U2 B D2 B2 F2 F z2 U2 F' D B' D' F R' F' L F R F' L' F L'
+L U L B D' R2 F' D F' D B U2 B2 F' U2 F' D B' D' F R' F' L F R F' L' F L' (29)

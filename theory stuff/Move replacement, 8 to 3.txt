@@ -1,0 +1,10 @@
+F2 R' F' R U F2 L F'
+
+does the same as
+
+U L F2
+
+funfact
+
+it works in the the same way as this thingy:
+R U R' F' U2 L' U' L F U2

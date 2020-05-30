@@ -1,0 +1,12 @@
+R' U' F D2 U2 B2 R' F2 L' D2 B2 L2 F2 R U' R' D U2 L R' D' L' B U2 R' U' F
+F' U R U2 B' L D R L' U2 D' R U R' F2 L2 B2 D2 L F2 R B2 U2 D2 F' U R
+
+(B' F D2 R' F) //EO
+(L) U L2 U' D' R U2 R' //DR (13)
+D2 B2 R2 U R2 U D2 R2 U //3e (22)
+
+U L2 U' D' R U2 R' D*2 B2 R2 U* R2 U D*2 R2 % U L' F' R D2 F' B
+% = R2 F2 L2 D* L2 F2 R2 U //(8-3)
+* = w //(-1)
+
+U L2 U' D' R U2 R' U2 F2 L2 D F2 U' R2 F2 U L2 F2 R2 U2 L' F' R D2 F' B (26)

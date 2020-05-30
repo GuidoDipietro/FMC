@@ -1,0 +1,9 @@
+R' U' F D2 F' D2 B' U2 F R2 F U2 F' U2 L' B U2 L R D' L2 F D R' U' F
+F' U R D' F' L2 D R' L' U2 B' L U2 F U2 F' R2 F' U2 B D2 F D2 F' U R
+
+(L') F B' L //EO + CO
+D' B' U2 D2 F //DR in 9
+U' B2 L2 D F2 L2 U' L2 //R in 17
+(L U2 L' U2 L F' L' U' L U L F L2) //R perm XD
+
+F B' L D' B' U2 D2 F U' B2 L2 D F2 L2 U' F' L' U' L' U L F L' U2 L U2 (26)

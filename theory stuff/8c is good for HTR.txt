@@ -1,0 +1,13 @@
+R' U' F U2 F L2 B2 D2 R2 F D2 R2 D2 L2 D F' D' B D F2 L' B' R' U' F
+F' U R B L F2 D' B' D F D' L2 D2 R2 D2 F' R2 D2 B2 L2 F' U2 F' U R
+
+Solve by someone in FB that isn't me
+
+U (B U') // EO
+B L' (R2 F B' U2 L) // DR (10) -> with 8c (pure corners, or all but 3 solved corners)
+
+I thought that case wasn't too good for HTR, but think again...
+
+(D2 B) B2 R2 F R2 F' // HTR (17)
+^ R2 U2 B2 U2 F2 U2 // 2e2e in 23
+^ = D2 R2 U2 L2 U2 R2 [6-4/25]

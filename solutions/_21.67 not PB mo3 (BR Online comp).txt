@@ -1,0 +1,46 @@
+Br 1)
+
+R' U' F B U2 B2 U2 L2 R' B2 L' B2 R' B2 U2 R2 B D2 F' D B L U L2 R' U' F
+F' U R L2 U' L' B' D' F D2 B' R2 U2 B2 R B2 L B2 R L2 U2 B2 U2 B' F' U R
+
+(B') D' U2 F //EO
+U (L2 R' F2 U' L U') //DR (11) with inserted F2
+(R' L U2 D2 L U2 L) //HTR (18)
+(R2 B2 R2 F2) //3e (22)
+
+D' U2 F U F2 ^ R2 B2 R2 L' U2 L' D2 U2 L' R U L' U F2 R L2 B
+^ = F2 U' D R2 D' U //(6-4) solved (24)
+
+D' U2 F D R2 D' U [R2 B2 R2 L' U2 L' D2 U2 L' R] U L' U F2 R L2 B
+[] = L2 F2 L U2 L2 R F2 B2 //(-2)
+
+D' U2 F D R2 D' U L2 F2 L U2 L2 R F2 B2 U L' U F2 R L2 B (22)
+
+Br 2)
+
+R' U' F U2 R L2 B2 R2 B R2 F' D2 F D2 L2 B D2 L R2 U B R' B' F R' U' F
+F' U R F' B R B' U' R2 L' D2 B' L2 D2 F' D2 F R2 B' R2 B2 L2 R' U2 F' U R
+
+(B' F' L' F') //EO
+(D' R U D' L') //DR (9) gc
+(U' L2 B2 U') //HTR (13)
+(L2 D2 U2 B' F U2 F' B' U2) //finish (22)
+
+U2 F B U2 F' B U2 D2 ^ L2 U B2 L2 U ^ L D U' R' D F L F B
+^ = U2 Uw2 //(-1)
+
+U2 F B U2 F' B R2 U F2 R2 U' D2 L D U' R' D F L F B (21)
+
+Br 3)
+
+R' U' F D2 R U' R U2 L D2 R2 D2 B2 U2 F2 R2 F' L U' L2 B' L2 U' R' U' F
+F' U R U L2 B L2 U L' F R2 F2 U2 B2 D2 R2 D2 L' U2 R' U R' D2 F' U R
+
+F U' //EO
+L R2 B' U2 L' B L' B //DR (10) gc
+L //HTR-4e
+B2 L F2 B2 R //HTR (16)
+D2 F2 ^ U2 //2e2e (19)
+^ = F2 D2 R2 U2 B2 R2 D2 L2 //(8-5) (easy to see directly too)
+
+F U' L R2 B' U2 L' B L' B L B2 L F2 B2 R' U2 B2 R2 D2 L2 U2 (22)
