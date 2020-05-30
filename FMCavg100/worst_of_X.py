@@ -27,9 +27,9 @@ for index in reversed(np.arange(len(data)-chunk_size,0,-1*chunk_size)):
 	a[2].append(np.unique(chunk)[-3])
 a = np.array(a)
 print("Partition of latest {} into chunks of {}.".format(latest, chunk_size))
-print("Worst by chunk: {}, mean = {}".format(a[0], a[0].mean()))
-print("2nd worst by chunk: {}, mean = {}".format(a[1], a[1].mean()))
-print("3rd worst by chunk: {}, mean = {}".format(a[2], a[2].mean()))
+print("Worst by chunk: {}, mean = {}".format(a[0], round(a[0].mean(), 2)))
+print("2nd worst by chunk: {}, mean = {}".format(a[1], round(a[1].mean(), 2)))
+print("3rd worst by chunk: {}, mean = {}".format(a[2], round(a[2].mean(), 2)))
 print("")
 
 ######## Scan approach ########
@@ -42,6 +42,6 @@ for index in reversed(np.arange(len(data)-chunk_size,0,-1*step_size)):
 	b[2].append(np.unique(chunk)[-3])
 b = np.array(b)
 print("Scan of latest {} into chunks of {}, step size = {}.".format(latest, chunk_size, step_size))
-print("Worst by chunk: {}, mean = {}".format(b[0], b[0].mean()))
-print("2nd worst by chunk: {}, mean = {}".format(b[1], b[1].mean()))
-print("3rd worst by chunk: {}, mean = {}".format(b[2], b[2].mean()))
+print("Worst by chunk: {}, mean = {}".format(b[0], round(a[0].mean(), 2)))
+print("2nd worst by chunk: {}, mean = {}".format(b[1], round(a[1].mean(), 2)))
+print("3rd worst by chunk: {}, mean = {}".format(b[2], round(a[2].mean(), 2)))
