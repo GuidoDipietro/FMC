@@ -21,7 +21,7 @@ The ones I use the most:
 - **mo3s.py**  
   Frequency plot of all rolling mo3s in the latest 100 solutions.
 - **worst_of_X.py**  
-  Mean of worst solution by chunk. Partition and scan stats displayed, customizable sizes.
+  Mean of worst solution (and 2nd and 3rd worst) by chunks. Partition and scan stats. Customizable sizes.
   
 ## solutions
 Some solutions I found especially nice (PBs / interesting solutions), both mine and foreign.
