@@ -1,7 +1,7 @@
 import numpy as np
 
 # File to open
-filename = "singlesNEW.txt"
+filename = "raw/singlesNEW.txt"
 
 # Get data into np.array
 with open(filename,"r") as file:
@@ -45,3 +45,6 @@ print("Scan of latest {} into chunks of {}, step size = {}.".format(latest, chun
 print("Worst by chunk: {}, mean = {}".format(b[0], round(a[0].mean(), 2)))
 print("2nd worst by chunk: {}, mean = {}".format(b[1], round(a[1].mean(), 2)))
 print("3rd worst by chunk: {}, mean = {}".format(b[2], round(a[2].mean(), 2)))
+
+input()
+# If executed by double-click

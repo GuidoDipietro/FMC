@@ -10,7 +10,7 @@
 ## _FMC.txt
 All my solutions.
 
-## FMCavg100 
+## programs 
 Some programs in Python that compute stats and stuff.
 The ones I use the most:
 - **histoplotter.py**  

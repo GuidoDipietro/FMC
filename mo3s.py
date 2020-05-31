@@ -5,7 +5,7 @@ import pprint
 import math
 
 # File to open
-filename = "singlesNEW.txt"
+filename = "raw/singlesNEW.txt"
 
 # Get data into array
 with open(filename,"r") as file:

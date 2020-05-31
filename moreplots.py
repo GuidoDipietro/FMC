@@ -8,7 +8,7 @@ Created on Thu Mar 21 13:44:04 2019
 import matplotlib.pyplot as plt
 import numpy as np
 
-with open("singlesNEW.txt","r") as file:
+with open("raw/singlesNEW.txt","r") as file:
     for line in file:
         data = list(enumerate([int(x[0:2]) for x in line.split(", ")]))
         data = np.array([(x,y) for x,y in data])

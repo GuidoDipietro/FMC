@@ -5,8 +5,8 @@ Created on Wed Mar  6 20:34:09 2019
 @author: dipie
 """
 
-file = open("100solves.txt", "r+")
-outfile = open("parsed100solves.txt", "r+")
+file = open("raw/100solves.txt", "r+")
+outfile = open("raw/parsed100solves.txt", "r+")
 outfile.truncate(0)
 
 filearr = []
