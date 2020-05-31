@@ -26,11 +26,11 @@ Some programs in Python that compute stats and stuff.
   
 ## raw
 Text files with solutions and results used for computing stats, my own and foreign. Worth noting:
-- _FMC.txt  
+- **_FMC.txt**  
   All my FMC solutions. Period.
-- singlesNEW.txt  
+- **singlesNEW.txt**  
   All my FMC results, integer result only. (3 digit precision because I feel like it.)
-- AllMySub30s.txt  
+- **AllMySub30s.txt**  
   All my FMC solutions that are under 30 moves. Created when these were rare, only kept as a tradition now.
   
 ## solutions
