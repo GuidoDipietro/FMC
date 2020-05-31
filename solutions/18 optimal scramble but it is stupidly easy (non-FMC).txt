@@ -1,0 +1,13 @@
+R2 U2 R' U L R D2 R' U' L R' D' R' B2 R' D U2 F2 U D L D' B2 U' F'
+(optimal 18)
+
+I got this while speedsolving 3x3 and LOL'd
+
+F //EO
+U' L U' F2 U2 D' L' //DR (8)
+F2 D F2 D' //HTR (12)
+U2 F2 L2 F2 R2 F2 U2 F2 U2 F2 //done (22)
+
+or to 2e2e in 18 + 8 mover + slices for a 21
+
+F U' L U' F2 U2 D' L' F2 U L2 D' R2 U2 L2 U' D' L2 F2 R2 U2
