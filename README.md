@@ -19,6 +19,8 @@ Some programs in Python that compute stats and stuff.
   Frequency plot of all rolling mo3s in the latest 100 solutions.
 - **worst_of_X.py**  
   Mean of worst solution (and 2nd and 3rd worst) by chunks. Partition and scan stats. Customizable sizes.
+- **splits.py**  
+  Computes mean of DR / HTR / finish (estimated) / all, and displays histograms of all those splits (except finish).
 - **moreplots.py**  
   Ugly scatter plot with best-fit line, my first attempt at visualizing data here.
 - **FMCavg100.py** and **FMCavg100SessionGetter.py**  
