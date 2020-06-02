@@ -9834,3 +9834,22 @@ U' F U' F' //EO
 (23,25,22)
 
 U' F U' F' L2 F2 R2 D2 B2 L D2 L B2 L D' L2 D R' B2 R L' U' (22)
+
+-----------
+
+479th
+R' U' F R' D' R' L2 B D2 L' R2 B2 U' F2 U' R2 D2 B2 R2 B R2 F' R' U' F
+F' U R F R2 B' R2 B2 D2 R2 U F2 U B2 R2 L D2 B' L2 R D R F' U R
+
+F U' B' //EO
+(R' L U') U2 F2 R U2 R L2 U //DR (13) dc
+R2 F2 (R') //222
+(L2 D2) //223
+(B2 L B2 L B2 L' B2 L2 B2) //luck
+
+F U' B' U2 F2 R U2 R L2 U [R2 F2 B2 L2 B2] L B2 L' B2 L' B2 D2 L2 R U L' R
+[] = B2 R2 F2 B2 L2 //(-1)
+
+(25,22,26)
+
+F U' B' U2 F2 R U2 R L2 U B2 R2 F2 B2 L' B2 L' B2 L' B2 D2 L2 R U L' R (26)
