@@ -13,24 +13,19 @@ Some programs in Python that compute stats and stuff.
 - **histoplotter.py**  
   Plots a histogram of all solutions + latest 100 + latest 50. You can easily modify the value of both 'latest's.  
   Also displays some other brief stats.
-  
-  ![histoplotter image](misc/program_caps/histoplotter.PNG)
+  <br><br><img src="misc/program_caps/histoplotter.PNG" width=650><br><br>
 - **histoplotter_100.py**  
   Same as histoplotter but only latest 100 and 50. Also customizable.
-  
-  ![histoplotter_100 image](misc/program_caps/histoplotter_100.PNG)
+  <br><br><img src="misc/program_caps/histoplotter_100.PNG" width=650><br><br>
 - **mo3s.py**  
   Frequency plot of all rolling mo3s in the latest 100 solutions.
-  
-  ![mo3s image](misc/program_caps/mo3s.PNG)
+  <br><br><img src="misc/program_caps/mo3s.PNG" width=700><br><br>
 - **worst_of_X.py**  
   Mean of worst solution (and 2nd and 3rd worst) by chunks. Partition and scan stats. Customizable sizes.
-  
-  ![worst_of_X image](misc/program_caps/worst_of_X.PNG)
+  <br><br><img src="misc/program_caps/worst_of_X.PNG" width=650><br><br>
 - **splits.py**  
   Computes mean of DR / HTR / finish (estimated) / all, and displays histograms of all those splits (except finish).
-  
-  ![splits image](misc/program_caps/splits.PNG)
+  <br><br><img src="misc/program_caps/splits.PNG" width=750><br><br>
 - **moreplots.py**  
   Ugly scatter plot with best-fit line, my first attempt at visualizing data here.
 - **FMCavg100.py** and **FMCavg100SessionGetter.py**  
