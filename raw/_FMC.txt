@@ -9868,3 +9868,18 @@ L2 F2 D2 F' D2 F2 D2 //3e (20) into backup 25
 (22,26,25)
 
 U' F2 L' D2 R2 B R2 D2 L2 F' L2 D2 B L2 F2 D2 F' D2 F2 D' L2 D' B L2 F2 (25)
+
+-------------
+
+481th
+R' U' F U R' F2 D L2 D2 L2 U' L2 F2 B' R U B' R' F2 R2 F2 D R' U' F
+F' U R D' F2 R2 F2 R B U' R' B F2 L2 U L2 D2 L2 D' F2 R U' F' U R
+
+U2 D' R F //EO
+D' F2 D B2 L //DR (9)
+F2 U F2 {F2 U' F2 R2 B2 D' B2 R2} L2 D L2 D2 L2 B2 D B2 U R2 U' D //3e into backup 26
+was sliceable for a 25
+
+(26,25,26)
+
+U2 D' R F D' F2 D B2 L R2 B2 D' B2 R2 L2 D L2 D2 L2 B2 D B2 U R2 U' D (26)
