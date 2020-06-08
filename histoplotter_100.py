@@ -21,8 +21,11 @@ latest_2 = 50
 newhalf = np.array(new[-1*latest:])
 newhalf_2 = np.array(new[-1*latest_2:])
 
-print("mo100-mo50 = {}".format(round((newhalf.mean() - newhalf_2.mean()),2)))
-print("mo50/mo100 = {}".format((newhalf_2.mean()/newhalf.mean()),2))
+mo100 = round(newhalf.mean(),2)
+mo50 = round(newhalf_2.mean(),2)
+print("mo100: {}, mo50: {}".format(mo100,mo50))
+print("mo100-mo50 = {}".format(round((mo100-mo50),2)))
+print("mo50/mo100 = {}".format(round((mo50/mo100),2)))
 
 pb = min(newhalf)
 pw = max(newhalf)
