@@ -29,9 +29,9 @@ def subMeanCount(lista):
 def subMeanPct(lista):
 	return round((100*(subMeanCount(lista) / len(lista))),2)
 
-print("# of sub-moALL singles total: {} = {}%".format(subMeanCount(new), subMeanPct(new)))
-print("# of sub-mo{} singles latest {}: {} = {}%".format(latest, latest, subMeanCount(newhalf), subMeanPct(newhalf)))
-print("# of sub-mo{} singles latest {}: {} = {}%".format(latest_2, latest_2, subMeanCount(newhalf_2), subMeanPct(newhalf_2)))
+print("# of sub-moALL ({}) singles total: {} = {}%".format(round(new.mean(),2), subMeanCount(new), subMeanPct(new)))
+print("# of sub-mo{} ({}) singles latest {}: {} = {}%".format(latest, round(newhalf.mean(),2),latest, subMeanCount(newhalf), subMeanPct(newhalf)))
+print("# of sub-mo{} ({}) singles latest {}: {} = {}%".format(latest_2, round(newhalf_2.mean(),2),latest_2, subMeanCount(newhalf_2), subMeanPct(newhalf_2)))
 
 pb = min(new)
 pw = max(new)
