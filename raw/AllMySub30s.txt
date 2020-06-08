@@ -6644,3 +6644,16 @@ U' F2 R2 U2 R2 U' L % z2 D2 R2 D B2 D2 R2 ^ B' R' B F' L'
 % = L' R B2 R' L U2 //(6-5) solved yayz
 
 U' F2 R2 U2 R2 U' R B2 R' L' U B2 U2 L2 B F2 R' B F' L' (20)
+
+--------
+
+366th
+R' U' F B' D' F2 D R' F B' U' L' U2 F2 B2 R2 B2 L2 U2 R2 U' L2 D' R' U' F
+F' U R D L2 U R2 U2 L2 B2 R2 B2 F2 U2 L U B F' R D' F2 D B F' U R
+
+F L' U D2 F' //EO
+U L B2 D2 R' D' R' //DR (12) gc
+F2 B2 D2 B2 R2 D //HTR (18)
+L2 D2 R2 {R2 B2 R2 F2 L2 F2} //2e2e (21) -> 25
+
+F L' U D2 F' U L B2 D2 R' D' R' F2 B2 D2 B2 R2 D L2 D2 B2 R2 F2 L2 F2 (25)
