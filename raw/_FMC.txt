@@ -9917,3 +9917,18 @@ L2 D2 R2 {R2 B2 R2 F2 L2 F2} //2e2e (21) -> 25
 (26,20,25)
 
 F L' U D2 F' U L B2 D2 R' D' R' F2 B2 D2 B2 R2 D L2 D2 B2 R2 F2 L2 F2 (25)
+
+-----------
+
+484th
+R' U' F B U F D L' F U' R L2 D2 F' R2 B2 L2 F D2 L2 F' D2 B' D' R' U' F
+F' U R D B D2 F L2 D2 F' L2 B2 R2 F D2 L2 R' U F' L D' F' U' B' F' U R
+
+(U' R' L' D) //EO
+(F' R' F L2 B2 L F' L) //DR (12) gc
+(R2 B U2 F L2 F) //HTR (18)
+R2 F2 L2 F2 D2 R2 L2 //done (25)
+
+(20,25,25)
+
+R2 F2 L2 F2 D2 R2 L2 F' L2 F' U2 B' R2 L' F L' B2 L2 F' R F D' L R U (25)
