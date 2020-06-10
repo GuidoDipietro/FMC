@@ -9932,3 +9932,24 @@ R2 F2 L2 F2 D2 R2 L2 //done (25)
 (20,25,25)
 
 R2 F2 L2 F2 D2 R2 L2 F' L2 F' U2 B' R2 L' F L' B2 L2 F' R F D' L R U (25)
+
+-------------
+
+485th
+R' U' F R L' D2 F U R U2 F' U R2 U2 R2 D' B2 U L2 D2 F' D2 F R' U' F
+F' U R F' D2 F D2 L2 U' B2 D R2 U2 R2 U' F U2 R' U' F' D2 L R' F' U R
+
+L' F' B2 R' //EO
+(F2 U) F L2 B U' B U' //DR (12) 5c
+(B') F' //wentrick
+^ U2 D2 B //123
+F' U2 F D2 B' U2 //3e (23)
+U2 D2 R2 F' B2 R2 F' D2 F2 B2 //3e (23)
+^ = R L' F2 R' L D2 //(6-2)
+
+23 in ATM >:(
+Was sliceable for a 26, but I didn't spot it.
+
+(25,25,27) = booo
+
+L' F' B2 R' F L2 B U' B U' F' R L' F2 R' L U2 B F' U2 F D2 B' U2 B U' F2 (27)
