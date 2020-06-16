@@ -9953,3 +9953,22 @@ Was sliceable for a 26, but I didn't spot it.
 (25,25,27) = booo
 
 L' F' B2 R' F L2 B U' B U' F' R L' F2 R' L U2 B F' U2 F D2 B' U2 B U' F2 (27)
+
+-----------
+
+486th
+R' U' F R2 B2 U2 F2 R2 F2 U' B R2 D' R U2 B2 F L' F' D B R' U' F
+F' U R B' D' F L F' B2 U2 R' D R2 B' U F2 R2 F2 U2 B2 R2 F' U R
+
+B2 R2 D2 F //EO
+(R) U' L2 U' D L B2 L' //DR (12) sc
+D' (F2 L2 F2 U) //HTR (17)
+(F2 B2 L2 D2 B2 R2) //done in 23
+
+What about
+B (B2 U' B) //EO
+L' D' (L) //123 hi
+
+(25,27,23)
+
+B2 R2 D2 F U' L2 U' D L B2 L' D' R2 B2 D2 L2 B2 F2 U' F2 L2 F2 R' (23)
