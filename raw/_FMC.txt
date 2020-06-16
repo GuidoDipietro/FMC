@@ -9988,3 +9988,19 @@ so angry with this result, the scramble was good
 (27,23,30)
 
 U2 B U F2 B2 D' F2 R2 U2 F2 U2 F2 U2 F2 R2 U' L2 D2 F' D2 U' B2 D F2 U L B2 D' R' L' (30)
+
+-----------
+
+488th
+R' U' F R2 D L2 D2 R' F2 R' B2 R' F2 R' U2 R B' R' F L' U R' B2 D' R' U' F
+F' U R D B2 R U' L F' R B R' U2 R F2 R B2 R F2 R D2 L2 D' R2 F' U R
+
+B' (R2 U' B') //EO
+(U' L R2 U2 R U R') //DR (11)
+(L2 U2 B2 D') //5c (15)
+
+B' D B2 {B2 L F L' B2 L F' L'} U2 L2 R U' R' {B' D B U2 B' D' B U2} U2 R2 L' U B U R2
+
+(23,30,27) = such a bad mo3, worst in a whiiiile (next one will be worse, don't worry!)
+
+B' D L F L' B2 L F' L' U2 L2 R U' R' B' D B U2 B' D' B R2 L' U B U R2 (27)
