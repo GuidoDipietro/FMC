@@ -2,7 +2,7 @@ import numpy as np
 import re
 import matplotlib.pyplot as plt
 
-filename = "raw/24.8_ao100.txt"
+filename = "raw/clean_for_splits.txt"
 
 dr = []
 htr = []
