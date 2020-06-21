@@ -26,6 +26,9 @@ for k, val in enumerate(new):
 
 pprint.pprint(Counter(means))
 
+sub = 25.33
+print("Total sub {}: ".format(sub), sum([1 for x in means if x < sub]))
+
 pb = math.floor(min(means)) # Best of interval
 pw = math.floor(max(means)) # Worst of interval
 bins = [round(x,2) for x in np.linspace(pb,pw,3*(pw-pb)+1)] # To get somewhat proper ticks
