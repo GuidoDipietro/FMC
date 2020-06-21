@@ -10077,3 +10077,21 @@ ok so poblers there was a 9 move EO that skipped DR but I only found this
 (24,21,26)
 
 U2 R U R2 U' D L2 D L' F2 B2 U L2 B2 D' U2 F2 R2 D2 R2 B2 R2 D2 F' L' U2 (26)
+
+----------
+
+493th
+R' U' F L2 B D2 U2 B' U2 B' D2 B R2 B' U B2 U' F' R' F2 D' U R' U R' U' F
+F' U R U' R U' D F2 R F U B2 U' B R2 B' D2 B U2 B U2 D2 B' L2 F' U R
+
+F' (U' B') //EO
+U' R U' L' D' L //DR (9) 5c
+R2 B2 D R2 U' z2 //3e4x (14)
+
+F' U' R U' L' D' L R2 $ B2 D ^ R2 U' z2 B U
+^ = D F2 Fw2 D' //(4-1) 2e2e in 17
+$ = L2 F2 U' B2 R2 F2 D' B2 //(8-5)
+
+(21,26,21) = lol
+
+F' U' R U' L' D' L' R2 F2 U' B2 R2 F2 D F2 B2 U' L2 D' B U (21)
