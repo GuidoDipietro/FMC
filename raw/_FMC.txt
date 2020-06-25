@@ -10095,3 +10095,21 @@ $ = L2 F2 U' B2 R2 F2 D' B2 //(8-4)
 (21,26,21) = lol
 
 F' U' R U' L' D' L' R2 F2 U' B2 R2 F2 D F2 B2 U' L2 D' B U (21)
+
+----------
+
+494th
+R' U' F R U2 R' U2 B U2 F2 D2 L2 D2 L2 F' R F D2 F' U' L' D R' U' F
+F' U R D' L U F D2 F' R' F L2 D2 L2 D2 F2 U2 B' U2 R U2 R' F' U R
+
+(R' U2 F) //EO
+D' L U D R2 U2 L' B2 L' //DR (12) gc
+B2 L2 ^ U L2 D' //HTR (17)
+(L2 D2 R2 D2 x2) //3E4x (21)
+
+Tracking and re-solving, rNISSing at ^
+D' L U D <L2 D2 L R2 B2 R' U2 R' L' x2> U L2 D' x2 D2 R2 D2 L2 F' U2 R (23)
+
+(26,21,23)
+
+D' L U D L2 D2 L R2 B2 R' U2 R' L' D L2 U' D2 R2 D2 L2 F' U2 R (23)
