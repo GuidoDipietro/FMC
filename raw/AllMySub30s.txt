@@ -6818,3 +6818,18 @@ Tracking and re-solving, rNISSing at ^
 D' L U D <L2 D2 L R2 B2 R' U2 R' L' x2> U L2 D' x2 D2 R2 D2 L2 F' U2 R (23)
 
 D' L U D L2 D2 L R2 B2 R' U2 R' L' D L2 U' D2 R2 D2 L2 F' U2 R (23)
+
+----------
+
+377th
+R' U' F R2 D2 F' D' R' F D2 R F' L2 F' R2 F U2 L2 D2 B' D2 R' U R' U' F
+F' U R U' R D2 B D2 L2 U2 F' R2 F L2 F R' D2 F' R D F D2 R2 F' U R
+
+(R2 B2 U R') //EO
+D' F (D R2 U' R2 U2 B2 U' B') //DR (14) mehc
+D' F2 R2 D2 R2 U R2 U' //HTR (22)
+(D2 F2 R2 y2) //4e4x (25)
+
+D' F D' F2 R2 D2 R2 U R2 {D F2 Fw2 D'} U' y2 Rw2 F2 D2 B U B2 U2 R2 U R2 D' R U' B2 R2
+
+D' F D' F2 R2 D2 R2 U R2 D F2 Fw2 D' U' y2 Rw2 F2 D2 B U B2 U2 R2 U R2 D' R U' B2 R2 (29)
