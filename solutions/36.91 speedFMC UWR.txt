@@ -1,0 +1,52 @@
+37.33, 40.59, 32.81, 47.08, 32.27 = 36.91 ao5
+32, 34, 30, 42, 28 = 32.00 ao5
+Times: 5:19.51, 6:35.54, 2:48.31, 5:04.85, 4:15.97
+
+R' U' F U2 F' D2 B L2 F2 R2 U2 B' L2 B' L' B L' D' U' F L' R2 F R D R' U' F (32, 5:19.51) = 37.33
+
+R' D B L' //EO
+D' F D' B2 U D L2 U2 D' F' //DR
+D2 R2 D //HTR-2e
+(U F2 R2 F2 U) //HTR
+(Bw2 F2 {L2 F2 L2 D2 B2 R2 B2 D2} D2 R2 D2 Fw2 D2) //2e2e with backtrace insertion and slicey for -2
+
+---
+
+R' U' F U2 F2 R2 B2 U2 F2 U L2 D2 R2 U' R F U L2 B' R' U2 F2 L' F' R' U' F (34, 6:35.54) = 40.59
+
+B' U L' F //EO
+(U R) R2 D2 B2 U2 B2 U' D F2 D' L //too long DR
+U R2 //123
+U L2 U //3c3e
+R2 D' L2 D R2 {B F' D2 B' F L2} D' L2 D //3e backtraced insertion
++ slices
+
+---
+
+R' U' F D F2 L B2 D2 L R2 D2 L' R2 B2 R D' L U L U' B D' L' U F' R' U' F (30, 2:48.31) = 32.81
+
+L' D' R2 F' //EO
+U2 F2 U' F2 U2 D' L //DR
+D B2 L2 //222
+R2 U' R2 //223
+U B2 U //2e2c
+B U B' R2 F D' F D F2 R2 //done
+
+---
+
+R' U' F R2 F2 R2 B2 F D2 F' R2 D2 R2 F' U L F' U' L2 R D' B' R2 B' R' U' F (42, 5:04.85) = 47.08
+
+D F R L B //EO
+U L F2 D2 B2 D B2 L' B2 L //DR
+R2 U2 B2 D' R2 //123
+L2 D Dw2 L2 {F2 B U B' U' L' B' L2 U' L' U L' B L F2 B'} U2 R2 y2 //2e2c with backtracked inserted weird V perm and slicey reduction
+
+---
+
+R' U' F D F2 D2 F2 R2 D R2 D' B2 U L2 U2 R F2 D B' L2 U L' U' R' U R' U' F (28, 4:15.97) = 32.27
+
+F' D' R' F //EO
+L' U2 R2 U2 R2 U' B2 L U2 L' //DR
+U2 F2 //222
+U B2 U2 B2 U2 L2 //223
+B2 {B2 R' L U2 R L'} U B2 //3e with backtracked luck
