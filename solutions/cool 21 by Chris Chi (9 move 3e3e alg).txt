@@ -1,0 +1,7 @@
+R' U' F L' B2 U B F' U2 B2 F D2 L2 F' D B' U B2 F2 L F' U2 R' U' F
+
+(R B U) // EO
+(F' B' R) // DR-2e
+(F D2 L2 * B2 L2 F B') // 3e3e
+*: (B R L2 F' R2 L2 B R B') // setup to 6 mover :D
+solution: B F' L2 B' R' B' R2 L2 F L2 R' B' L2 D2 F' R' F B U' B' R' (21)
