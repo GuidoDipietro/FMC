@@ -33,7 +33,7 @@ Some programs in Python that compute stats and stuff.
   <br><br><img src="misc/program_caps/odd-even-reduced.PNG" width=650><br><br>
   **odd-even-sequential.py**  
   This does the same but by partitioning the set on chunks of size S.
-  <br><br><img src="misc/progrm_caps/odd-even-sequential.PNG" width=650><br><br>
+  <br><br><img src="misc/program_caps/odd-even-sequential.PNG" width=650><br><br>
 - **moreplots.py**  
   Ugly scatter plot with best-fit line, my first attempt at visualizing data here.
 - **FMCavg100.py** and **FMCavg100SessionGetter.py**  
