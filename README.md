@@ -26,6 +26,9 @@ Some programs in Python that compute stats and stuff.
 - **splits.py**  
   Computes mean of DR / HTR / finish (estimated) / all, and displays histograms of all those splits (except finish).
   <br><br><img src="misc/program_caps/splits.PNG" width=750><br><br>
+- **odd-even.py**  
+  I noticed my histoplotter.py graphs was a bit strange... with some tendency towards odd results being much more likely than even. So I just checked it with this program and got shocked.
+  <br><br><img src="misc/program_caps/odd-even.PNG" width=500><br><br>
 - **moreplots.py**  
   Ugly scatter plot with best-fit line, my first attempt at visualizing data here.
 - **FMCavg100.py** and **FMCavg100SessionGetter.py**  
