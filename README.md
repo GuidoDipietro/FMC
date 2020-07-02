@@ -30,6 +30,9 @@ Some programs in Python that compute stats and stuff.
   Ugly scatter plot with best-fit line, my first attempt at visualizing data here.
 - **FMCavg100.py** and **FMCavg100SessionGetter.py**  
   I have no idea what these do, I'm keeping them in case I remember some day.
+- **odd-even.py**  
+  I noticed my histoplotter.py graphs was a bit strange... with some tendency towards odd results being much more likely than even. So I just checked it with this program and got shocked.
+  <br><br><img src="misc/program_caps/odd-even.PNG" width=650><br><br>
   
 ## raw
 Text files with solutions and results used for computing stats, my own and foreign. Worth noting:
