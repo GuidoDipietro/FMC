@@ -1,0 +1,9 @@
+R' U' F B' D2 B2 L2 U2 B' D2 U2 F2 L2 F' U' F' L U' B R F' R' F2 R' U' F
+F' U R F2 R F R' B' U L' F U F L2 F2 U2 D2 B U2 L2 B2 D2 B F' U R
+
+R2 F U L //EO
+U B F2 L2 U' F' U2 F //DR (12) 5c
+L2 //sq
+U2 L2 U2 D F2 D' R2 D //wtf (21)
+
+R2 F U L U B F2 L2 U' F' U2 F L2 U2 L2 U2 D F2 D' R2 D (21)
