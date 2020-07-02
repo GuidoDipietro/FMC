@@ -26,21 +26,18 @@ Some programs in Python that compute stats and stuff.
 - **splits.py**  
   Computes mean of DR / HTR / finish (estimated) / all, and displays histograms of all those splits (except finish).
   <br><br><img src="misc/program_caps/splits.PNG" width=750><br><br>
-- **odd-even.py**  
-  I noticed my histoplotter.py graphs was a bit strange... with some tendency towards odd results being much more likely than even. So I just checked it with this program and got shocked.
-  <br><br><img src="misc/program_caps/odd-even.PNG" width=500><br><br>
+- **odd-even**  
+  I noticed my histoplotter.py graphs was a bit strange... with some tendency towards odd results being much more likely than even. So I just checked it with this program and got shocked.  
+  **odd-even-reduced.py**  
+  This one measures it on the latest X to S attempts, decreasing by a step of S. For example, latest 100, 75, 50, and 25 attempts.
+  <br><br><img src="misc/program_caps/odd-even-reduced.PNG" width=650><br><br>
+  **odd-even-sequential.py**  
+  This does the same but by partitioning the set on chunks of size S.
+  <br><br><img src="misc/progrm_caps/odd-even-sequential.PNG" width=650><br><br>
 - **moreplots.py**  
   Ugly scatter plot with best-fit line, my first attempt at visualizing data here.
 - **FMCavg100.py** and **FMCavg100SessionGetter.py**  
   I have no idea what these do, I'm keeping them in case I remember some day.
-- **odd-even**  
-  I noticed my histoplotter.py graphs was a bit strange... with some tendency towards odd results being much more likely than even. So I just checked it with this program and got shocked.
-  - odd-even-reduced.py  
-  This one measures it on the latest X to S attempts, decreasing by a step of S. For example, latest 100, 75, 50, and 25 attempts.
-  <br><br><img src="misc/program_caps/odd-even-reduced.PNG" width=650><br><br>
-  - odd-even-sequential.py
-  This does the same but by partitioning the set on chunks of size S.
-  <br><br><img src="misc/progrm_caps/odd-even-sequential.PNG" width=650><br><br>
   
 ## raw
 Text files with solutions and results used for computing stats, my own and foreign. Worth noting:
