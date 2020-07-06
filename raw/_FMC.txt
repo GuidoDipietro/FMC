@@ -10192,3 +10192,21 @@ U2 L2 U2 D F2 D' R2 D //wtf (21)
 (27,27,21)
 
 R2 F U L U B F2 L2 U' F' U2 F L2 U2 L2 U2 D F2 D' R2 D (21)
+
+-------------------
+
+500th :)
+R' U' F D' R2 F2 U R2 U' R2 D2 L2 U2 R' B' D F' D2 L' R B' L2 D' R' U' F
+F' U R D L2 B R' L D2 F D' B R U2 L2 D2 R2 U R2 U' F2 R2 D F' U R
+
+(B' R2 F) //EO
+R //DR-stuff
+(U' L) //DR-more stuff
+U' R2 F2 U B2 U' D2 L //DR (14) sc
+(D' L2 D' F2 U' D R2) //2e2e (21)
+
+R U' R2 F2 U B2 U' Dw2 L {R' F2 Fw2 R} R2 U (R2 Rw2) D' F2 D L2 D L' U F' R2 B
+
+(27,21,25)
+
+R U' R2 F2 U B2 U R L' F2 B2 R' D R2 L2 D' F2 D L2 D L' U F' R2 B (25)
