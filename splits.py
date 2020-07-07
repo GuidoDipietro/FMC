@@ -2,7 +2,8 @@ import numpy as np
 import re
 import matplotlib.pyplot as plt
 
-filename = "raw/clean_for_splits.txt"
+#filename = "raw/clean_for_splits.txt"
+filename = "raw/_FMC.txt"
 
 dr = []
 htr = []
@@ -25,11 +26,11 @@ dr = np.array(dr)
 htr = np.array(htr)
 final = np.array(final)
 
-print("DRs: ({})".format(len(dr)), dr)
+print("DRs: ({})\n".format(len(dr)), dr)
 print("Mean of all: {}\n".format(round(dr.mean(), 3)))
-print("HTRs ({}): ".format(len(htr)), htr)
+print("HTRs ({}):\n ".format(len(htr)), htr)
 print("Mean of all: {}\n".format(round(htr.mean(), 3)))
-print("All results ({}): ".format(len(final)), final)
+print("All results ({}):\n".format(len(final)), final)
 print("Mean of all: {}\n".format(round(final.mean(), 2)))
 print("Estimated mean of finishes: {}".format(round(final.mean()-dr.mean(),2)))
 

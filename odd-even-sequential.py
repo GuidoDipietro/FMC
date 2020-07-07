@@ -45,5 +45,3 @@ plt.xlabel("Chunks of size {}".format(step))
 plt.xticks([])
 plt.grid()
 plt.show()
-
-input()

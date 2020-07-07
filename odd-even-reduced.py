@@ -39,5 +39,3 @@ plt.ylabel("Ratio odd/even")
 plt.xlabel("Considering latest -X attempts")
 plt.grid()
 plt.show()
-
-input()
