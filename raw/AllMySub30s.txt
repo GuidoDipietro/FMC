@@ -6969,3 +6969,23 @@ F' U R U' B2 L' D' B2 U2 L2 D' U2 R2 D L' B2 F2 U' F' L' R' D2 F' U R
 ^ = U2 L2 U2 L2 U2 L2 //(6-4)
 
 F2 U2 B' L2 F2 U2 B' U2 L U2 L2 U2 L' B2 F' L2 B L' U' B R D2 (22)
+
+------------
+
+387th
+R' U' F D' B2 F2 R2 U' L2 F2 D U2 L2 U2 L2 R B2 D L F2 D' L' F U2 R' U' F
+F' U R U2 F' L D F2 L' D' B2 R' L2 U2 L2 U2 D' F2 L2 U R2 F2 B2 D F' U R
+
+(R2 L2 U' L) //EO
+D B' D2 F L2 U' {D2 F' U2 Uw2 F D2} F U' //DR (12)
+F2 L2 U2 F //HTR (16)
+L2 F2 y2 //4e4x (18) -> 24
+
+D B' D2 F L2 U' D2 F' U2 Uw2 F D2 F U' F2 L2 U2 F L2 F2 y2 L' U R2 L2 (24)
+
+(R2 L2 U' L) //EO
+(D B F' D B' D) //DR (10) 5c
+(F D2 B L2 B) //HTR (15)
+(D2 B2 D2 B2 R' L D2 R L) //ALL (24)
+
+R' L' D2 R L' B2 D2 B2 D2 B' L2 B' D2 F' D' B D' F B' D' L' U R2 L2 (24)
