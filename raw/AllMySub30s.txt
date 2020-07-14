@@ -7019,3 +7019,18 @@ B' R B2 L2 F2 U2 B' L' [B' D2 B' D2 B] U2 L2 U2 D2 L2 U B'
 [] = B F2 U2 F' L2 F' B2 //(2)
 
 B' R B2 L2 F2 U2 B' L' B F2 U2 F' L2 F' B2 U2 L2 U2 D2 L2 U B' (22)
+
+-------------
+
+390th
+R' U' F D R' U' B' D R2 B2 U R' D2 L F' L2 B U2 F' U2 B R' U' F
+F' U R B' U2 F U2 B' L2 F L' D2 R U' B2 R2 D' B U R D' F' U R
+
+D' (L D) //EO
+(B U2 F' L2 F) //DR (8) gc lol
+L' R2 F*2 @ L B2 //5e (13)
+* = w //3e4x (13) wth
+& = F2 Fw2 //2e2e (15)
+@ = B2 L' F2 U2 B2 R' F2 D2 //(8-4) wow ok
+
+D' L' F2 B2 L F2 U2 B2 R' F2 D2 L B2 F' L2 F U2 B' D' L' (20)
