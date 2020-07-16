@@ -6,6 +6,7 @@ import math
 
 # File to open
 filename = "raw/singlesNEW.txt"
+#filename = "raw/rominaSingles.txt"
 
 # Get data into array
 with open(filename,"r") as file:
