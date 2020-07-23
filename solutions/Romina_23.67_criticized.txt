@@ -1,0 +1,164 @@
+Romina Peretti ~ (24, 26, 21) = 23.67 PB mo3 + single
+Críticas - Guido Dipietro
+
+################################################################################
+
+R' U' F D2 R2 B2 F2 D B2 U' B2 F2 D' R2 U' B R B U2 L2 R U' R' U' F
+
+(U2 F2 D2 L) // EO
+D B (L2 D $ R2 F U2 F) // DR
+B2 U F2 // blocks -> conviene influenciar la capa E acá, ponele haciendo B2 U2 D' L2 U D2 B2 U D2 //3e (20) y después acortando el skeleton/solve final de ser posible.
+// O, al menos, esa es mi preferencia: primero resolver la capa E de esa forma y no tener que insertar.
+(* U F2 D) // 16 to 3e3e
+
+$: U' D B2 U D' R2 // 6-3
+*: U2 L R' F2 L' R // 6-1
+
+Final: D B' U F2 D' F2 U L R' F2 L' R F' U2 F' U' D B2  U D2 L D2 F2 U2 (24)
+
+Otra cosa, tu skeleton antes de insertar nada era este:
+D B' U F2 D' F2 U' F' U2 F' R2 D' L D2 F2 U2 //(3e3E en 16) {E mayúscula porque son las del slice, que generalmente se resuelven más fácilmente}
+El cacho de DR termina donde puse el $, así que hago reverse NISS desde ahí, pero hasta el ^:
+
+D B' ^ U F2 D' F2 U' $ F' U2 F' R2 D' L D2 F2 U2
+
+Haciendo estos moves:
+F' U2 F' R2 D' L D2 F2 U2 {mezcla} D B'
+Ahora siguiendo los moves del skeleton (U F2...) me guío para resolver el E:
+U2 D' L2 U D2 B2 U D2 //8 moves, antes en esa porción había 5; las resolví en 3 moves.
+Entonces reemplazo:
+D B' ^ [...] $ F' U2 F' R2 D' L D2 F2 U2 -> [...] = U2 D' L2 U D2 B2 U D2
+
+D B' U2 D' L2 U D2 B2 U D2 F' U2 F' R2 D' L D2 F2 U2 //3e en 19
+En este caso esto resulta equivalente a tu inserción, porque justo fue un caso medio malo de slice E, pero generalmente hacerlo así es más corto. Igualmente aunque en este caso dé lo mismo, está piola que conozcas la técnica si es que no la conocías aún.
+
+Otras ideas con tu DR:
+
+1)
+(U2 F2 D2 L') // EO
+D B (D R2 F U2 F) // DR (11)
+(D R2 D R2 D') //HTR (16)
+(B2) //3e3e (poco amigable...) -> 24 óptimo, pero ni lo miraría, usaría el tiempo para encontrar algo como:
+
+2)
+Skeleton 3e a 18, con HTR:
+(U2 F2 D2 L') // EO
+D B' (D R2 F U2 F) // DR (11)
+(D) R2 L2 U R2 U //HTR (17)
+(D' U B2 U D) //3e (18) (lol 5-4 cancelando con NISS)
+
+Lo mismo pero sin HTR:
+(U2 F2 D2 L') // EO
+D B' (D R2 F U2 F) // DR (11)
+R2 L2 U R2 D' B2 U' //3e (18) -> el R2 L2 puede resultar raro, creo que es más claro verlo con la anterior
+
+Dos opciones para 23 final:
+D B' L2 %1 R2 U R2 D' B2 %2 U' F' U2 F' R2 D' L D2 F2 U2
+
+%1 = L2 B2 R2 D' R2 B2 L2 U' //(8-3)
+%2 = F B' U2 F' B L2 //(6-1)
+Hay más pero yo vi esas dos + las que sean shifts de eso.
+
+Finish en 12 es óptimo para este DR. Estuviste ahí nomás, era bastante parecido a lo que hiciste.
+De hecho, tu 24 es sliceable a un 23, o con otras inserciones. Pero medio pako. Más fácil así.
+
+################################################################################
+
+R' U' F L2 U2 R' F U' D L' B2 L2 F2 R2 U2 R2 F U2 B' U2 D' L2 U2 R' U' F
+
+D L' B2 U // EO
+B R2 U2 L2 F L // DR (10), las esquinas son 3 pares opuestos + 1 par match. No es un caso malo pero no es de los mejores.
+		// Está ok. Se puede resolver con cosas como R2 U R2 U' R2 U R2; 7 moves es 'aceptable', pero lo que tiene de malo
+		// es que son todos moves de la misma cara (con slices en el medio se disimula un poco)... cancelar
+		// bastantes moves en inserciones con este caso es un poco más difícil que con otros, pero igual es decente.
+D2 F D2 * R2 F2 U2 F2 R2 B2 R2 // 223
+				//223 en la misma cantidad de moves que el DR, hmst 🤔
+B' D2 B2 D2 B D2 B' D2 // ALL in 28, but I don't like that so… // I agree
+
+*: F2 U2 F2 R2 F2 U2 F2 R2 // 8-10, 26 to 3e
+
+D L' B2 U B R2 U2 L2 F L D2 F D2 F2 U2 F2 B2 $ R2 B' D2 B2 D2 B D2 B' D2
+
+$: B2 F2 U2 F2 B2 D2 // 6-8, still 3e but 2 moves shorter
+
+D L' B2 U B R2 U2 L2 F L D2 F # D2 B2 D2 R2 B' D2 B2 D2 B D2 B' D2
+
+#: F B' L2 F' B D2 // 6-4, done in 26 that's better :)
+
+Final: D L' B2 U B R2 U2 L2 F L D2 F2 B' L2 F' B' D2 R2 B' D2 B2 D2 B D2 B' D2 (26) 
+could've found it straight away lol oh well
+
+---
+
+Lo primero que probé en este DR:
+
+D L' B2 U // EO
+B R2 U2 L2 F L // DR (10)
+(F L2) //empiezo a resolver esquinas (si hiciera F L2 F L2 F' L2 tendría 4 pares match)
+	// elijo eso porque veo que hacer F a continuación en la inversa me dejaría un cuadrado. Idk.
+U2 B //HTR-4e4c es piola, y además hago algunos bloques, capaz sale bien...
+L2 F' L2 D2 B' //HTR (19), un poco largo, pero está re blocoso
+U' D' R2 F2 U D //ALL (25), esto es como hacer U2 B2 R2 U2 pero metiéndole slices para resolver todo
+(25 final)
+Con esos casos hay que tener cuidado, porque U2 B2 R2 U2 daría 3e en 23 y capaz uno pensaría "bueno, difícil resolverlo en menos de 2 moves con inserciones" y en una de esas sí se podía. Conviene, si hay tiempo, chequear a ver si no hay nada mejor. En este caso, lo mejor es un 8-6 que equivale a la resolución directa.
+
+D L' B2 U B R2 U2 L2 F L U2 B L2 F' L2 D2 B' U' D' R2 F2 U D L2 F' (25)
+
+El óptimo (uno de varios) para un 23:
+[...] // DR (10)
+(B) //no mucho, orientar algunas cosas, 2c no es un caso bueno... cruzar los dedos para hacer NISS y que salga bien
+U2 F //HTR-4e4c, salió bien
+U2 F' D2 R2 F' //HTR (18)
+U2 R2 B2 R2 L2 //bueno dale (23)
+
+Son cosas que se encuentran mediante serendipia o nada.
+
+################################################################################
+
+R' U' F U2 L2 D F2 D U R2 B2 U' L2 R D' F L' B' R2 D2 U' R2 B2 R' U' F
+
+*L U R D' // EO
+(B R') // DR
+(U2 L2 R2 F2 L2 D2) // 223
+(B R2 B2 R2 B) // 17 to 3c
+
+Skeleton de Gustavo Vaz para 20:
+L U R D'//EO(DR-4E4C)
+(B R')//DR(6)
+(U2 R2 L2 U2 F2 L2 D2
+B R2 B')//AB3C(16)
+
+*: D2 L U L' D2 L U' L // 8-4
+
+Cómo encontrarlo si te agarra una iluminación celestial (yo no hubiera visto esto, muy probablemente)
+Final: D2 L U L' D2 L R D' [B' R2 B2 R2 B' D2 L2 F2] R2 L2 U2 R B' (21)
+[] = B R2 B' D2 L2 F2 U2 //(-1) para 20, hallable así:
+B R2 B' //HTR
+D2 L2 F2 U2 //poof
+
+La verdad muy interesante esa secuencia equivalente... Para estudiarla, porque no tiene moves paralelos en F/B y sin
+embargo se puede acortar. Hmst. Muy curioso.
+
+No tengo mucho más para proponer; yo hice un 24 en esta mezcla.
+
+################################################################################
+
+Palabras finales:
+
+S1)
+Dejando tanto para insertar puede hacer que sea más difícil / más lento encontrar las inserciones óptimas. Las aristas del slice E (o del que corresponda al DR que toque) suele ser mejor resolverlas directamente, y después eventualmente acortar el skeleton o solución final.
+No es muy usual que la inserción non-slice resulte mejor. Casi siempre es igual o peor. Acá fue igual.
+Muy buen DR, no estaba a la vista y era bastante piola.
+
+S2)
+Una solución demasiado complicada, pero me gusta que la hayas acortado insertando algoritmos que desarman el cubo.
+Son de esas que terminás y ves como otro la encontró directamente y pensás "xd, sí, bueno, es lo mismo". mepasa
+Podrás ver que había soluciones más cortas usando HTR, que arrancan con moves medio raros que no hacen mucho. Eso es muy común.
+
+S3)
+No hay mucho por acotar acá, salvo esa secuencia rara que se podía acortar (o encontrar de otra forma). La verdad es muy raro,
+eso es probable que se le escape a mucha gente muy buena así que nada.
+
+Gran mean, e incluso con bastante potencial de haber sido mejor. Supongo que lo vas a bajar bastante pronto.
+Lo ideal sería que lo próximo que aprendas o empieces a practicar sea HTR, porque ahí sí que explota todo. Las solves fueron muy buenas y veo que tenés un buen manejo de muchas cosas.
+Diviso un buen futuro en este evento 👀
