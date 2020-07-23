@@ -7092,3 +7092,16 @@ D2 L2 D2 L2 B2 //2e2e (22)
 U2 L2 U2 R2 D2 R2 //done (24)
 
 L' U R D' L2 F D2 L2 D2 L2 B2 U2 L2 U2 R2 B' R2 U2 F2 D2 R B L2 B2 (24)
+
+----------
+
+395th
+R' U' F D F2 D R2 U2 F2 D2 B2 L2 U' L2 B U L' B R2 B2 D L' R U' R' U' F
+F' U R U R' L D' B2 R2 B' L U' B' L2 U L2 B2 D2 F2 U2 R2 D' F2 D' F' U R
+
+D (L R U) //EO
+(F B' L) B' U2 F2 L' F2 L' //DR (13) 5c
+D2 F' (U2 L2 F' R2 F) //HTR (20)
+U2 R2 L2 B2 L2 D2 //ALL (26)
+
+D B' U2 F2 L' F2 L' D2 F' U2 R2 L2 B2 L2 D2 F' R2 F L2 U2 L' B F' U' R' L' (26)
