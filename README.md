@@ -13,12 +13,9 @@
 ## Root folder
 Some programs in Python that compute stats and stuff.
 - **histoplotter.py**  
-  Plots a histogram of all solutions + latest 100 + latest 50. You can easily modify the value of both 'latest's.  
+  Plots a histogram of all solutions + latest specified by breakpoints as command arguments ([50,10,200] by default).  
   Also displays some other brief stats.
   <br><br><img src="misc/program_caps/histoplotter.PNG" width=650><br><br>
-- **histoplotter_100.py**  
-  Same as histoplotter but only latest 100 and 50. Also customizable.
-  <br><br><img src="misc/program_caps/histoplotter_100.PNG" width=650><br><br>
 - **mo3s.py**  
   Frequency plot of all rolling mo3s in the latest 100 solutions.
   <br><br><img src="misc/program_caps/mo3s.PNG" width=700><br><br>

@@ -7,6 +7,7 @@ Created on Thu Mar 21 13:04:39 2019
 
 import matplotlib.pyplot as plt
 import numpy as np
+import sys
 
 # Retrieving data from file into nparray
 
@@ -18,7 +19,7 @@ with open("raw/singlesNEW.txt","r") as file:
 new = np.array(new)
 
 # Breakpoints
-breakpoints = [50, 100, 200]
+breakpoints = [int(x) for x in sys.argv[1].split(',')] if len(sys.argv) > 1 else [50,100,200]
 
 #///// Helper functions to make the code a bit less ugly
 
