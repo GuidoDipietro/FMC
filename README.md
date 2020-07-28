@@ -13,7 +13,10 @@
 ## Root folder
 Some programs in Python that compute stats and stuff.
 - **histoplotter.py**  
-  Plots a histogram of all solutions + latest specified by breakpoints as command arguments ([50,10,200] by default).  
+  Plots a histogram of all solutions + latest by breakpoints.  
+  Example usage:  
+  ```python histoplotter 25,50,75```  -> as many as you'd like  
+  or ```python histoplotter``` for default breakpoints (50,100,200).  
   Also displays some other brief stats.
   <br><br><img src="misc/program_caps/histoplotter.PNG" width=650><br><br>
 - **mo3s.py**  
@@ -34,7 +37,7 @@ Some programs in Python that compute stats and stuff.
   This does the same but by partitioning the set on chunks of size S.
   <br><br><img src="misc/program_caps/odd-even-sequential.PNG" width=650><br><br>
 - **moreplots.py**  
-  Ugly scatter plot with best-fit line, my first attempt at visualizing data here.
+  Ugly scatter plot with best-fit regression line, my first attempt at visualizing data here.
 - **FMCavg100.py** and **FMCavg100SessionGetter.py**  
   I have no idea what these do, I'm keeping them in case I remember some day.
   
