@@ -7119,3 +7119,17 @@ B' D2 R2 F L //DR (9) okay corners (not sure how to tag this case!)
 ^ = F2 R2 F2 L2 B2 L2 //(6-1)
 
 B' R' F' D B' D2 R2 F L R2 U2 F' R2 F2 L2 B2 L2 D2 F R2 D2 F L2 (23)
+
+---------
+
+397th
+R' U' F L B F2 R' B2 U2 L' F2 L2 R' F' D U2 B U2 F' R B2 U' R' U' F
+F' U R U B2 R' F U2 B' U2 D' F R L2 F2 L U2 B2 R F2 B' L' F' U R
+
+(B' D R B) //EO
+(D' F2 R' D2 L' D) //DR (10) 5ac
+(F2 L) U2 F2 U2 R' B2 R' //HTR (18)
+F2 ^ R2 //2e2e (20)
+^ = F2 D2 F2 R2 U2 B2 U2 R2 //(8-4)
+
+U2 F2 U2 R' B2 R' D2 F2 R2 U2 B2 U2 L' F2 D' L D2 R F2 D B' R' D' B (24)
