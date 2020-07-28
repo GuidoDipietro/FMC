@@ -7,41 +7,63 @@ Created on Thu Mar 21 13:04:39 2019
 
 import matplotlib.pyplot as plt
 import numpy as np
-import math
+
+# Retrieving data from file into nparray
 
 #with open("raw/rominaSingles.txt","r") as file:
 with open("raw/singlesNEW.txt","r") as file:
     for line in file:
         new = line.split(", ")
         new = [int(x[0:2]) for x in new]
-		
-latest = 100
-latest_2 = 50
-
 new = np.array(new)
-newhalf = np.array(new[-1*latest:])
-#oldhalf = new[0:-1*latest]
-newhalf_2 = np.array(new[-1*latest_2:])
 
+# Breakpoints
+breakpoints = [50, 100, 200]
+
+#///// Helper functions to make the code a bit less ugly
+
+# sub mean count
 def subMeanCount(lista):
 	return sum(np.less(lista, lista.mean()))
 
+# sub mean percentage
 def subMeanPct(lista):
 	return round((100*(subMeanCount(lista) / len(lista))),2)
 
-print("# of sub-moALL ({}) singles total: {} = {}%".format(round(new.mean(),2), subMeanCount(new), subMeanPct(new)))
-print("# of sub-mo{} ({}) singles latest {}: {} = {}%".format(latest, round(newhalf.mean(),2),latest, subMeanCount(newhalf), subMeanPct(newhalf)))
-print("# of sub-mo{} ({}) singles latest {}: {} = {}%".format(latest_2, round(newhalf_2.mean(),2),latest_2, subMeanCount(newhalf_2), subMeanPct(newhalf_2)))
+# returns chunk of latest N
+def chunkize(new, latest):
+	return np.array(new[-1*latest:])
+	
+# silly string that gets printed
+def subMO_N_str(latest):
+	chunk = chunkize(new, latest)
+	moN = round(chunk.mean() ,2)
+	subMO_N_count = subMeanCount(chunk)
+	subMO_N_pct = subMeanPct(chunk)
+	n = latest if latest!=len(new) else "ALL"
+	return f"# of sub-mo{n} ({moN}) singles latest {latest}: {subMO_N_count} = {subMO_N_pct}%"
 
+#///////////////////////////////////////////////////////
+
+# Printing stats
+for l in [len(new)] + breakpoints:
+	print(subMO_N_str(l))
+	
+# Plotting histograms
 pb = min(new)
 pw = max(new)
-bins = np.arange(pb,pw+2)
+bins = np.arange(pb,pw+2) # assures proper ticking
+def hist_latest(latest):
+	chunk = chunkize(new, latest)
+	label = f"latest {latest}" if latest!=len(new) else "lifelong"
+	plt.hist(chunk, bins=bins, rwidth=0.8, label=label)
 
-plt.hist(new, bins=bins, rwidth=0.8, label="lifelong")
-plt.hist(newhalf, bins=bins, rwidth=0.8, label="latest {}".format(latest))
-plt.hist(newhalf_2, bins=bins, rwidth=0.8, label="latest {}".format(latest_2))
+for l in [len(new)] + list(reversed(breakpoints)):
+	hist_latest(l)
 
-plt.title("Lifelong solves, latest {} and latest {} solves".format(latest, latest_2))
+# Other plot details
+
+plt.title(f"Lifelong solves + latest {breakpoints}")
 plt.ylabel("amount of solves")
 plt.xlabel("moves")
 plt.xticks([x+(1/2) for x in bins], bins, rotation=70)
