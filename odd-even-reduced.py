@@ -17,7 +17,7 @@ def odd_even(arr):
 
 # Latest X from largest_chunk to 50 skipping 'step' at a time
 largest_chunk = 400
-step = 10
+step = 20
 def latest_N(n, arr):
 	return np.array(arr[-1*n:])
 arrs = []
@@ -32,10 +32,10 @@ for arr in arrs:
 	ratios.append(ratio)
 	print("{}/{}".format(odd,even),
 		"(ratio = {})".format(ratio),
-		"(latest {})".format(len(arr)))
+		"(last {})".format(len(arr)))
 		
 plt.plot(np.arange(-1*step,-1*largest_chunk-step,-1*step), list(reversed(ratios)))
 plt.ylabel("Ratio odd/even")
-plt.xlabel("Considering latest -X attempts")
+plt.xlabel("Considering last -X attempts")
 plt.grid()
 plt.show()

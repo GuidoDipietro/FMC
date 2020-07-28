@@ -13,14 +13,14 @@
 ## Root folder
 Some programs in Python that compute stats and stuff.
 - **histoplotter.py**  
-  Plots a histogram of all solutions + latest by breakpoints.  
+  Plots a histogram of all solutions + last by breakpoints.  
   Example usage:  
   ```python histoplotter 25,50,75```  -> as many as you'd like  
   or ```python histoplotter``` for default breakpoints (50,100,200).  
   Also displays some other brief stats.
   <br><br><img src="misc/program_caps/histoplotter.PNG" width=650><br><br>
 - **mo3s.py**  
-  Frequency plot of all rolling mo3s in the latest 100 solutions.
+  Frequency plot of all rolling mo3s in the last 100 solutions.
   <br><br><img src="misc/program_caps/mo3s.PNG" width=700><br><br>
 - **worst_of_X.py**  
   Mean of worst solution (and 2nd and 3rd worst) by chunks. Partition and scan stats. Customizable sizes.
@@ -31,7 +31,7 @@ Some programs in Python that compute stats and stuff.
 - **odd-even**  
   I noticed my histoplotter.py graphs was a bit strange... with some tendency towards odd results being much more likely than even. So I just checked it with this program and got shocked.  
   **odd-even-reduced.py**  
-  This one measures it on the latest X to S attempts, decreasing by a step of S. For example, latest 100, 75, 50, and 25 attempts.
+  This one measures it on the latest X to S attempts, decreasing by a step of S. For example, last 100, 75, 50, and 25 attempts.
   <br><br><img src="misc/program_caps/odd-even-reduced.PNG" width=650><br><br>
   **odd-even-sequential.py**  
   This does the same but by partitioning the set on chunks of size S.
@@ -46,7 +46,7 @@ Text files with solutions and results used for computing stats, my own and forei
 - **_FMC.txt**  
   All my FMC solutions. Period.
 - **singlesNEW.txt**  
-  All my FMC results, integer result only. (3 digit precision because I feel like it.)
+  All my FMC results, numerical result only. (.000 because I feel like it)
 - **AllMySub30s.txt**  
   All my FMC solutions that are under 30 moves. Created when these were rare, only kept as a tradition now.
   

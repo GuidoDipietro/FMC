@@ -42,7 +42,7 @@ def subMO_N_str(latest):
 	subMO_N_count = subMeanCount(chunk)
 	subMO_N_pct = subMeanPct(chunk)
 	n = latest if latest!=len(new) else "ALL"
-	return f"# of sub-mo{n} ({moN}) singles latest {latest}: {subMO_N_count} = {subMO_N_pct}%"
+	return f"# of sub-mo{n} ({moN}) singles last {latest}: {subMO_N_count} = {subMO_N_pct}%"
 
 #///////////////////////////////////////////////////////
 
@@ -56,7 +56,7 @@ pw = max(new)
 bins = np.arange(pb,pw+2) # assures proper ticking
 def hist_latest(latest):
 	chunk = chunkize(new, latest)
-	label = f"latest {latest}" if latest!=len(new) else "lifelong"
+	label = f"last {latest}" if latest!=len(new) else "lifelong"
 	plt.hist(chunk, bins=bins, rwidth=0.8, label=label)
 
 for l in [len(new)] + list(reversed(breakpoints)):
@@ -64,7 +64,7 @@ for l in [len(new)] + list(reversed(breakpoints)):
 
 # Other plot details
 
-plt.title(f"Lifelong solves + latest {breakpoints}")
+plt.title(f"Lifelong solves + last {breakpoints}")
 plt.ylabel("amount of solves")
 plt.xlabel("moves")
 plt.xticks([x+(1/2) for x in bins], bins, rotation=70)

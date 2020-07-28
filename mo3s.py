@@ -36,7 +36,7 @@ bins = [round(x,2) for x in np.linspace(pb,pw,3*(pw-pb)+1)] # To get somewhat pr
 plt.figure(figsize=(10,5))
 plt.hist(means, bins=bins, rwidth=0.8, align='mid', color="#009910")
 plt.xticks([x+(1/6) for x in bins], bins, rotation=70)
-plt.title("Count of rolling mo3s (latest {})".format(latest))
+plt.title("Count of rolling mo3s (last {})".format(latest))
 plt.ylabel("# of times I got this mo3")
 plt.xlabel("Mo3 value")
 plt.grid()
