@@ -3,6 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pprint
 import math
+import sys
 
 # File to open
 filename = "raw/singlesNEW.txt"
@@ -15,7 +16,8 @@ with open(filename,"r") as file:
 new = [float(x) for x in new]
 
 # Only take latest X
-latest = 100
+latest = int(sys.argv[1]) if len(sys.argv)==2 else len(new)
+print(f"Considering last {latest} attempts...") if latest<len(new) else print("Considering all results...")
 new = new[-latest:]
 
 # Generate rolling mo3s

@@ -20,8 +20,11 @@ Some programs in Python that compute stats and stuff.
   Also displays some other brief stats.
   <br><br><img src="misc/program_caps/histoplotter.PNG" width=650><br><br>
 - **mo3s.py**  
-  Frequency plot of all rolling mo3s in the last 100 solutions.
+  Frequency plot of all rolling mo3s in the last N solutions (default: N = all) (using console arguments).  
   <br><br><img src="misc/program_caps/mo3s.PNG" width=700><br><br>
+- **mo3-counter.py**  
+  Counts how many times you got / beat / got&beat a given mo3 result.
+  <br><br><img src="misc/program_caps/mo3-counter.png" width=700><br><br>
 - **worst_of_X.py**  
   Mean of worst solution (and 2nd and 3rd worst) by chunks. Partition and scan stats. Customizable sizes.
   <br><br><img src="misc/program_caps/worst_of_X.PNG" width=650><br><br>
