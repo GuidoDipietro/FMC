@@ -7170,3 +7170,17 @@ U2 R2 D2 R2 D' R2 U D //done (21)
 
 B2 L2 U2 F R2 D' R' L2 D' L' U2 R2 D2 R2 D' R2 U D L F2 R2 (21)
 B2 L2 U2 F R2 D' R' L2 D' L U' L B2 L2 R2 U2 F' B U2 F B (21)
+
+-------------
+
+400th
+
+R' U' F U' B2 L' U B2 D2 L2 D2 R2 F' D2 F' R' F' U2 L F L' U R' U' F
+F' U R U' L F' L' U2 F R F D2 F R2 D2 L2 D2 B2 U' L B2 U F' U R
+
+D2 L' F' //EO
+R' D' F2 D' L2 U' D2 R' //HTR-2e (11)
+(D F2 L2 F2 D') //HTR (16)
+F2 L2 B2 R2 D2 L2 //ALL (22)
+
+D2 L' F' R' D' F2 D' L2 U' D2 R' F2 L2 B2 R2 D2 L2 D F2 L2 F2 D' (22)

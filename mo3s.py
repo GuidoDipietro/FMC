@@ -36,7 +36,7 @@ pb = math.floor(min(means)) # Best of interval
 pw = math.floor(max(means)) # Worst of interval
 bins = [round(x,2) for x in np.linspace(pb,pw,3*(pw-pb)+1)] # To get somewhat proper ticks
 plt.figure(figsize=(10,5))
-plt.hist(means, bins=bins, rwidth=0.8, align='mid', color="#009910")
+plt.hist(means, bins=bins, rwidth=0.8, align='mid', color=["#009910","#ccff00"])
 plt.xticks([x+(1/6) for x in bins], bins, rotation=70)
 plt.title("Count of rolling mo3s (last {})".format(latest))
 plt.ylabel("# of times I got this mo3")
