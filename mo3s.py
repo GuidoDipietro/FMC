@@ -29,14 +29,11 @@ for k, val in enumerate(new):
 
 pprint.pprint(Counter(means))
 
-sub = 25.33
-print("Total sub {}: ".format(sub), sum([1 for x in means if x < sub]))
-
 pb = math.floor(min(means)) # Best of interval
 pw = math.floor(max(means)) # Worst of interval
 bins = [round(x,2) for x in np.linspace(pb,pw,3*(pw-pb)+1)] # To get somewhat proper ticks
 plt.figure(figsize=(10,5))
-plt.hist(means, bins=bins, rwidth=0.8, align='mid', color=["#009910","#ccff00"])
+plt.hist(means, bins=bins, rwidth=0.8, align='mid', color="#009910")
 plt.xticks([x+(1/6) for x in bins], bins, rotation=70)
 plt.title("Count of rolling mo3s (last {})".format(latest))
 plt.ylabel("# of times I got this mo3")

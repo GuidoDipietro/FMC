@@ -19,7 +19,7 @@ with open("raw/singlesNEW.txt","r") as file:
 new = np.array(new)
 
 # Breakpoints
-breakpoints = [int(x) for x in sys.argv[1].split(',')] if len(sys.argv) > 1 else [50,100,200]
+breakpoints = [int(x) for x in sys.argv[1].split(',')] if len(sys.argv) > 1 else [50,100,200,len(new)]
 
 #///// Helper functions to make the code a bit less ugly
 
@@ -59,7 +59,8 @@ def hist_latest(latest):
 	label = f"last {latest}" if latest!=len(new) else "lifelong"
 	plt.hist(chunk, bins=bins, rwidth=0.8, label=label)
 
-for l in [len(new)] + list(reversed(breakpoints)):
+#for l in [len(new)] + list(reversed(breakpoints)):
+for l in list(sorted(breakpoints, reverse=True)):
 	hist_latest(l)
 
 # Other plot details
