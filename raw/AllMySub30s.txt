@@ -7184,3 +7184,19 @@ R' D' F2 D' L2 U' D2 R' //HTR-2e (11)
 F2 L2 B2 R2 D2 L2 //ALL (22)
 
 D2 L' F' R' D' F2 D' L2 U' D2 R' F2 L2 B2 R2 D2 L2 D F2 L2 F2 D' (22)
+
+-------------
+
+401th
+R' U' F R' U' F L2 D L2 D R2 D F2 D2 B2 D R' D' F U R' B F R' U' F
+F' U R F' B' R U' F' D R D' B2 D2 F2 D' R2 D' L2 D' L2 F' U R F' U R
+
+(D2 B' L') //EO
+(F' D2 F' R2 F2 U') //DR (9) sc
+(L2 D2 B') //HTR (12)
+(L2 B2) //222
+(U2 F B L2 F' B' L2) //ALL (21)
+
+Found in 11 minutes, couldn't find anything better for the rest of the attempt. (I found like 4 or 5 other ways to get to this same 21, smh)
+
+L2 F B L2 F' B' U2 B2 L2 B D2 L2 U F2 R2 F D2 F L B D2 (21)
