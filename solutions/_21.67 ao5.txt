@@ -1,0 +1,67 @@
+21, 22, 21, 26, 22 = 21.67 ao5 :D
+
+------
+
+R' U' F U' B U' B2 R2 U2 F R2 B' L2 F' U2 R2 L' D U F2 D B U2 R' U' F
+F' U R U2 B' D' F2 U' D' L R2 U2 F L2 B R2 F' U2 R2 B2 U B' U F' U R
+
+B2 L2 U2 F //EO
+R2 D' R' L2 D' L U' L //HTR (12)
+B2 L2 R2 U2 F' B U2 F B //done (21)
+
+B2 L2 U2 F //EO
+R2 D' R' (R2 F2 L') L2 D' L' //DR (13)
+U2 R2 D2 R2 D' R2 U D //done (21)
+
+B2 L2 U2 F R2 D' R' L2 D' L' U2 R2 D2 R2 D' R2 U D L F2 R2 (21)
+B2 L2 U2 F R2 D' R' L2 D' L U' L B2 L2 R2 U2 F' B U2 F B (21)
+
+------------
+
+R' U' F U' B2 L' U B2 D2 L2 D2 R2 F' D2 F' R' F' U2 L F L' U R' U' F
+F' U R U' L F' L' U2 F R F D2 F R2 D2 L2 D2 B2 U' L B2 U F' U R
+
+D2 L' F' //EO
+R' D' F2 D' L2 U' D2 R' //HTR-2e (11)
+(D F2 L2 F2 D') //HTR (16)
+F2 L2 B2 R2 D2 L2 //ALL (22)
+
+D2 L' F' R' D' F2 D' L2 U' D2 R' F2 L2 B2 R2 D2 L2 D F2 L2 F2 D' (22)
+
+------------
+
+R' U' F R' U' F L2 D L2 D R2 D F2 D2 B2 D R' D' F U R' B F R' U' F
+F' U R F' B' R U' F' D R D' B2 D2 F2 D' R2 D' L2 D' L2 F' U R F' U R
+
+(D2 B' L') //EO
+(F' D2 F' R2 F2 U') //DR (9) sc
+(L2 D2 B') //HTR (12)
+(L2 B2) //222
+(U2 F B L2 F' B' L2) //ALL (21)
+
+L2 F B L2 F' B' U2 B2 L2 B D2 L2 U F2 R2 F D2 F L B D2 (21)
+
+-------------
+
+R' U' F R2 F L' R2 B' F' U2 R2 B R2 B' R2 D2 R' D L' B' D2 R' U' F
+F' U R D2 B L D' R D2 R2 B R2 B' R2 U2 F B R2 L F' R2 F' U R
+
+R B' L U //EO
+R B' D2 L2 F' R //DR (10) dc
+B L2 B //HTR-2e (13)
+(U2 B D2 L2 D2 B) //HTR (19)
+(D2 F2 U2 L2 U2 R2 U2) //ALL (26) backup and unfortunately final :(
+
+R B' L U R B' D2 L2 F' R B L2 B U2 R2 U2 L2 U2 F2 D2 B' D2 L2 D2 B' U2 (26)
+
+-------------
+
+R' U' F U L' D U2 L2 B2 D U R2 F2 L B' D2 R' B' U L2 B' D' R' U' F
+F' U R D B L2 U' B R D2 B L' F2 R2 U' D' B2 L2 U2 D' L U' F' U R
+
+(F' D R' L B) //EO
+(U' L F2 D F2 D R) //DR (12)
+U ^ L2 D R2 F2 L2 //2e2e (18)
+^ = B2 L2 B2 L2 B2 L2 //(6-2)
+
+U B2 L2 B2 L2 B2 D R2 F2 L2 R' D' F2 D' F2 L' U B' L' R D' F (22)
