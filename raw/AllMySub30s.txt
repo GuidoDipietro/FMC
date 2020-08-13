@@ -7213,4 +7213,17 @@ B L2 B //HTR-2e (13)
 (U2 B D2 L2 D2 B) //HTR (19)
 (D2 F2 U2 L2 U2 R2 U2) //ALL (26) backup and unfortunately final :(
 
-R B' L U R B' D2 L2 F' R B L2 B U2 R2 U2 L2 U2 F2 D2 B' D2 L2 D2 B' U2
+R B' L U R B' D2 L2 F' R B L2 B U2 R2 U2 L2 U2 F2 D2 B' D2 L2 D2 B' U2 (26)
+
+--------
+
+403th
+R' U' F U L' D U2 L2 B2 D U R2 F2 L B' D2 R' B' U L2 B' D' R' U' F
+F' U R D B L2 U' B R D2 B L' F2 R2 U' D' B2 L2 U2 D' L U' F' U R
+
+(F' D R' L B) //EO
+(U' L F2 D F2 D R) //DR (12)
+U ^ L2 D R2 F2 L2 //2e2e (18)
+^ = B2 L2 B2 L2 B2 L2 //(6-2)
+
+U B2 L2 B2 L2 B2 D R2 F2 L2 R' D' F2 D' F2 L' U B' L' R D' F (22)
