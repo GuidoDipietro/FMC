@@ -10575,3 +10575,38 @@ U ^ L2 D R2 F2 L2 //2e2e (18)
 (21,26,22) = woaj I think this is a pretty nice ao5
 
 U B2 L2 B2 L2 B2 D R2 F2 L2 R' D' F2 D' F2 L' U B' L' R D' F (22)
+
+--------------
+
+522th
+R' U' F L2 D2 F R2 B' L2 F2 L2 D2 F2 D2 R F D U F R' F L' R2 F2 R' U' F
+F' U R F2 R2 L F' R F' U' D' F' R' D2 F2 D2 L2 F2 L2 B R2 F' D2 L2 F' U R
+
+(F' L2 U' B) //EO
+(D R U2 F2 U D2 R U' R) //DR (13) dc
+R2 U2 R2 //sq
+Uw' L2 U L2 //123
+U R2 D' R2 D' y F2 D2 //done (27)
+
+(26,22,27) = pretty nasty
+
+R2 U2 R2 Uw' L2 U L2 U R2 D' R2 D' y F2 D2 R' U R' D2 U' F2 U2 R' D' B' U L2 F (27)
+
+------------
+
+523th
+
+R' U' F L U2 L B2 R' U2 L U2 R2 B2 D L B2 R B L2 F2 D' B2 L' D2 R' U' F
+F' U R D2 L B2 D F2 L2 B' R' B2 L' D' B2 R2 U2 L' U2 R B2 L' U2 L' F' U R
+
+(U2 D2 F' L) //EO
+(U' B) U2 L2 D B' D' B' //DR (12) gc
+D' (U' F2 L2 U R2 U') //HTR (19)
+(B2 D2 F2) //3E (22)
+
+U2 L2 D B' D' B' *-> D' F2 D2 B2 U R2 U' L2 F2 U <-* B' U L' F D2 U2
+* = U' R2 D2 L2 U' D2 F2 U' B2 L2 D //(1)
+
+(22,27,23)
+
+U2 L2 D B' D' B' U' R2 D2 L2 U' D2 F2 U' B2 L2 D B' U L' F D2 U2 (23)
