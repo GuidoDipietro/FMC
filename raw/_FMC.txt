@@ -10624,3 +10624,23 @@ B2 U2 R2 B2 D' {D R2 F2 L2 U B2 L2 F2} F2 D B2 D' //3e (22)
 (27,23,26) = hideous (somehow ties both my PRs)
 
 F2 U' D' F U' R B2 U2 R2 B2 R2 F2 L2 U B2 L2 D B2 D' L' U2 L' U' R2 D2 L2 (26)
+
+-------------
+
+525th
+R' U' F D L2 B U2 R' F2 U' L' F L' F2 U B2 D2 L2 U2 D L2 U' B2 D R' U' F
+F' U R D' B2 U L2 D' U2 L2 D2 B2 U' F2 L F' L U F2 R U2 B' L2 D' F' U R
+
+(D R' F B' U) //EO
+R' L F' B R F' R' //DR (12) gc
+[F' D2 L2 F B2 U2 F //HTR (19)
+L2 B2] D2 L2 U2 R2 //ALL (25)
+
+I noticed this after finishing:
+[] = B' L2 U2 F' L2 B R2 F2 //(-1)
+it was super easy to find, I just didn't check for shortens
+instead used my time to try another DR. Whatever.
+
+(23,26,25)
+
+R' L F' B R F' R' F' D2 L2 F B2 U2 F L2 B2 D2 L2 U2 R2 U' F' B R D' (25)
