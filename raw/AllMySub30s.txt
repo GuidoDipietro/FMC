@@ -7289,3 +7289,16 @@ it was super easy to find, I just didn't check for shortens
 instead used my time to try another DR. Whatever.
 
 R' L F' B R F' R' F' D2 L2 F B2 U2 F L2 B2 D2 L2 U2 R2 U' F' B R D' (25)
+
+----------
+
+408th
+R' U' F L F U2 L2 B2 D2 B2 D R2 U L2 R2 F L' B' F' R F2 U2 R' U' F
+F' U R U2 F2 R' F B L F' R2 L2 U' R2 D' B2 D2 B2 L2 U2 F' L' F' U R
+
+R2 B' (U B) //EO
+(D R L' U' L' D L) //DR (11) dc
+(D B2 U R2 U') //HTR (16)
+D2 R2 F2 B2 R2 B2 //ALL (22)
+
+R2 B' D2 R2 F2 B2 R2 B2 U R2 U' B2 D' L' D' L U L R' D' B' U' (22)
