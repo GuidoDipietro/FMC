@@ -7315,3 +7315,29 @@ F2 L2 F2 U' //HTR (17)
 U D' L2 U2 R2 U2 F2 U D //ALL (24)
 
 R F2 D B L F2 L2 F2 D' L2 U2 R2 U2 F2 U D F' U' B2 D R2 F2 B2 U2 (24)
+
+-----------
+
+410th
+R' U' F U2 R2 F2 R2 U2 B2 R2 F' U2 L F' L2 U' R D2 U B R2 F2 R' U' F
+F' U R F2 R2 B' U' D2 R' U L2 F L' U2 F R2 B2 U2 R2 F2 R2 U2 F' U R
+
+(L' U' B L) //EO
+(U2 B2 R2 U2 F2 U B) //DR (11) gc
+D (U*2 L2 U B2 U') //HTR (17)
+(R2 F2 L2 {L2 F2 L2 U2 L2 F2 L2 U2} U2 F2 U*2) //3e (23) -> (8-6) -> 25 -> *=w -> 24
+
+D' B2 R2 B2 R2 U2 L2 R2 U F2 U' R2 D2 B' U' F2 U2 R2 B2 U2 L' B' U L (24)
+
+--------------
+
+411th
+R' U' F R2 F2 R2 U2 L2 U2 B2 D2 U' L2 F' U R2 U' R' B' U L F U R' U' F
+F' U R U' F' L' U' B R U R2 U' F L2 U D2 B2 U2 L2 U2 R2 F2 R2 F' U R
+
+(L' F2 R2 D) //EO
+(B' R F' U2 F2 R2 F' R2 F) //DR (13) stupid DR just to find something with ok corners or smt and just get a backup
+(L' U2 R2 B2 R D2 R') //HTR (20)
+(B2 U2 R2 L2 U2 R2 U2) //ALL (27) (backup) (sliceable for a 25, but spent too much time on a 8 move DR)
+
+U2 R2 U2 L2 R2 U2 B2 R D2 R' B2 R2 U2 L F' R2 F R2 F2 U2 F R' B D' R2 F2 L (27)
