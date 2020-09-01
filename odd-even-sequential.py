@@ -2,6 +2,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 import math
 
+# DATA #
+
 #with open("raw/rominaSingles.txt","r") as file:
 with open("raw/singlesNEW.txt","r") as file:
     for line in file:
@@ -10,17 +12,22 @@ with open("raw/singlesNEW.txt","r") as file:
 		
 all = np.array(new)
 
+# CONSTS #
+
+step = 25
+largest_chunk = (len(new)//step)*step
+
+# THE REST XD #
+
 # Returns odd, even
 def odd_even(arr):
 	odd = sum([1 for x in arr if x%2==1])
 	return odd, len(arr)-odd
 
 # Groups of size 'S' with a limit of attempts to consider for this stat
-largest_chunk = 400
 diff = len(new) - largest_chunk
 new = new[-1*largest_chunk:]
 
-step = 25
 arrs = []
 for i in np.arange(0, largest_chunk, step):
 	arr = new[i:i+step]
