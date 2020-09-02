@@ -10740,3 +10740,20 @@ R' F2 R U2 R U2 L2 U2 L //ALL (22)
 (27,22,22)
 
 R D F R B2 L2 D2 L D' U2 F2 R' F2 R U2 R U2 L2 U2 L U L' (22)
+
+--------------
+
+532th
+R' U' F R' F R' U' F2 R2 D2 B2 L2 D R2 U2 F L' U2 B2 R' U2 B2 R' U' F
+F' U R B2 U2 R B2 U2 L F' U2 R2 D' L2 B2 D2 R2 F2 U R F' R F' U R
+
+D2 L' F B
+U L' D L2 R' U R //DR (11) 5c
+(U F2 U2 R2 U' B2 U') //HTR (18)
+F' B D2 F' B' R L' U2 R' L' F2 //panic linear finish (29)
+
+I can't believe I got such a bad result on such a good scramble........................................
+
+(22,22,29) = congrats
+
+D2 L' F B U L' D L2 R' U R F' B D2 F' B' R L' U2 R' L' F2 U B2 U R2 U2 F2 U' (29)
