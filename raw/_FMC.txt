@@ -10757,3 +10757,18 @@ I can't believe I got such a bad result on such a good scramble.................
 (22,22,29) = congrats
 
 D2 L' F B U L' D L2 R' U R F' B D2 F' B' R L' U2 R' L' F2 U B2 U R2 U2 F2 U' (29)
+
+-----------
+
+533th
+R' U' F R2 L B' L U' F2 U' R B' F2 U' R2 D2 F2 U B2 L2 F2 U B2 R' U' F
+F' U R B2 U' F2 L2 B2 U' F2 D2 R2 U F2 B R' U F2 U L' B L' R2 F' U R
+
+R' D' F U R' //EO
+(F2 U R2 D R2 D' B) //DR (12) ac
+(F2 U) F2 R2 U F2 U' //HTR (19)
+F B R2 U2 F B' //ALL (25)
+
+(22,29,25)
+
+R' D' F U R' F2 R2 U F2 U' F B R2 U2 F B' U' F2 B' D R2 D' R2 U' F2 (25)
