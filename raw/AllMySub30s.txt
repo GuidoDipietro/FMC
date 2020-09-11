@@ -7414,3 +7414,20 @@ F2 U2 D2 R' //HTR (17)
 B2 L2 F2 U2 R2 D2 R2 //ALL (24)
 
 R' U L' F2 R' D' R2 D F2 U2 D2 R' B2 L2 F2 U2 R2 D2 R2 F' U2 L' D' F (24)
+
+------------
+
+417th
+R' U' F D F U L2 D2 F' B L' B2 R' B2 R D2 R2 U' L' D' F R' U' F
+F' U R F' D L U R2 D2 R' B2 R B2 L F B' D2 L2 U' F' D' F' U R
+
+B2 U B //EO
+(D L F2 D R2 U R') //DR (10) gc
+U' L2 D' F2 D //HTR (15)
+L2 ^ @ B2 L*2 //2c2c (18)
+
+@ = D2 //(1-0) 2e2e (19), idk why I didn't spot this directly
+* = w (2-3) //4e4x (18)
+^ = D F2 R2 Rw2 F2 D' //(6-1) done in 23
+
+B2 U B U' L2 D' F2 D L2 D F2 R2 Rw2 F2 D B2 R' x2 U' R2 D' F2 L' D' (23)
