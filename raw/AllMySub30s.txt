@@ -7455,3 +7455,17 @@ L2 D2 R F2 L2 F2 L' F //DR (11) ac
 (B2 R2 F2 D2 F2 D2 F2 R2) //ALL (26)
 
 L2 D2 R F2 L2 F2 L' F R U2 F2 D2 B2 L R2 F2 D2 F2 D2 F2 R2 B2 L' U' L2 R' (26)
+
+-------------
+
+419th
+R' U' F R2 U' F R' U2 F2 R L2 U D2 R2 L2 B2 U F2 L F R' U R' U' F
+F' U R U' R F' L' F2 U' B2 L2 R2 D2 U' L2 R' F2 U2 R F' U R2 F' U R
+couldn't find anything good here
+
+(R' B) R' F' //EO
+(U R) B2 D' R2 U' B2 U L //DR (13) dc
+(U D R2 U' F2 R2 D) //HTR (20)
+(F2 D2 L2 B2 L2 U2 L2 U2) //ALL (28)
+
+R' F' B2 D' R2 U' B2 U L U2 L2 U2 L2 B2 L2 D2 F2 D' R2 F2 U R2 U' D' R' U' B' R (28)
