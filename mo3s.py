@@ -31,7 +31,7 @@ pprint.pprint(Counter(means))
 
 pb = math.floor(min(means)) # Best of interval
 pw = math.floor(max(means)) # Worst of interval
-bins = [round(x,2) for x in np.linspace(pb,pw,3*(pw-pb)+1)] # To get somewhat proper ticks
+bins = [round(x,2) for x in np.linspace(pb,pw+1,3*(pw-pb+1)+1)] # To get somewhat proper ticks
 plt.figure(figsize=(10,5))
 plt.hist(means, bins=bins, rwidth=0.8, align='mid', color="#009910")
 plt.xticks([x+(1/6) for x in bins], bins, rotation=70)
