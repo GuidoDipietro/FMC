@@ -10887,3 +10887,54 @@ L (U2 B2 L2 U R') //DR (9)
 (28,30,27)
 
 L F2 U L2 D2 R2 U R B2 D' B2 {D2 R' L B2 R L'} U D R2 U' L2 U' B L B' F2 (27) :(((((
+
+------------------
+
+540th
+R' U' F R2 F U' B2 R2 B U2 F U L' D B2 D R2 L2 F2 L2 U' B2 D R' U' F
+F' U R D' B2 U L2 F2 L2 R2 D' B2 D' L U' F' U2 B' R2 B2 U F' R2 F' U R
+
+R U' F' U //EO
+(L B R' U2 L2 F) //DR (10) gc
+(L B R' D2 R2 B') //DR (10) gc
+
+R U' F' U //EO
+(L B L D2 L' R B') //DR (11) gc
+(F2 D2 F2 L' F2 U2 R) //HTR (18)
+(D2 R2 B2 F2 D2 R2 F2 R2) //ALL (26)
+
+(30,27,26)
+
+R U' F' U R2 F2 R2 D2 F2 B2 R2 D2 R' U2 F2 L F2 D2 F2 B R' L D2 L' B' L' (26)
+
+----------------------------------------------------
+
+541th
+R' U' F D R2 U' L D' B2 U' B' L B2 D F2 U L2 U' B2 D2 B2 D' R' U' F
+F' U R D B2 D2 B2 U L2 U' F2 D' B2 L' B U B2 D L' U R2 D' F' U R
+
+L' R F' R' //EO
+(B U B' L2 F R2 F) //DR (11) ac
+U2 R2 D R2 //quinas a 3 moves
+B2 D //223
+U2 L2 R2 D' R2 U' R2 //yes (24)
+
+(27,26,24)
+
+L' R F' R' U2 R2 D R2 B2 D U2 L2 R2 D' R2 U' R2 F' R2 F' L2 B U' B' (24)
+
+------------------------------------
+
+542th
+R' U' F U2 B2 U2 R2 D2 B D2 F' D2 F2 L' D B' R2 D L' F R' B2 F2 R' U' F
+F' U R F2 B2 R F' L D' R2 B D' L F2 D2 F D2 B' D2 R2 U2 B2 U2 F' U R
+
+D F' (D2 B) //first and only EO I tried
+(U R B2 L2 R' U R) //DR (11) gc first and only DR I tried
+D (B2 R2 L2 B2 D L2 D) //HTR (19)
+(^' R2 F2 L2) //3e (22)
+^ = R2 F' B U2 F B' //(6-3) thanku
+
+(26,24,25)
+
+D F' D L2 F B U2 F B' D' L2 D' B2 L2 R2 B2 R' U' R L2 B2 R' U' B' D2 (25)
