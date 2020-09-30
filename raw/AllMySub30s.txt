@@ -7535,3 +7535,16 @@ D (B2 R2 L2 B2 D L2 D) //HTR (19)
 ^ = R2 F' B U2 F B' //(6-3) thanku
 
 D F' D L2 F B U2 F B' D' L2 D' B2 L2 R2 B2 R' U' R L2 B2 R' U' B' D2 (25)
+
+------------------
+
+424th
+R' U' F U2 R2 B L2 F2 R2 B L2 D2 F2 R2 D L U2 R U B' L' D R F R' U' F
+F' U R F' R' D' L B U' R' U2 L' D' R2 F2 D2 L2 B' R2 F2 L2 B' R2 U2 F' U R
+
+L U B' L //EO
+U' D' (B2 F U2 F2 D R2 D) //DR (13) sc
+^ F' B2 L2 B U2 F2 U2 F2 //3e (21)
+^ = U' D R2 U D' F2 //(6-4) ALL in 23
+
+L U B' L U2 R2 U D' F B2 L2 B U2 F2 U2 F2 D' R2 D' F2 U2 F' B2 (23)
