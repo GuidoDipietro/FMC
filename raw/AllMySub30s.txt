@@ -7548,3 +7548,17 @@ U' D' (B2 F U2 F2 D R2 D) //DR (13) sc
 ^ = U' D R2 U D' F2 //(6-4) ALL in 23
 
 L U B' L U2 R2 U D' F B2 L2 B U2 F2 U2 F2 D' R2 D' F2 U2 F' B2 (23)
+
+---------------
+
+425th
+R' U' F D2 B2 U2 L2 B2 U2 F2 R' B2 R' U' F' R D2 L D L' U2 F R' U' F
+F' U R F' U2 L D' L' D2 R' F U R B2 R F2 U2 B2 L2 U2 B2 D2 F' U R
+
+(B L') //EO
+(D' B') U F2 B U B //DR (9)
+(D R2 D F2 D' R*2) //223 for fun
+D * B2 D' B2 //2e2e (19)
+* = Rw2 R2 //(2-2+2-0) solved
+
+U F2 B U B D R2 L2 F2 U' F2 L2 D F2 D' R2 D' B D L B' (21)
