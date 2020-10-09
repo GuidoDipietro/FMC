@@ -10971,3 +10971,17 @@ D * B2 D' B2 //2e2e (19)
 (25,23,21)
 
 U F2 B U B D R2 L2 F2 U' F2 L2 D F2 D' R2 D' B D L B' (21)
+
+---------------
+
+545th
+R' U' F L2 U' F' U F2 U R U R B2 L B2 R2 U2 L2 B' U2 F R' U' F
+F' U R F' U2 B L2 U2 R2 B2 L' B2 R' U' R' U' F2 U' F U L2 F' U R
+
+F' (R' B') //EO
+D2 F2 D R D2 R //DR (9)
+U L2 D R2 L2 F2 D' L2 D' U2 L2 {L2 B2 L2 B2 L2 B2} U2 //25
+
+(23,21,25)
+
+F' R' B' D2 F2 D R D2 R U L2 D R2 L2 F2 D' L2 D' U2 B2 L2 B2 L2 B2 U2 B R (25)
