@@ -10,13 +10,13 @@ with open(filename,"r") as file:
         data = line.split(", ")
 
 # Only using latest N
-latest = 400
+latest = 50
 data = data[-1*latest:]
 data = np.array([float(x) for x in data])
 
 # chunk size
-chunk_size = 50
-step_size = 25
+chunk_size = 10
+step_size = 5
 
 ######## Partition approach ########
 
