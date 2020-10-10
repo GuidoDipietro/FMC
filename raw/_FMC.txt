@@ -10985,3 +10985,24 @@ U L2 D R2 L2 F2 D' L2 D' U2 L2 {L2 B2 L2 B2 L2 B2} U2 //25
 (23,21,25)
 
 F' R' B' D2 F2 D R D2 R U L2 D R2 L2 F2 D' L2 D' U2 B2 L2 B2 L2 B2 U2 B R (25)
+
+-------------
+
+546th
+
+R' U' F D F L B2 U' D' F U' B2 U' R D' R2 U' D2 B2 D' F2 R' U' F
+F' U R F2 D B2 D2 U R2 D R' U B2 U F' D U B2 L' F' D' F' U R
+
+(F) D' B' D B //EO
+R2 U' B2 U2 L2 D' L //DR (12) 5c
+U' (D R2 D' L2 F2 U) //HTR (19)
+(D2 L2 D2 U2 B2) //3e (24)
+
+D' B' D B R2 U' B2 U2 L2 D' L [U' B2 U2 D2 L2 D2 U' F2 L2 D R2 D'] F'
+[] = D' R2 F2 U L2 B2 D F2 U' (-3)
+
+(21,25,26)
+
+D' B' D B R2 U' B2 U2 L2 D' L D' {U2 R L' B2 R' L} R2 F2 U L2 B2 D {D R2 F2 L2 U B2 L2 F2} F2 U' F' //pick either for 26
+
+D' B' D B R2 U' B2 U2 L2 D' L D' U2 R L' B2 R L F2 U L2 B2 D F2 U' F' (26)
