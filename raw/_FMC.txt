@@ -11037,3 +11037,20 @@ F' U R B2 U' D' F2 R U R' L' U L2 D2 B' U2 F2 B' D2 F2 U2 B' L2 F' U R
 (26,24,27), left it at 27 on purpose because 14 27
 
 D' R2 U z2 L2 Fw2 D F2 Fw2 y2 L2 D2 U' R2 Rw2 U' R2 D' R B2 L B2 L' B2 R' B R' D' B (27)
+
+---------------
+
+549th
+R' U' F D R2 D' B2 F2 L2 D' B2 U2 F' D' B' U L2 R2 U' B L' U2 B2 R' U' F
+F' U R B2 U2 L B' U R2 L2 U' B D F U2 B2 D L2 F2 B2 D R2 D' F' U R
+
+U L F R //EO
+D B2 U' B' U //DR (9) gc
+(R2 D2 B' D2 L2 {L2 B2 L2 F2 R2 F2} F) //HTR (15)
+(D2 L2 D2 B2) //2e2e (19) => 22
+
+30 min attempt
+
+(24,27,22)
+
+U L F R D B2 U' B' U B2 D2 L2 D2 F R2 F2 L2 B2 D2 B D2 R2 (22)
