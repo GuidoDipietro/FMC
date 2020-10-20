@@ -7632,3 +7632,15 @@ D B2 U' B' U //DR (9) gc
 (D2 L2 D2 B2) //2e2e (19) => 22
 
 U L F R D B2 U' B' U B2 D2 L2 D2 F R2 F2 L2 B2 D2 B D2 R2 (22)
+
+----------
+
+431th
+R' U' F R L U2 R' F2 B U D2 F' B2 U2 L2 B2 R2 D2 R2 D L' B' R' U' F
+F' U R B L D' R2 D2 R2 B2 L2 U2 B2 F D2 U' B' F2 R U2 L' R' F' U R
+
+(L' F' U2 F) //EO
+(D' L') R' F2 U' D2 R' U R //DR (13) gc
+D2 {D2 R L' F2 R' L} F2 D R2 U' D' L2 U2 //3e (21) => 24
+
+R' F2 U' D2 R' U R2 L' F2 R' L F2 D R2 U' D' L2 U2 L D F' U2 F L (24)
