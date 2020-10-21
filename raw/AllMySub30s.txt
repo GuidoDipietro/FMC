@@ -7644,3 +7644,16 @@ F' U R B L D' R2 D2 R2 B2 L2 U2 B2 F D2 U' B' F2 R U2 L' R' F' U R
 D2 {D2 R L' F2 R' L} F2 D R2 U' D' L2 U2 //3e (21) => 24
 
 R' F2 U' D2 R' U R2 L' F2 R' L F2 D R2 U' D' L2 U2 L D F' U2 F L (24)
+
+-------------
+
+432th
+R' U' F R D L2 D2 U2 F' D2 F' D2 R2 U2 F D' F2 R D B2 R' D' R' U' F
+F' U R D R B2 D' R' F2 D F' U2 R2 D2 F D2 F U2 D2 L2 D' R' F' U R
+
+R2 B (D R2 F') //EO
+U2 L F2 L' U2 B2 L //DR (12) oc
+U B2 U' F2 U' F2 R2 D //HTR (20)
+L2 U2 L2 F B' R2 F B' //ALL (28-1)
+
+R2 B U2 L F2 L' U2 B2 L U B2 U' F2 U' F2 R2 D L2 U2 L2 F B' R2 F2 B' R2 D' (27)
