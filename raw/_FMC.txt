@@ -11085,3 +11085,24 @@ L2 U2 L2 F B' R2 F B' //ALL (28-1)
 (22,24,27)
 
 R2 B U2 L F2 L' U2 B2 L U B2 U' F2 U' F2 R2 D L2 U2 L2 F B' R2 F2 B' R2 D' (27)
+
+-------------
+
+552th
+R' U' F L2 B' D2 B2 L2 B2 L2 D2 B' U2 F2 R F' L2 B R2 D' L R B' F R' U' F
+F' U R F' B R' L' D R2 B' L2 F R' F2 U2 B D2 L2 B2 L2 B2 D2 B L2 F' U R
+
+D2 F2 U F B //EO
+U D2 R D2 L' //DR (10) 5c
+{L2 B2 L2 F2 R2 F2} F2 U' ^ (D2 L2) //123 + easy corners
+B2 D F2 {F2 D' F2 R2 B2 U' B2 R2} B2 //5e (18) => 25 (optimal was 23 with ^ = R2 F2 U' F2 R2 B2 D' B2 (8-6)) :(
+
+D2 F2 U F B //EO
+U D2 L B2 R' //DR (10) 5c
+F2 U' F2 {R2 U R2 Rw2 U' R2} D R2 D R2 L2 U x2 //2e2e4x (19) => 25 (optimal was 23 too but with blacc magic, or 22 with parity algs that I'm never gonna find unless I buy an ushakov)
+
+A bit upset about missing the first 23, I was so close!
+
+(24,27,25)
+
+D2 F2 U F B U D2 L B2 R' F2 U' F2 R2 U R2 Rw2 U' R2 D R2 D R2 L2 U (25)
