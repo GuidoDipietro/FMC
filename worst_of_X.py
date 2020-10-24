@@ -3,6 +3,7 @@ import numpy as np
 # File to open
 filename = "raw/singlesNEW.txt"
 #filename = "raw/rominaSingles.txt"
+#filename = "raw/gustavoSingles.txt"
 
 # Get data into np.array
 with open(filename,"r") as file:
@@ -10,7 +11,7 @@ with open(filename,"r") as file:
         data = line.split(", ")
 
 # Only using latest N
-latest = 50
+latest = 74
 data = data[-1*latest:]
 data = np.array([float(x) for x in data])
 

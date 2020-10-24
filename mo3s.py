@@ -7,6 +7,7 @@ import sys
 
 # File to open
 filename = "raw/singlesNEW.txt"
+#filename = "raw/gustavoSingles.txt"
 #filename = "raw/rominaSingles.txt"
 
 # Get data into array
