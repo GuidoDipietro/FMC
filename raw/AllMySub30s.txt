@@ -7688,3 +7688,21 @@ B2 D2 * F2 D2 L2 //2e2e (20)
 * = D2 R2 F2 R2 D2 F2 R2 F2 //(8-4) (24)
 
 R2 B R U D' B D F' D' F B2 R2 U' L2 U' B2 R2 F2 R2 D2 F2 R2 D2 L2 (24)
+
+----------
+
+435th
+R' U' F D2 F R2 B' D2 F L2 U2 L2 B L B2 U2 B F' L U L' D' F R' U' F
+F' U R F' D L U' L' F B' U2 B2 L' B' L2 U2 L2 F' D2 B R2 F' D2 F' U R
+
+(B U2 L' B) //EO good
+(D R) //DR-2e3c
+(L2 U2 L' D L) //DR (11) 5c
+U2 B2 //pairs + easy corners
+D U2 //bunch of blocks
+R2 U R2 B2 L2 F2 //3e (21)
+
+U2 B2 D U2 R2 U R2 B2 L2 F2 L' D' L ^ U2 L2 R' D' B' L U2 B'
+^ = L R' F2 L' R U2 //(6-6) of course
+
+U2 B2 D U2 R2 U R2 B2 L2 F2 L' D' L2 R' F2 L D' B' L U2 B' (21)
