@@ -7706,3 +7706,19 @@ U2 B2 D U2 R2 U R2 B2 L2 F2 L' D' L ^ U2 L2 R' D' B' L U2 B'
 ^ = L R' F2 L' R U2 //(6-6) of course
 
 U2 B2 D U2 R2 U R2 B2 L2 F2 L' D' L2 R' F2 L D' B' L U2 B' (21)
+
+---------------
+
+436th
+R' U' F B' D2 F2 R2 U2 B' U2 F' U2 F D2 L D2 B F' D R2 B2 D' L' R' U' F
+F' U R L D B2 R2 D' F B' D2 L' D2 F' U2 F U2 B U2 R2 F2 D2 B F' U R
+
+L' U2 B R //EO
+(B2 U L2 R2 U2 F' U) //DR (11) 5c
+B (B) D2 R2 F U2 F //HTR (18)
+U2 R2 F B R2 F' B' //ALL (24)
+
+L' U2 B R [B D2 R2 F U2 F U2 R2 F B R2 F' B2] U' F U2 R2 L2 U' B2 (24)
+[] = Bw D2 R2 Fw U2 F U2 R2 B2 U2 B //(-2)
+
+L' U2 B R Bw D2 R2 Fw U2 F U2 R2 B2 U2 B U' F U2 R2 L2 U' B2 (22)
