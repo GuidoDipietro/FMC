@@ -7722,3 +7722,16 @@ L' U2 B R [B D2 R2 F U2 F U2 R2 F B R2 F' B2] U' F U2 R2 L2 U' B2 (24)
 [] = Bw D2 R2 Fw U2 F U2 R2 B2 U2 B //(-2)
 
 L' U2 B R Bw D2 R2 Fw U2 F U2 R2 B2 U2 B U' F U2 R2 L2 U' B2 (22)
+
+-----------
+
+437th
+R' U' F U F2 D2 L2 F2 D2 L2 U L2 B2 F D2 L' B U' L' B2 U' B F' R' U' F
+F' U R F B' U B2 L U B' L D2 F' B2 L2 U' L2 D2 F2 L2 D2 F2 U' F' U R
+
+(U') B' D //EO
+B2 L' B2 L2 B U2 R' U2 R' //DR (12) ~5c
+U2 B U2 F R2 F' //HTR (18)
+D2 L2 U2 R2 {R2 B2 R2 B2 R2 B2} //2e2e (22) -> 26
+
+B' D B2 L' B2 L2 B U2 R' U2 R' U2 B U2 F R2 F' D2 L2 U2 B2 R2 B2 R2 B2 U (26)
