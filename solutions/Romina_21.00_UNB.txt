@@ -1,0 +1,37 @@
+R' U' F R2 U' R F' D2 R2 D2 B' R2 F R2 D2 F' R B U' B F2 R' F2 R' U' F
+
+(U2 D2 R') // EO
+D2 B2 D B' D' // DR in 8
+B2 D2 F' L2 U2 B' D2 U2 F' // ALL?????
+Final: D2 B2 D B' D' B2 D2 F' L2 U2 B' D2 U2 F' R D2 U2 (17)
+
+(NB Single)
+
+------------------------------------------
+
+R' U' F R' U2 B' D' U' F2 D' U' L2 D' F2 U L' D2 F L D B' U2 R' U' F
+
+B U2 L' F' // EO (4)
+(L' F2 L') // two sq (7)
+D2 // 222 (8)
+L // 123 (9)
+(B2 U' L2 D L' D' U') // 3c1T (16)
+
+sk: B U2 L' F' D2 L U D L D' L2 * U B2 L F2 $ L
+
+*: F U B U' F' U B' U' // (8-3)  21 to 3c
+$: D2 L U L' D2 L U' L' // (8-2)
+
+Final: B U2 L' F' D2 L U D L D' L2 F U B U' F' U B L F2 D2 L U L' D2 L U' (27)
+
+------------------------------------------
+
+R' U' F B' L' D F2 D2 F2 L2 R2 D B2 D R2 D2 L B2 F' D2 L2 F L R' U' F
+
+(F' L D' F') // EO (4)
+(R' D2 F2 U' D L) // DR (10)
+(U2 F2 D' R2 U' D F2 U' D') // ALL (19)
+
+(NB mo3)
+
+apa la papa
