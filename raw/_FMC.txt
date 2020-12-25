@@ -11270,3 +11270,18 @@ R' L' D L B' R2 U F U F* B2 U2 B U2 B*' D2 F2 U2 F*2 B D F'
 (26,22,20)
 
 R' L' D L B' R2 U F U B' L2 B L2 F' U2 F2 D2 B' D F' (20)
+
+-----------
+
+563th
+R' U' F U R2 D B2 F2 L2 D B2 R2 B2 U' R' F L B' U' R2 B D2 F L' R' U' F
+F' U R L F' D2 B' R2 U B L' F' R U B2 R2 B2 D' L2 F2 B2 D' R2 U' F' U R
+
+F' U' B2 L B //EO + 222
+(L) D' L2 D2 R' D R //DR (12) idk
+L2 D F2 //223
+B2 D B2 U' L2 U L2 D //ALL (23)
+
+(22,20,23) = cool
+
+F' U' B2 L B D' L2 D2 R' D R L2 D F2 B2 D B2 U' L2 U L2 D L' (23)
