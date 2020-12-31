@@ -11285,3 +11285,35 @@ B2 D B2 U' L2 U L2 D //ALL (23)
 (22,20,23) = cool
 
 F' U' B2 L B D' L2 D2 R' D R L2 D F2 B2 D B2 U' L2 U L2 D L' (23)
+
+-----------
+
+564th
+R' U' F R2 D L2 R2 U' R2 F2 L2 D2 L2 U' B D U L U2 F L' D' F' U2 R' U' F
+F' U R U2 F D L F' U2 L' U' D' B' U L2 D2 L2 F2 R2 U R2 L2 D' R2 F' U R
+
+Found 2 or 3 minutes after the hour:
+(R U2 B) //EO
+(R D2 L' B2 U2 R2 L D) //DR (11) 3c
+F2 L (U2 R' U2 F2 L') //HTR (18)
+(B2 ^ D2) //3e (20)
+^ = B2 L R' U2 L' R //(6-4)
+
+F2 L D2 R' L U2 R F2 U2 R U2 D' L' R2 U2 B2 L D2 R' B' U2 R' (22)
+
+Best solution I had before that:
+(R U2 B) //EO
+U' R (U L2 U2 F2 U' R' U2 R) //DR (13) gc
+D (L2 D2 L2 U B2 U) //HTR (20)
+B2 L2 B2 //2e2e (23)
+
+U' R D B2 L2 B2 U' B2 {B2 D2 B2 U' D' L2 U D} U' L2 D2 L2 R' U2 R U F2 U2 L2 U' B' U2 R'
+
+U' R [D B2 L2 B2 U' D2 B2 U' D' L2 D L2 D2] L2 R' U2 R U F2 U2 L2 U' B' U2 R'
+[] = Dw B2 L2 B2 U y2 B2 U2 F2 U L2 Dw D //(-1) => 26
+
+:(
+
+(20,23,26)
+
+U' R Dw B2 L2 B2 U y2 B2 U2 F2 U L2 Dw D L2 R' U2 R U F2 U2 L2 U' B' U2 R' (26)
