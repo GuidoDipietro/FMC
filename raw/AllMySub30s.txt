@@ -7900,3 +7900,16 @@ B F R' F //EO
 (F2 {F2 R2 F2 U2 R2 F2 R2 U2} U2 F2 D2 R2) //2e2e (23) -> 27
 
 B F R' F R2 D2 F2 R2 F2 R2 U2 F2 R2 U L2 U' R2 U' R D L2 B2 D' L2 F2 L U (27)
+
+---------------
+
+449th
+R' U' F R' D2 L2 R2 B2 D U' F2 U' B2 F2 D' L' F D2 F R2 B' L U R' U' F
+F' U R U' L' B R2 F' D2 F' L D F2 B2 U F2 U D' B2 R2 L2 D2 R F' U R
+
+L' U F2 D R //EO
+U' (B D2 F2 R2 D' B D) //DR (13) dc
+D2 R2 U2 B U2 B //HTR (19)
+D2 F2 D2 F2 R2 F2 //ALL (25)
+
+L' U F2 D R U' D2 R2 U2 B U2 B D2 F2 D2 F2 R2 F2 D' B' D R2 F2 D2 B' (25)
