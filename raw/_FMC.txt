@@ -11377,3 +11377,19 @@ D2 F2 D2 F2 R2 F2 //ALL (25)
 (23,27,25)
 
 L' U F2 D R U' D2 R2 U2 B U2 B D2 F2 D2 F2 R2 F2 D' B' D R2 F2 D2 B' (25)
+
+----------------
+
+569th
+R' U' F B2 D2 F2 B D L2 F' B L' B2 U R2 L2 U F2 D B2 U' F2 U F2 R' U' F
+F' U R F2 U' F2 U B2 D' F2 U' L2 R2 U' B2 L B' F L2 D' B' F2 D2 B2 F' U R
+
+D' L B U //EO
+(L B2 L2 R B' R') //DR (10) gc
+R2 U2 R2 F //222
+F' L2 F U2 //223
+L2 B2 L2 B2 L2 B' L2 B2 //ALL (24)
+
+(27,25,24)
+
+D' L B U R2 U2 R2 L2 F U2 L2 B2 L2 B2 L2 B' L2 B2 R B R' L2 B2 L' (24)
