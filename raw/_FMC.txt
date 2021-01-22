@@ -11408,3 +11408,17 @@ D R2 F2 R2 D' R2 D2 L2 U2 B2 D2 //ALL (24)
 (25,24,24)
 
 D R2 F2 R2 D' R2 D2 L2 U2 B2 D R2 L D R2 D U' L2 D' R2 U B U' F' (24)
+
+-------------
+
+571th
+R' U' F D2 R2 U2 F' D2 F' L2 B' D2 U2 B' L' B' U' B2 F L R' U' L' F' R' U' F
+F' U R F L U R L' F' B2 U B L B U2 D2 B L2 F D2 F U2 R2 D2 F' U R
+
+(R2 U' L2 F) //EO
+(U L U2 D2 R2 F2 L' U L) //DR (13) sc
+(U' F2 R2 {F2 D F2 Fw2 D' F2} L2 D' z2) //4e4x (18) -> 24
+
+(24,24,24)
+
+z2 D L2 F2 D F2 Fw2 D' F2 R2 F2 U L' U' L F2 R2 D2 U2 L' U' F' L2 U R2 (24)
