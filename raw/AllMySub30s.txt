@@ -7952,3 +7952,16 @@ F' U R F L U R L' F' B2 U B L B U2 D2 B L2 F D2 F U2 R2 D2 F' U R
 (U' F2 R2 {F2 D F2 Fw2 D' F2} L2 D' z2) //4e4x (18) -> 24
 
 z2 D L2 F2 D F2 Fw2 D' F2 R2 F2 U L' U' L F2 R2 D2 U2 L' U' F' L2 U R2 (24)
+
+-----------
+
+453th
+R' U' F B2 R B D R2 U' F2 U' F2 U' B2 D' F2 U F' D2 U' R' D2 B' L R' U' F
+F' U R L' B D2 R U D2 F U' F2 D B2 U F2 U F2 U R2 D' B' R' B2 F' U R
+
+(B' L U' D' F') //EO
+(U F2 L U' R U') //DR (11) gc
+L F2 L F2 {D2 R2 D2 R2 D2 R2} R' //HTR (16)
+U2 B2 R2 //2e2e (19) -> 24
+
+L F2 L F2 D2 R2 D2 R2 D2 R U2 B2 R2 U R' U L' F2 U' F D U L' B (24)
