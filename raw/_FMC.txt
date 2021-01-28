@@ -11437,3 +11437,22 @@ U2 B2 R2 //2e2e (19) -> 24
 (24,24,24) = ok, four 24s in a row
 
 L F2 L F2 D2 R2 D2 R2 D2 R U2 B2 R2 U R' U L' F2 U' F D U L' B (24)
+
+-----------------
+
+573th
+R' U' F U' R U F' B' R' U2 L' U' R2 U' B2 U2 F2 D B2 U F2 D R' U' F
+F' U R D' F2 U' B2 D' F2 U2 B2 U R2 U L U2 R B F U' R' U F' U R
+
+very hard scramble
+
+(U' B' L' U2 F) //EO
+D' L (D' L2 D' R' U R) //DR (13) dc (12:12)
+{{U' D' B2 L2 D F2 R L U2 B2 L' R //optimal (23)}}
+U2 L2 F2 U //HTR (17)
+(D2 B2) //222
+(R2 U2 F2) //2e2e (22)
+
+(24,24,28)
+
+D' L U2 L2 F2 U F2 U2 R2 B2 D F2 D2 F2 D2 F2 D' R' U' R D L2 D F' U2 L B U (28)
