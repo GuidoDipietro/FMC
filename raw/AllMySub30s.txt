@@ -7980,3 +7980,23 @@ U2 L2 F2 U //HTR (17)
 (R2 U2 F2) //2e2e (22)
 
 D' L U2 L2 F2 U F2 U2 R2 B2 D F2 D2 F2 D2 F2 D' R' U' R D L2 D F' U2 L B U (28)
+
+-------------
+
+455th
+R' U' F U' F L F' L B2 U B' U' L F2 L' D2 R' D2 F2 L D2 B2 D2 R' U' F
+F' U R D2 B2 D2 L' F2 D2 R D2 L F2 L' U B U' B2 L' F L' F' U F' U R
+
+U B R' //EO
+B' D' (U2 D2 B L2 D L2 D') //DR (12) 5oc
+(R2 F R2 Bw2 R2 D2 R2 B; Fw2 L2 D2 F2 D2 B2 D2) //backup ALL (25)
+
+(B2 L2 F R) //EO
+B D' R2 L2 U' B' //DR (10) gc
+U' D (B2 L2 D L2 D') //HTR (17)
+(U2 L2 U2 F2 B2) //ALL (22)
+
+... [U' D F2 B2 U2 L2 U2 D L2 D'] L2 B2 ...
+[] = L2 U2 D2 L2 U2 F2 D' B2 U' //(-1)
+
+B D' R2 L2 U' B' L2 U2 D2 L2 U2 F2 D' B2 U' L2 B2 R' F' L2 B2 (21)
