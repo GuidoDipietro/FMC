@@ -8000,3 +8000,16 @@ U' D (B2 L2 D L2 D') //HTR (17)
 [] = L2 U2 D2 L2 U2 F2 D' B2 U' //(-1)
 
 B D' R2 L2 U' B' L2 U2 D2 L2 U2 F2 D' B2 U' L2 B2 R' F' L2 B2 (21)
+
+------------------
+
+456th
+R' U' F U2 R' F' U' F2 L F B2 D2 B2 R U2 R' U2 L2 F2 R' D2 B2 R' U' F
+F' U R B2 D2 R F2 L2 U2 R U2 R' B2 D2 B2 F' L' F2 U F R U2 F' U R
+
+(F U' R U B') //EO
+(R) U' R2 L2 D' R' //DR (11) 5c
+D L2 D L2 B2 D //HTR (17)
+L2 U2 F2 D2 B2 //ALL (22)
+
+U' R2 L2 D' R' D L2 D L2 B2 D L2 U2 F2 D2 B2 R' B U' R' U F' (22)
