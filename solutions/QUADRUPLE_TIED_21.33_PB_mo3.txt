@@ -1,0 +1,195 @@
+(Four times)
+
+1st (21, 20, 23)
+--------------
+
+R' U' F U2 B2 R F2 R' B2 F2 D2 R2 F2 R B2 U B2 L' R2 B D L2 B' L R' U' F
+
+U F' //EO
+U L (U' D2 L U' L') //DR (9)
+(F2) //easier corners
+(U F2 U' L2 D') //3e3e (15)
+
+U F' U L ** D L2 U F2 U' F2 @ L * U L' D2 U
+* = M2 //4e4x
+** = M2 //3e
+U F' U L' R2 U L2 # D B2 D' B2 L' R2 U L' D2 U
+# = L2 B2 R2 U' B2 L2 F2 D' //(8-4)
+
+alternatively:
+@ = R2 U R2 L2 D' L2 //(6-1) to solve everything in 20 :'(
+
+U F' U L' R2 U B2 R2 U' B2 L2 F2 B2 D' B2 L' R2 U L' D2 U (21)
+
+--------------
+
+R' U' F D2 U2 B2 L2 U2 L' F2 U2 L' D2 F2 U' L2 U2 F R U F2 U L F' R' U' F
+
+D2 L F //EO
+D' R F2 B2 R2 D R' //DR (10)
+(D2 L2 D') //HTR-2e
+F2 U2 R2 U2 D2 B2 //3e (19)
+
+D2 L F D' R F2 B2 # R2 D R' F2 U2 R2 U2 D2 B2 D L2 D2
+# = F2 L2 U' L2 F2 R2 D' R2 //(8-7) wtf
+
+D2 L F D' R B2 L2 U' L2 F2 R F2 U2 R2 U2 D2 B2 D L2 D2 (20)
+
+--------------
+
+R' U' F U' F2 U B2 U' L2 B2 D' L' R' D' B' D' R F' D' U F R' D2 R' U' F
+
+L R' (B' U' R) //EO
+(B) D' L2 B2 D F' L2 F' //DR (13)
+D //HTR-2e4c
+(L2 D' B2 D U2 R2) //2e2e (20)
+
+L R' D' L2 B2 D F' L2 F' D R2 U2 D' B2 D L2 ^ B' R' U B
+^ = L2 R2 F2 R2 L2 B2 //(6-3)
+
+L R' D' L2 B2 D F' L2 F' D R2 U2 D' B2 D R2 F2 R2 L2 B R' U B (23)
+
+--------------
+
+2nd (21, 22, 21)
+--------------
+
+R' U' F R' D2 U B2 U' L2 U B2 F2 U2 L D2 U B2 L' D R B' U R' U' F
+
+(F2 B2 U) //EO
+(L B' L2 F R2 ^' B R') //DR (10)
+(F2 B' U2 B L2 B' F2) //2e2e (17)
+^ = D2 L2 D2 R2 U2 R2 //(6-2)
+
+F2 B L2 B' U2 F2 B R B' D2 L2 D2 R2 U2 F' L2 B L' U' B2 F2 (21)
+
+--------------
+
+R' U' F D R' B' U2 L D2 L2 D F R L F2 D2 R D2 L D2 F2 L2 F2 R' U' F
+
+(R D2 F) /EO
+U' D L //DR-2e3c
+U2 L2 R U' R' //DR (11) dc
+(L2 U' R2 F2 U') //HTR (16)
+(D2 R2) //2 sq
+(F2 L2 B2 D2 R2) //finish (23-1 = 22)
+
+U' D L U2 L2 R U' R D2 B2 L2 F2 R2 D2 U F2 R2 U L2 F' D2 R' (22)
+
+--------------
+
+R' U' F R2 F B L2 U' R U2 L' F' D' F' U2 F D2 B2 L2 U2 B' D2 R2 D2 R' U' F
+
+U2 F' B2 D' //EO
+R' F' R2 B2 L F L //DR (11) gc
+U2 D2 ^ B U2 R2 F R2 ^ B //2e2e (19)
+^ = B2 Bw2 //(4-2) done wth
+
+U2 F' B2 D' R' F' R2 B2 L F L U2 D2 F2 B' D2 L2 F L2 B' F2 (21)
+
+--------------
+
+3rd (21, 22, 21)
+--------------
+
+R' U' F U' B U' B2 R2 U2 F R2 B' L2 F' U2 R2 L' D U F2 D B U2 R' U' F
+
+B2 L2 U2 F //EO
+R2 D' R' L2 D' L U' L //HTR (12)
+B2 L2 R2 U2 F' B U2 F B //done (21)
+
+B2 L2 U2 F //EO
+R2 D' R' (R2 F2 L') L2 D' L' //DR (13)
+U2 R2 D2 R2 D' R2 U D //done (21)
+
+B2 L2 U2 F R2 D' R' L2 D' L' U2 R2 D2 R2 D' R2 U D L F2 R2 (21)
+B2 L2 U2 F R2 D' R' L2 D' L U' L B2 L2 R2 U2 F' B U2 F B (21)
+
+--------------
+
+R' U' F U' B2 L' U B2 D2 L2 D2 R2 F' D2 F' R' F' U2 L F L' U R' U' F
+
+D2 L' F' //EO
+R' D' F2 D' L2 U' D2 R' //HTR-2e (11)
+(D F2 L2 F2 D') //HTR (16)
+F2 L2 B2 R2 D2 L2 //ALL (22)
+
+D2 L' F' R' D' F2 D' L2 U' D2 R' F2 L2 B2 R2 D2 L2 D F2 L2 F2 D' (22)
+
+--------------
+
+R' U' F R' U' F L2 D L2 D R2 D F2 D2 B2 D R' D' F U R' B F R' U' F
+
+(D2 B' L') //EO
+(F' D2 F' R2 F2 U') //DR (9) sc
+(L2 D2 B') //HTR (12)
+(L2 B2) //222
+(U2 F B L2 F' B' L2) //ALL (21)
+
+Found in 11 minutes, couldn't find anything better for the rest of the attempt. (I found like 4 or 5 other ways to get to this same 21, smh)
+
+L2 F B L2 F' B' U2 B2 L2 B D2 L2 U F2 R2 F D2 F L B D2 (21)
+
+--------------
+
+4th (22, 22, 20)
+--------------
+
+R' U' F U2 R' F' U' F2 L F B2 D2 B2 R U2 R' U2 L2 F2 R' D2 B2 R' U' F
+
+(F U' R U B') //EO
+(R) U' R2 L2 D' R' //DR (11) 5c
+D L2 D L2 B2 D //HTR (17)
+L2 U2 F2 D2 B2 //ALL (22)
+
+U' R2 L2 D' R' D L2 D L2 B2 D L2 U2 F2 D2 B2 R' B U' R' U F' (22)
+
+--------------
+
+R' U' F R2 F2 L' F U R2 D2 R F2 R2 B2 U2 L2 F2 L2 F' L2 R' U' F
+
+Found it like this:
+
+(R U' D R) //EO
+D B' D2 F2 R2 F D' //DR (11) gc
+(U2 B2 U2) //222
+L*2 //223
+F' D2 % F2 D2 //3e (19)
+* = w //4e4x (0)
+% = F R2 Rw2 F' //(4-1) ALL
+
+But it's really just this:
+
+(R U' D R) //EO
+D B' D2 F2 R2 F D' //DR (11) gc
+L2 F U2 D2 B2 U2 D2 //3e (18)
+
+D B' D2 F2 R2 F D' L*2 <F U2 D2 B2 U2 D2> R' U D' R' //3e (18)
+* = w //4e4x (0)
+<> = F' D2 F R2 Rw2 F U2 D2 B2 U2 //ALL (4) -> 22
+
+D B' D2 F2 R2 F D' R2 B' U2 B R2 L2 F D2 U2 B2 U2 R' U D' R' (22)
+
+--------------
+
+R' U' F B' L2 B2 L2 U' F2 R2 U' L2 U' R2 U2 R' F2 U' L2 R2 B F L' R' U' F
+
+THREE different 20s
+
+1)
+D2 F //EO
+(L') L2 F2 D' R' //DR (7) gic
+U ^ F2 U2 L2 D' F2 D //2e2e (14)??
+^ = U' F2 R2 B2 D' L2 B2 R2 //(8-2) -> 20
+
+D2 F //EO
+(L') L2 F2 D' R' //DR (7) gic
+U' (B2 F2 D' L2 D') //HTR (13)
+(F2 U2 R2) //2e2e (16)
+
+2) D2 F L2 F2 D' R' U' R2 U2 {L2 B2 L2 F2 R2 F2} F2 D L2 D F2 B2 L (20)
+3) D2 F L2 {L2 B2 U F2 R2 B2 D F2} F2 {D2 F2 Fw2 D2} D' R' U' R2 U2 F2 D L2 D [z2] L (20)
+
+D2 F L2 F2 D' R' F2 R2 B2 D' L2 B2 R2 F2 U2 L2 D' F2 D L (20)
+D2 F L2 F2 D' R' U' R2 U2 L2 B2 L2 F2 R2 D L2 D F2 B2 L (20)
+D2 F B2 U F2 R2 B2 D' F2 B2 U L' D' L2 D2 F2 U R2 U L (20)
