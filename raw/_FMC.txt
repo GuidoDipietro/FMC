@@ -11525,6 +11525,7 @@ D B' D2 F2 R2 F D' L*2 <F U2 D2 B2 U2 D2> R' U D' R' //3e (18)
 D B' D2 F2 R2 F D' R2 B' U2 B R2 L2 F D2 U2 B2 U2 R' U D' R' (22)
 
 -----------------------
+
 577th
 R' U' F B' L2 B2 L2 U' F2 R2 U' L2 U' R2 U2 R' F2 U' L2 R2 B F L' R' U' F
 F' U R L F' B' R2 L2 U F2 R U2 R2 U L2 U R2 F2 U L2 B2 L2 B F' U R
@@ -11550,3 +11551,18 @@ U' (B2 F2 D' L2 D') //HTR (13)
 D2 F L2 F2 D' R' F2 R2 B2 D' L2 B2 R2 F2 U2 L2 D' F2 D L (20)
 D2 F L2 F2 D' R' U' R2 U2 L2 B2 L2 F2 R2 D L2 D F2 B2 L (20)
 D2 F B2 U F2 R2 B2 D' F2 B2 U L' D' L2 D2 F2 U R2 U L (20)
+
+-----------------
+
+578th
+R' U' F D' L2 B2 R2 F2 D' B2 U' L2 B2 U' L D2 B' D F' R' F U' F D' R' U' F
+F' U R D F' U F' R F D' B D2 L' U B2 L2 U B2 D F2 R2 B2 L2 D F' U R
+
+D B R //EO
+(F' U' L2 F B2 U' F2 U') //DR (11) dc
+(F) U2 L2 B R2 B' //HTR (17)
+L2 D2 B2 R2 L2 //ALL (22)
+
+(22,20,22) = PB, 5th time lol XD
+
+D B R U2 L2 B R2 B' L2 D2 B2 R2 L2 F' U F2 U B2 F' L2 U F (22)
