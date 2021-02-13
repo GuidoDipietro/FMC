@@ -11566,3 +11566,19 @@ L2 D2 B2 R2 L2 //ALL (22)
 (22,20,22) = PB, 5th time lol XD
 
 D B R U2 L2 B R2 B' L2 D2 B2 R2 L2 F' U F2 U B2 F' L2 U F (22)
+
+-----------------
+
+579th
+R' U' F R' U2 F2 U' R2 U F2 D L2 F2 R2 U' L B R' U L B R F2 R' U' F
+F' U R F2 R' B' L' U' R B' L' U R2 F2 L2 D' F2 U' R2 U F2 U2 R F' U R
+
+(U L R' F D') //EO
+F R2 F2 B2 L B' L //DR (12) dc
+^ R2 F' $ B2 //3e (15)
+^ = R2 Rw2 //(-1) 4e4x
+$ = D2 F R2 Rw2 F' D2 //(6) ALL
+
+(20,22,20) = 20.67, daft punk, first subWR!
+
+F R2 F2 B2 L B' L' B' U2 B R2 L2 F' D2 B2 D F' R L' U' (20)
