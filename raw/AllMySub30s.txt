@@ -8121,3 +8121,15 @@ F' U (D2 F2 R2 F2 B U') //DR (12) dc
 (U2 B2 U2 R' L D2 R' L) //ALL (25)
 
 B' R' D' R F' U R L' D2 R L' U2 B2 U2 B L2 B' L2 D2 U F2 B' R2 F2 D2 (25)
+
+------------
+
+463th
+R' U' F R' L' B' L D' L2 D' R F' U2 L2 B2 L2 U' L2 U' D2 B2 D L2 R' U' F
+F' U R L2 D' B2 D2 U L2 U L2 B2 L2 U2 F R' D L2 D L' B L R F' U R
+
+(U' D2 B D) //EO
+R' B D2 R2 B R //DR (10) sc
+U2 B2 U2 F' B' {R2 F' R2 Rw2 F R2 x2} //4e4x (15) -> 21
+
+R' B D2 R2 B R U2 B2 U2 F' B' R2 F' R2 L2 B R2 D' B' D2 U (21)
