@@ -11688,3 +11688,21 @@ R2 F2 B2 * D2 //3e (20)
 (22,25,23)
 
 L2 F D2 F L2 F' R F' R2 F2 U D' R2 U' D' B D2 B' L2 F2 D' F' D (23)
+
+--------------
+
+587th
+R' U' F L2 B D2 B D2 F' D2 U2 L2 F' U B' F2 U2 F R B' F2 D2 R' U' F
+F' U R D2 F2 B R' F' U2 F2 B U' F L2 U2 D2 F D2 B' D2 B' L2 F' U R
+
+(B' D2 F R') //EO
+D' F B2 U L2 B2 D F //DR (12) gc
+U F2 B2 U L2 U //HTR (18)
+(L2 F2 R2 D2 F2) //3E (23)
+
+D' F B2 U L2 B2 D F [U F2 B2 U L2 U F2 D2] R2 F2 L2 R F' D2 B
+[] = D R2 L2 U F2 U2 D' F2 D2 (1)
+
+(25,23,24)
+
+D' F B2 U L2 B2 D F D R2 L2 U F2 U2 D' F2 D2 R2 F2 L2 R F' D2 B (24)
