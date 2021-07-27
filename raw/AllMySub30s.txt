@@ -8202,3 +8202,17 @@ D' F B2 U L2 B2 D F [U F2 B2 U L2 U F2 D2] R2 F2 L2 R F' D2 B
 [] = D R2 L2 U F2 U2 D' F2 D2 (1)
 
 D' F B2 U L2 B2 D F D R2 L2 U F2 U2 D' F2 D2 R2 F2 L2 R F' D2 B (24)
+
+-----------------
+
+469th
+R' U' F R F' L U L2 F2 D U2 R2 B2 L2 R2 U F' U' B' L U2 F' U2 R' U' F
+F' U R U2 F U2 L' B U F U' R2 L2 B2 R2 U2 D' F2 L2 U' L' F R' F' U R
+
+F' L' F B' //EO
+U (U' R D2 L2 D2 L D') //DR (12) 5c
+(R D2 R F2 L' D2 L') //4e2e (19)
+
+F' L' F B' U L Dw2 L {L2 F2 Fw2 L2 F2 Fw2} F2 {L D2 Dw2 L'} R' D2 R' D L' D2 L2 D2 R' U
+
+F' L' F B' U L U2 R' F2 B2 L2 F2 R U2 D2 L' R' D2 R' D L' D2 L2 D2 R' U (26)
