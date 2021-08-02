@@ -8229,3 +8229,19 @@ U2 B' L2 B D2 * B' F2 //19 to 5e
 * = D2 L2 D2 B D2 L2 D2 B //(8-4)
 
 R2 B2 U2 R F' D2 F2 D B' D' U2 B' L2 B L2 D2 B D2 L2 D2 F2 U' B (23)
+
+------------------
+
+471th
+R' U' F D' B' D B' D F' L2 B U' F2 L D2 L D2 B2 R2 F2 L U2 B2 R' U' F
+F' U R B2 U2 L' F2 R2 B2 D2 L' D2 L' F2 U B' L2 F D' B D' B D F' U R
+
+U' D' //EO
+R (B D2 R2 F' R) //DR (8) gc
+(F L2 U2 y2) //4e4x (11)
+
+U' D' R U2 y2 L2 F' R' F {R' B' U2 Uw2 B R} R2 D2 B'
+
+bruh
+
+U' D' R U2 R2 B' L' B L' F' U2 D2 B R' D2 B' (16)

@@ -1,0 +1,18 @@
+R' U' F D' B' D B' D F' L2 B U' F2 L D2 L D2 B2 R2 F2 L U2 B2 R' U' F
+F' U R B2 U2 L' F2 R2 B2 D2 L' D2 L' F2 U B' L2 F D' B D' B D F' U R
+
+U' D' //EO
+R (B D2 R2 F' R) //DR (8) gc
+(F L2 U2 y2) //4e4x (11)
+
+U' D' R U2 y2 L2 F' R' F {R' B' U2 Uw2 B R} R2 D2 B'
+
+U' D' R U2 R2 B' L' B L' F' U2 D2 B R' D2 B' (16)
+
+Second scramble at Campeonato Brasileiro 2021
+I decided to sleep during the competition so I tried this two days later
+
+Found in 5 minutes
+Best single at the comp was a 21
+
+bruh
