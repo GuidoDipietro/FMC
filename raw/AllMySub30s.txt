@@ -8259,3 +8259,15 @@ B' L' F' B' D2 F R //DR (12)
 D' R' B L2 D B' L' F' B' D2 F R F Uw2 F' L2 {F U2 Uw2 F'} F2 L2 D2 F'
 
 D' R' B L2 D B' L' F' B' D2 F R F D2 B' R2 B U2 D2 F L2 D2 F' (23)
+
+-----------
+
+473th
+R' U' F D' L2 R2 F' D2 F' U2 B F D2 L2 U2 D' L' U' F2 R U2 F' D' R' U' F
+F' U R D F U2 R' F2 U L D U2 L2 D2 F' B' U2 F D2 F R2 L2 D F' U R
+
+R B' U2 L //EO
+(D' B2 D R2 U' F) //DR (10) gc
+({F B' R2 F' B U2} U R2 D' B2 U2 B2 U2) //3e (17) -> 21
+
+R B' U2 L U2 B2 U2 B2 D R2 U B' F R2 B F2 U R2 D' B2 D (21)
