@@ -8286,3 +8286,18 @@ F2 U2 F2 //bloc
 % = L F2 L' R U2 R' //ALL (26) 
 
 B F2 U2 F2 L2 U2 R2 D' L' F2 L' R U2 R' D F2 R' D' L2 F2 D2 R' L' F L2 F2 (26)
+
+--------------------
+
+475th
+R' U' F R2 U R2 D L2 U' F2 U' B2 U B' R2 U' R D2 F' U R D R' U' F
+F' U R D' R' U' F D2 R' U R2 B U' B2 U F2 U L2 D' R2 U' R2 F' U R
+
+(R') F' D F R' //EO
+(B L2 F2 D B2 D) //DR (11) gc
+B2 R2 //stuff
+B' L2 F U2 F* U2 F* //HTR (20)
+L2 U2 F2 L2 F*2 L2 //2e2e (26)
+* = ALL (0)
+
+F' D F R' B2 R2 B' L2 F U2 Fw U2 Fw L2 U2 F2 L2 Fw2 L2 D' B2 D' F2 L2 B' R (26)
