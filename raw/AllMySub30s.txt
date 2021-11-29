@@ -8370,3 +8370,17 @@ F' R (U' L) //EO
 
 D' B2 U L2 D2 F D' F2 B2 U' F2 D' F2 D' L2 F2 B2 R2 B2 D2 B D L' U R B (26)
 F' R F' D2 B2 D2 F' R2 F' U2 F U2 F' D2 B2 D F2 D B2 F D' B U' B2 L' U (26)
+
+------------------
+
+480th
+R' U' F R2 U L2 U' R2 B2 D' L2 F2 D' B' D L F R U2 L2 B F' L' R' U' F
+F' U R L F B' L2 U2 R' F' L' D' B D F2 L2 D B2 R2 U L2 U' R2 F' U R
+
+(D' L) F' L //EO
+U F' D' R2 U' R2 U B //DR (12) dc
+$ U % B2 D F2 D2 B2 x2 //5e4x (18)
+% = U2 R2 Rw2 U2 //(4-1) 3e
+$ = B' U2 B F' L2 F //(6-3) ALL (24)
+
+F' L U F' D' R2 U' R2 U' B F' L2 F U' R2 L2 D2 F2 U B2 U2 F2 L' D (24)
