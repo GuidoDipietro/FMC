@@ -11910,3 +11910,30 @@ $ = B' U2 B F' L2 F //(6-3) ALL (24)
 (28,26,24)
 
 F' L U F' D' R2 U' R2 U' B F' L2 F U' R2 L2 D2 F2 U B2 U2 F2 L' D (24)
+
+-------------------------------
+
+600th
+R' U' F D F' L2 R2 U F2 R2 B2 R2 D' L2 U2 F2 R' F' U2 F R' F' D B2 R' U' F
+F' U R B2 D' F R F' U2 F R F2 U2 L2 D R2 B2 R2 F2 U' R2 L2 F D' F' U R
+
+(B' L2 D' L) //EO
+(B U) B2 L2 U2 B2 D //DR (11) 5c
+(B L2 B') & U2 F D2 F' //HTR (18)
+U2 B2 D2 //2e2e (21)
+
+& = B2 U2 F B R2 F' B' U2 //(8-4) ALL (25)
+
+B2 L2 U2 B2 D B2 U2 F B R2 B' D2 F' U2 B2 D2 B L2 B' U' B' L' D L2 B (25)
+
+------------------------------
+
+601th
+R' U' F D' B D2 L2 F R2 B D2 B D2 B2 F' U2 L' R' F' U L B2 D F R' U' F
+F' U R F' D' B2 L' U' F R L U2 F B2 D2 B' D2 B' R2 F' L2 D2 B' D F' U R
+
+D B' (L' R2 F) //EO
+(U2 R) D L2 U2 L {L U' R2 Rw2 U L'} U' L //DR (13) dc
+U {R2 Rw2} F2 U' F2 U2 B2 U D' //5e (21) (B: 28)
+
+D B' D L2 U2 L2 U' R2 L2 D L' D' L D R2 L2 F2 U' F2 U2 B2 U D' R' U2 F' R2 L (28)
