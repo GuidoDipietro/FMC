@@ -11924,6 +11924,8 @@ U2 B2 D2 //2e2e (21)
 
 & = B2 U2 F B R2 F' B' U2 //(8-4) ALL (25)
 
+(26,24,25)
+
 B2 L2 U2 B2 D B2 U2 F B R2 B' D2 F' U2 B2 D2 B L2 B' U' B' L' D L2 B (25)
 
 ------------------------------
@@ -11935,5 +11937,7 @@ F' U R F' D' B2 L' U' F R L U2 F B2 D2 B' D2 B' R2 F' L2 D2 B' D F' U R
 D B' (L' R2 F) //EO
 (U2 R) D L2 U2 L {L U' R2 Rw2 U L'} U' L //DR (13) dc
 U {R2 Rw2} F2 U' F2 U2 B2 U D' //5e (21) (B: 28)
+
+(24,25,28)
 
 D B' D L2 U2 L2 U' R2 L2 D L' D' L D R2 L2 F2 U' F2 U2 B2 U D' R' U2 F' R2 L (28)
