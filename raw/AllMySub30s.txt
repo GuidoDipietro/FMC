@@ -8411,3 +8411,17 @@ D B' (L' R2 F) //EO
 U {R2 Rw2} F2 U' F2 U2 B2 U D' //5e (21) (B: 28)
 
 D B' D L2 U2 L2 U' R2 L2 D L' D' L D R2 L2 F2 U' F2 U2 B2 U D' R' U2 F' R2 L (28)
+
+------------------
+
+483th
+R' U' F D F2 D R2 F2 D L2 U' R2 U R' D2 B' U' R' F' L R' D' B' R' U' F
+F' U R B D R L' F R U B D2 R U' R2 U L2 D' F2 R2 D' F2 D' F' U R
+
+U2 B' D' L //EO
+F U (F2 L2 D') //DR (9) sc
+(U2 B & U2 L2 B2 F2 L*2 F2 B') //2e2e (18)
+& = L2 F R2 D2 L2 B R*2 U2 //(8-2) ALL (24)
+* = w //(4-7) thanks (21) -> (L2 F2 B2 L2 R2 B' = R2 F2 B)
+
+U2 B' D' L F U B F2 R2 F2 B L2 D2 R2 F' L2 B' U2 D L2 F2 (21)
