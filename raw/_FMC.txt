@@ -11957,3 +11957,18 @@ F U (F2 L2 D') //DR (9) sc
 (25,28,21)
 
 U2 B' D' L F U B F2 R2 F2 B L2 D2 R2 F' L2 B' U2 D L2 F2 (21)
+
+-----------------
+
+603th
+R' U' F D2 R' D2 L' U2 B2 R2 U2 B2 L F2 L' F U B' R' B D' F' L2 F R' U' F
+F' U R F' L2 F D B' R B U' F' L F2 L' B2 U2 R2 B2 U2 L D2 R D2 F' U R
+
+(R2 L U L) //EO
+(D' F' U' D2 B' U' B') //DR (11) dc
+U F2 R2 F2 U' L2 U' //HTR (18)
+R2 {R2 U2 R2 B2 R2 U2 R2 B2} B2 D2 //3e (21) -> 24
+
+(28,21,24)
+
+U F2 R2 F2 U' L2 U R2 B2 R2 U2 R2 D2 B U B D2 U F D L' U' L' R2 (24)
