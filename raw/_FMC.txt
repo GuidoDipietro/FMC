@@ -11972,3 +11972,20 @@ R2 {R2 U2 R2 B2 R2 U2 R2 B2} B2 D2 //3e (21) -> 24
 (28,21,24)
 
 U F2 R2 F2 U' L2 U R2 B2 R2 U2 R2 D2 B U B D2 U F D L' U' L' R2 (24)
+
+------------------
+
+604th
+R' U' F L B D2 L B2 L R2 B2 R B2 D R B F2 L F2 U R2 D2 R' U' F
+F' U R D2 R2 U' F2 L' F2 B' R' D' B2 R' B2 R2 L' B2 L' D2 B' L' F' U R
+
+F' U' B' D2 L' //EO
+U D' F U' F2 U B' //DR (12) gc
+L2 & B2 U] % B2 U L2 //5e (18)
+& = L2 F2 [U' F2 L2 B2 D' B2 //(8-4) 3e
+[] = D' L2 B2 R2 //(-2) 3e
+% = R' L U2 R L' B2 //(6-3) ALL (23)
+
+(21,24,23)
+
+F' U' B' D2 L' U D' F U' F2 U B' F2 D' L2 B2 R L U2 R L' U L2 (23)
