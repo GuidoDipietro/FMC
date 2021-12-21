@@ -2,8 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import math
 
-#with open("raw/rominaSingles.txt","r") as file:
-with open("raw/singlesNEW.txt","r") as file:
+with open("../data/__FMC_num.txt","r") as file:
     for line in file:
         new = line.split(", ")
         new = [int(x[0:2]) for x in new]

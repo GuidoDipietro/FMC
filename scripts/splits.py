@@ -2,8 +2,7 @@ import numpy as np
 import re
 import matplotlib.pyplot as plt
 
-#filename = "raw/clean_for_splits.txt"
-filename = "raw/_FMC.txt"
+filename = "../data/__FMC.txt"
 
 dr = []
 htr = []

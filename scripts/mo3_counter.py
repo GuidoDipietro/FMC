@@ -5,8 +5,7 @@ import math
 import sys
 
 # File to open
-filename = "raw/singlesNEW.txt"
-#filename = "raw/rominaSingles.txt"
+filename = "../data/__FMC_num.txt"
 
 # Mean to count occurences of
 keymean = float(input("Mean to count: "))

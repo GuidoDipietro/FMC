@@ -1,9 +1,7 @@
 import numpy as np
 
 # File to open
-filename = "raw/singlesNEW.txt"
-#filename = "raw/rominaSingles.txt"
-#filename = "raw/gustavoSingles.txt"
+filename = "../data/__FMC_num.txt"
 
 # Get data into np.array
 with open(filename,"r") as file:

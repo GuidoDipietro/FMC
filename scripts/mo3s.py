@@ -6,9 +6,7 @@ import math
 import sys
 
 # File to open
-filename = "raw/singlesNEW.txt"
-#filename = "raw/gustavoSingles.txt"
-#filename = "raw/rominaSingles.txt"
+filename = "../data/__FMC_num.txt"
 
 # Get data into array
 with open(filename,"r") as file:

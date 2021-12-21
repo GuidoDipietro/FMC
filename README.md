@@ -8,9 +8,9 @@
 
 ---
 
-# Main folders and files
+# So what's in here?
 
-## Root folder
+## `scripts` folder
 Some programs in Python that compute stats and stuff.
 - **histoplotter.py**  
   Plots a histogram of all solutions + last by breakpoints.  
@@ -41,24 +41,22 @@ Some programs in Python that compute stats and stuff.
   <br><br><img src="misc/program_caps/odd-even-sequential.PNG" width=650><br><br>
 - **moreplots.py**  
   Ugly scatter plot with best-fit regression line, my first attempt at visualizing data here.
-- **FMCavg100.py** and **FMCavg100SessionGetter.py**  
-  I have no idea what these do, I'm keeping them in case I remember some day.
   
-## raw
+## `data`
 Text files with solutions and results used for computing stats, my own and foreign. Worth noting:
-- **_FMC.txt**  
+- **__FMC.txt**  
   All my FMC solutions. Period.
-- **singlesNEW.txt**  
-  All my FMC results, numerical result only. (.000 because I feel like it)
-- **AllMySub30s.txt**  
+- **__FMC_num.txt**  
+  All my FMC results, numerical result only.
+- **__FMC_sub30s.txt**  
   All my FMC solutions that are under 30 moves. Created when these were rare, only kept as a tradition now.
   
-## solutions
+## `solutions`
 Some solutions I found especially nice (PBs / interesting solutions), both mine and foreign.
 Also reconstructions of all my official FMC attempts (except World's 46).
 
-## theory stuff
+## `theory`
 Things I noticed or found worth pointing out. Some are algorithms, some are ways to solve certain cases, etc.
 
-## misc
+## `misc`
 Random pictures, screencaps, or other documents.
