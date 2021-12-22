@@ -44,8 +44,10 @@ Some programs in Python that compute stats and stuff.
   
 ## `data`
 Text files with solutions and results used for computing stats, my own and foreign. Worth noting:
-- **__FMC.txt**  
+- **__FMC_all.txt**  
   All my FMC solutions. Period.
+- **__FMC.txt**  
+  All my FMC solutions, skipping the first 100 for more normalized reconstructions.
 - **__FMC_num.txt**  
   All my FMC results, numerical result only.
 - **__FMC_sub30s.txt**  
