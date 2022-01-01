@@ -1,0 +1,11 @@
+R' U' F D2 F R' U' B L2 F D2 U2 R2 B2 L R B2 U L' R2 D' R' U' F
+
+23. There is a 22 from the DR obtained by replacing U2 with Uw2.
+
+F U2 F B R // EO (4/4)
+B U D B' R2 F' // DR (7/11)
+B2 U' L2 U F2 B2 L2 D' // HTR (8/19)
+L2 F2 U2 // L3E (3/22)
+Skeleton: F U2 F B R B U D B' R2 F' B2 U' L2 U F2 B2 L2 [D' L2 F2 U2]
+[]=U' F2 R2 U' D' // Solved (5-4/23)
+Solution: F U2 F B R B U D B' R2 F' B2 U' L2 U F2 B2 L2 U' F2 R2 U' D' (23)
