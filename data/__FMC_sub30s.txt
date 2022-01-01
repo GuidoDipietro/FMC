@@ -8509,3 +8509,17 @@ B2 R2 D2 F2 //2e2e (21)
 & = R2 F2 R2 F' B' D2 F B //(8-4) ALL (25)
 
 B2 F' R' F' B2 L2 B2 R' B2 R B2 R2 D2 F D2 F B R2 F2 R' U' F' L B' D (25)
+
+------------
+
+490th
+R' U' F D R D L' B2 L2 B' R' L2 U' B U L2 B2 U F2 U' B2 U R' U' F
+F' U R U' B2 U F2 U' B2 L2 U' B' U L2 R B L2 B2 L D' R' D' F' U R
+
+F2 L U B //EO
+(D2 R2 U D B2 L2 U L) //DR (12) gc
+U2 R2 U' //HTR (15)
+(D2 L2 D2 F2 D2 & B2 L2) //2e2e (22) -> 24
+& = D2 R2 F2 R2 D2 B2 L2 B2 //(8-6) ALL (24)
+
+F2 L U B U2 R2 U' B2 D2 R2 F2 R2 F2 D2 L2 D2 L' U' L2 B2 D' U' R2 D2 (24)
