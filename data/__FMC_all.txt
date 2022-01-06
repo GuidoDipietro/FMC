@@ -12119,3 +12119,18 @@ U2 L*2 F2 //2e2e (16)
 (21,24,20)
 
 F' U2 R2 L2 D2 L2 F' D2 R2 F2 L F' L B2 L' D' R F U' B' (20)
+
+------------
+
+613th
+R' U' F U' B' D' F L2 B2 D R2 D2 B2 F2 R2 F L' U2 B U2 R U2 R' U' F
+F' U R U2 R' U2 B' U2 L F' R2 F2 B2 D2 R2 D' B2 L2 F' D B U F' U R
+
+(L' F') U2 L' F' //EO
+(U2 B2 D U' F2 U' R') //DR (12) gc
+(U) R2 F2 R2 D' F2 D //HTR (19)
+R2 L2 D2 L2 //ALL (23)
+
+(24,20,23)
+
+U2 L' F' R2 F2 R2 D' F2 D R2 L2 D2 L2 U' R U F2 U D' B2 U2 F L (23)
