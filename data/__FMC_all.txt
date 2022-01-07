@@ -12134,3 +12134,25 @@ R2 L2 D2 L2 //ALL (23)
 (24,20,23)
 
 U2 L' F' R2 F2 R2 D' F2 D R2 L2 D2 L2 U' R U F2 U D' B2 U2 F L (23)
+
+--------------
+
+614th
+R' U' F U L2 F2 R D2 R2 B2 R D F R' F U2 R B' D' B U R' U' F
+F' U R U' B' D B R' U2 F' R F' D' R' B2 R2 D2 R' F2 L2 U' F' U R
+
+(B' D) F2 U' //EO
+L2 U2 F' B' L' //DR (9)
+B' R2 F' //222
+(B L2 B' L2) //223
+(B D2 B' D2 B' D2 B') //3e (23)
+
+F2 U' L2 U2 F' B' L' [B' R2 F' B D2 B D2 B D2 B' L2 B L2 B'] D' B
+[] = F' U2 D2 F L2 F U2 F' U2 B U2 F' //(-2)
+
+F2 U' L2 U2 F' B' L' F' U2 D2 F L2 F U2 F' {R2 D2 F L2 D2 R2 B U2} U2 B U2 F' D' B
+& = R2 D2 F L2 D2 R2 B U2 //(8-3) ALL (26)
+
+(20,23,26)
+
+F2 U' L2 U2 F' B' L' F' U2 D2 F L2 F U2 F' R2 D2 F L2 D2 R2 B2 U2 F' D' B (26)
