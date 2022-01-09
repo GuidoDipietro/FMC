@@ -8510,3 +8510,19 @@ F2 U' L2 U2 F' B' L' F' U2 D2 F L2 F U2 F' {R2 D2 F L2 D2 R2 B U2} U2 B U2 F' D'
 (20,23,26)
 
 F2 U' L2 U2 F' B' L' F' U2 D2 F L2 F U2 F' R2 D2 F L2 D2 R2 B2 U2 F' D' B (26)
+
+---
+
+R' U' F L2 U B2 F2 U2 B2 D L2 U F2 U R2 B U R' D F' R D' F' D2 R' U' F
+F' U R D2 F D R' F D' R U' B' R2 U' F2 U' L2 D' B2 U2 F2 B2 U' L2 F' U R
+
+D F R //EO
+U D (F' R2 L2 U2 L2 U' L2 U) //DR (13) 5c
+F U2 F (B U2 D2 F2 R2 F' B2 U2 F B R2) //ALL (27)
+
+D F R U D [F U2 F R2 F' B' U2 B2 F R2 F2 D2 U2 B'] U' L2 U L2 U2 R2 L2 F
+[] = B L2 F U2 B2 U2 B' U2 B2 R2 L2 F' //(-2)
+
+(23,26,25)
+
+D F R U D B L2 F U2 B2 U2 B' U2 B2 R2 L2 F' U' L2 U L2 U2 R2 L2 F (25)
