@@ -12173,3 +12173,19 @@ D F R U D [F U2 F R2 F' B' U2 B2 F R2 F2 D2 U2 B'] U' L2 U L2 U2 R2 L2 F
 (23,26,25)
 
 D F R U D B L2 F U2 B2 U2 B' U2 B2 R2 L2 F' U' L2 U L2 U2 R2 L2 F (25)
+
+----------------
+
+616th
+R' U' F D2 F2 D U2 L2 D' B' F U L2 D' U L' D' B' U' R2 F' R' U' F
+F' U R F R2 U B D L U' D L2 U' F' B D L2 U2 D' F2 D2 F' U R
+
+(F R' U F') //EO
+R (L2 U R2 D' L2 D L') //DR (12) dc
+U (B2 L2 U B2 U*') //HTR (18)
+(F2 L2 B2 U* D R2 U D') //ALL (24)
+* = w //(-1) ALL (23)
+
+(26,25,23)
+
+R D R2 D2 R2 B2 L2 D B2 U' L2 B2 L D' L2 D R2 U' L2 F U' R F' (23)
