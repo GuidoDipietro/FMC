@@ -12204,3 +12204,21 @@ F2 D2 F2 B2 //2e2e (21) -> 24
 (25,23,24)
 
 F' R2 D' B U2 L F2 R' F2 L U D2 B2 D2 R' U2 D2 L2 U2 R' F2 D2 F2 B2 (24)
+
+------------
+
+618th
+R' U' F R' B' D B2 U2 F2 R' U2 L R' D2 R2 B' D B R D L2 D' R' U' F
+F' U R D L2 D' R' B' D' B R2 D2 R L' U2 R F2 U2 B2 D' B R F' U R
+
+(R') R' D' R' //EO
+D F L2 F' D2 B U' //DR (11) gc
+(B U2 R2 D2 F U2 F) //HTR (18)
+(U2 L2 F2 L2) //3E (22)
+
+R' D' R' D F L2 F' D2 B [U' L2 F2 L2 U2] F' U2 F' D2 R2 U2 B' R
+[] = D' B2 L2 U D' R2 D2 //(2) ALL (24)
+
+(23,24,24)
+
+R' D' R' D F L2 F' D2 B D' B2 L2 U D' R2 D2 F' U2 F' D2 R2 U2 B' R (24)
