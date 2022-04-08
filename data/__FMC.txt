@@ -8572,3 +8572,19 @@ R' D' R' D F L2 F' D2 B [U' L2 F2 L2 U2] F' U2 F' D2 R2 U2 B' R
 (23,24,24)
 
 R' D' R' D F L2 F' D2 B D' B2 L2 U D' R2 D2 F' U2 F' D2 R2 U2 B' R (24)
+
+---
+
+R' U' F L D2 B U2 D F' L B2 D' R U B2 U' B2 R2 D' R2 L2 U D R' U' F
+F' U R D' U' L2 R2 D R2 B2 U B2 U' R' D B2 L' F D' U2 B' D2 L' F' U R
+
+U D F R L //EO
+D' F2 L2 D' F //DR (10) dc
+U (R2) //blocks and whatnot
+(U' L2 D F2 U2 L2 U R2 U D') //2e2e (20)
+
+U D F R L D' F2 L2 D' F D R2 U' {B2 R2 L2 F2 R2 L2} L2 U2 F2 D' L2 U R2
+
+(24,24,24)
+
+U D F R L D' F2 L2 D' F D R2 U' B2 R2 L2 F2 R2 U2 F2 D' L2 U R2 (24)
