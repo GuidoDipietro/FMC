@@ -12261,3 +12261,25 @@ F' R' B L B [F2 U R2 F2 R2 F2 R2 U D' F] U R2 L2 D' F2 B2 U' (22)
 (24,24,21)
 
 F' R' B L B U D' L2 U F2 L2 F2 L2 F' U R2 L2 D' F2 B2 U' (21)
+
+----------------------------
+
+621th
+R' U' F R' U' F R2 D2 L2 U2 B2 F R2 B' L D2 L U F L D' F R' U' F
+F' U R F' D L' F' U' L' D2 L' B R2 F' B2 U2 L2 D2 R2 F' U R F' U R
+
+F' R' B' L //EO
+(U' D' B R2 U2 B' D) //DR (11)
+(B D2) //T perm + slice
+(R2 B' F2 D2 F' D2 L2 B' U2 F U2 B2) //ALL (25)
+
+Should've been:
+
+F' R' B' L //EO
+(U' D' B R2 U2 B' D) //DR (11)
+(F L2) //T perm + slice
+(D2 F' D2 B R2 U2 F U2 F' U2) //ALL (23)
+
+(24,21,25)
+
+F' R' B' L B2 U2 F' U2 B L2 D2 F D2 F2 B R2 D2 B' D' B U2 R2 B' D U (25)
