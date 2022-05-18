@@ -8768,3 +8768,26 @@ D F2 D2 L2 D2 L2 D //3e (20)
 ^ = D' L2 D U' F2 U //(6-3) ben
 
 F' U' D' B' D' R L' U' D F2 U L' D R U B2 D F2 D2 L2 D2 L2 D (23)
+
+-------------
+
+507th
+R' U' F D2 B U2 B' L2 D2 F' U2 B D2 U' L B F2 R2 B2 L2 R U R' U' F
+F' U R U' R' L2 B2 R2 F2 B' L' U D2 B' U2 F D2 L2 B U2 B' D2 F' U R
+
+U2 R' L2 U //EO
+(F2 B2 L D2 R F) //DR (10) 5c+1
+R' U*2 R //HTR-2e (13)
+F2 ^ B2 R2 F2 R2 D2 //3e (19)
+* = w //(2-2) 4e4x
+^ = R' U2 Uw2 R //(4-0) ALL
+
+other 23s:
+
+U2 R' L2 U' //EO
+(F2 B2 L D2 R F) //DR (10) 5c+1
+F2 U2 L U2 R //HTR-2e (15)
+R U2 F2 D2 L' //HTR (19)
+D2 R2 B2 R2 //ALL (23) -> there are some other direct 23s like this off the same idea
+
+U2 R' L2 U R' D2 L B2 L' U2 D2 R B2 R2 F2 R2 D2 F' R' D2 L' F2 B2 (23)

@@ -1,0 +1,11 @@
+R' U' F D2 B U2 B' L2 D2 F' U2 B D2 U' L B F2 R2 B2 L2 R U R' U' F
+F' U R U' R' L2 B2 R2 F2 B' L' U D2 B' U2 F D2 L2 B U2 B' D2 F' U R
+
+Solve by Mauro Moisés Ortega López
+
+R' L2 U' //EO+DR-4e4c (3/3)
+R B2 L2 F U2 L2 B //DRgc (7/10)
+L' D2 F2 L' F2 R F2 ^ R //AB2E2E (8/18)
+^ = F2 D2 R2 U2 B2 L2 U2 R2//2e2e (8-3/23)
+
+Solution: R' L2 U' R B2 L2 F U2 L2 B L' D2 F2 L' F2 R D2 R2 U2 B2 L2 U2 R'
