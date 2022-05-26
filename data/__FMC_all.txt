@@ -12456,3 +12456,18 @@ D2 R2 D2 R L B2 R' L' //(8-4) into ALL (25)
 (21,25,25)
 
 F D2 F' B U' B' R2 U D2 B U' B' U R2 B2 U R2 D2 R L B2 L' U B R' (25)
+
+----------------
+
+632th
+R' U' F U' B2 U' R2 U B2 R2 D' R U' B F2 D L2 R U B' R2 U F2 R' U' F
+F' U R F2 U' R2 B U' R' L2 D' F2 B' U R' D R2 B2 U' R2 U B2 U F' U R
+
+B D R U B' //EO
+L R2 F2 U D R2 U' R //DR (12) 5c
+L2 B2 D R2 D //HTR (18)
+U2 R L U2 R' L //ALL (24) (18 ATM, xd)
+
+(25,25,24)
+
+B D R U B' L R2 F2 U D R2 U' R L2 B2 D R2 D U2 R L U2 R' L (24)
