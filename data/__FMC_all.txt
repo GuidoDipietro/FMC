@@ -12516,3 +12516,18 @@ B2 L2 B2 L2 F2 L2 D2 L2 D2 //ALL (24)
 (23,25,24)
 
 F' D F' D2 R2 D2 L2 F U B2 R2 D B2 L2 B2 L2 F2 L2 D2 L2 D2 L U2 B2 (24)
+
+-------------------
+
+636th
+R' U' F R2 D' U L2 R2 F' U' F L2 U R' D2 B' F' D2 L' F R' U' F
+F' U R F' L D2 F B D2 R U' L2 F' U F R2 L2 U' D R2 F' U R
+
+F R2 U //EO
+R' D2 F2 B R //DR (8) gc
+(D2 R2 D2 L2 U2 B2 L2 B' L2 B) //HTR (18)
+(L2 U2 R2 L2 F2) //ALL (23)
+
+(25,24,23)
+
+F R2 U R' D2 F2 B R F2 L2 R2 U2 L2 B' L2 B L2 B2 U2 L2 D2 R2 D2 (23)
