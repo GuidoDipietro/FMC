@@ -12546,3 +12546,18 @@ F' U R F' R L2 B2 U' B2 U2 L2 D L2 F2 U' F2 B U2 F U F2 R' D F' U R
 (24,23,28)
 
 R' L' U2 L2 B2 R2 B2 F2 L' U R' U R U' L F2 D R' D' U2 F U2 F' R L' U' R2 B' (28)
+
+-----------
+
+638th
+R' U' F L' R2 B' L2 F' U2 R2 D2 R2 B' L2 U2 R2 D F R' F2 D2 L2 U' R' U' F
+F' U R U L2 D2 F2 R F' D' R2 U2 L2 B R2 D2 R2 U2 F L2 B R2 L F' U R
+
+B2 R D F //EO
+U' L' D2 L' R B2 L2 R' U //DR (13) sc
+L2 F2 R' //2e2e (16)
+R2 B2 R2 U2 F2 L2 F2 U2 //ALL (23)
+
+(23,28,24)
+
+B2 R D F U' L' D2 L' R B2 L2 R' U L2 F2 R B2 R2 U2 F2 L2 F2 U2 (23)
