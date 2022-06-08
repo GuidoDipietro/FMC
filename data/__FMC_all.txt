@@ -12561,3 +12561,19 @@ R2 B2 R2 U2 F2 L2 F2 U2 //ALL (23)
 (23,28,24)
 
 B2 R D F U' L' D2 L' R B2 L2 R' U L2 F2 R B2 R2 U2 F2 L2 F2 U2 (23)
+
+----------------
+
+639th
+R' U' F D R2 U2 F L2 U2 F2 L2 U2 F2 L B2 D B' R D2 R F2 U F2 R' U' F
+F' U R F2 U' F2 R' D2 R' B D' B2 L' F2 U2 L2 F2 U2 L2 F' U2 R2 D' F' U R
+
+B R (B' L)
+(U' D' F' L2 U B') //DR (10) casi 5c
+(D B2) U L2 //223
+D' ^ F2 D2 F2 D' F2 D2 F2 D //3e (23) 👍
+^ = R L' F2 R' L D2 //(6-0) 👍
+
+(28,24,29)
+
+B R U L2 D' R L' F2 R' L D2 F2 D2 F2 D' F2 D2 F2 D B2 D' B U' L2 F D U L' B (29)
