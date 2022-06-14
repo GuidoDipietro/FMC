@@ -1,0 +1,40 @@
+(24, 25, 23) = 24.00 SAR mo3 recos :)
+
+Overall, happy with this. The solutions weren't especially good and this mean is exactly my global, but I am glad I could manage to perform well at a competition where I was very, very busy, forcing myself to work at a 75% of my capacity during this mean.
+
+I found the first two scrambles to be not too great (lack of 4 move EOs maybe, 0 for A1 and just 4 for A2), and I went with an extremely safe approach for this mean (i.e. writing down a solution as "final" on a draft sheet as soon as I found it and focusing on improving it rather than using a wilder approach that could give me better results but also had risks of DNFs or worse results) so I am satisfied with how it turned out.
+
+A2 and A3 were 45/40 minute attempts since I wanted to save brain power for the rest of the events (big bld, mega) as well as for organizing and delegating the comp.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ [A1 - 24] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+R' U' F U B' U' R2 F2 R' U2 L' D2 L2 B2 D2 R' U F2 R' B' R' B2 D R' U' F //(17)
+
+U' R' B L D //EO
+B R2 B R' F2 R' //DR (11) sc (optimal 23)
+B2 U2 B2 ^ L2 F R*2 B R2 F2 //3e (20)
+* = w //(2-2) 4e4x
+^ = F R2 Rw2 F' //(4-0) ALL
+
+U' R' B L D B R2 B R' F2 R' B2 U2 B2 F R2 L2 B' L2 B L2 B R2 F2 (24)
+Comments: Not the greatest expected insertion, but this was a solid 24. The scram had no 4 move EOs so I'm happy that I found this one early enough.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ [A2 - 25] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+R' U' F U R2 F L2 F D2 F D2 L2 F2 L' U' B R2 D L B U' B R' U' F //(16)
+
+U' L B2 R' //EO
+(L2 B U2 B' F U2 F D') //DR (12) gc (optimal 22)
+(F U2 B') //HTR-4e
+F' R2 L2 B //HTR
+U' D R2 U' D' R2 //ALL (25)
+
+U' L B2 R' F' R2 L2 B U' D R2 U' D' R2 B U2 F' D F' U2 F' B U2 B' L2 (25)
+Comments: backup solution, this was a 26 and I made it into a 25. I had 15 minutes left but decided to just hand it in since this was good enough for the situation. There was obviously better stuff around but I couldn't bother looking for it any longer. 5BLD was next :P
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ [A3 - 23 (NR)] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+R' U' F U' F D2 R2 B F2 D2 R2 F' L U B' U2 F2 U2 L2 B' R' D R' U' F //(17)
+
+F U' L' F //EO
+(U B2 U2 F2 L2 D' L') //DR (11) sc (optimal 23)
+(F2 U F2 R2 B2 D' B2 D) //2e2e (19)
+^ = R2 U' L2 F2 R2 D' L2 B2 //(8-4) ALL => 23
+
+F U' L' F D' B2 D L2 D R2 F2 L2 U F2 U' F2 L D L2 F2 U2 B2 U' (23)
+Comments: This is the only solution which is probably good and I'm happy with, although I handed in 20 minutes early since this was already PR by 1.33. I'm pretty sure there is a 20 somewhere around close.

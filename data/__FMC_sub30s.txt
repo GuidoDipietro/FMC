@@ -8981,3 +8981,44 @@ F' U R U F2 R D F L U' F' L2 U2 R2 F2 L2 F B2 L2 R' D F U2 F' U R
 (L2 D2 L2 D2 F2 D2) //ALL (23)
 
 L2 U' D2 B' U B' D2 F2 D2 L2 D2 L2 U R2 U' R2 F2 B' U L' D2 F R (23)
+
+---------------
+
+522th
+R' U' F U B' U' R2 F2 R' U2 L' D2 L2 B2 D2 R' U F2 R' B' R' B2 D R' U' F
+F' U R D' B2 R B R F2 U' R D2 B2 L2 D2 L U2 R F2 R2 U B U' F' U R
+
+U' R' B L D //EO
+B R2 B R' F2 R' //DR (11) sc (optimal 23)
+B2 U2 B2 ^ L2 F R*2 B R2 F2 //3e (20)
+* = w //(2-2) 4e4x
+^ = F R2 Rw2 F' //(4-0) ALL
+
+U' R' B L D B R2 B R' F2 R' B2 U2 B2 F R2 L2 B' L2 B L2 B R2 F2 (24)
+
+-----------------
+
+523th
+R' U' F U R2 F L2 F D2 F D2 L2 F2 L' U' B R2 D L B U' B R' U' F
+F' U R B' U B' L' D' R2 B' U L F2 L2 D2 F' D2 F' L2 F' R2 U' F' U R
+
+U' L B2 R' //EO
+(L2 B U2 B' F U2 F D') //DR (12) gc (optimal 22)
+(F U2 B') //HTR-4e
+F' R2 L2 B //HTR
+U' D R2 U' D' R2 //ALL (25)
+
+U' L B2 R' F' R2 L2 B U' D R2 U' D' R2 B U2 F' D F' U2 F' B U2 B' L2 (25)
+
+------------------
+
+524th
+R' U' F U' F D2 R2 B F2 D2 R2 F' L U B' U2 F2 U2 L2 B' R' D R' U' F
+F' U R D' R B L2 U2 F2 U2 B U' L' F R2 D2 F2 B' R2 D2 F' U F' U R
+
+F U' L' F //EO
+(U B2 U2 F2 L2 D' L') //DR (11) sc (optimal 23)
+(F2 U F2 R2 B2 D' B2 D) //2e2e (19)
+^ = R2 U' L2 F2 R2 D' L2 B2 //(8-4) ALL => 23
+
+F U' L' F D' B2 D L2 D R2 F2 L2 U F2 U' F2 L D L2 F2 U2 B2 U' (23)
