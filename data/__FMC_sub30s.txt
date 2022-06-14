@@ -9018,7 +9018,7 @@ F' U R D' R B L2 U2 F2 U2 B U' L' F R2 D2 F2 B' R2 D2 F' U F' U R
 
 F U' L' F //EO
 (U B2 U2 F2 L2 D' L') //DR (11) sc (optimal 23)
-(F2 U F2 R2 B2 D' B2 D) //2e2e (19)
+(F2 U F2 R2 ^ B2 D' B2 D) //2e2e (19)
 ^ = R2 U' L2 F2 R2 D' L2 B2 //(8-4) ALL => 23
 
 F U' L' F D' B2 D L2 D R2 F2 L2 U F2 U' F2 L D L2 F2 U2 B2 U' (23)
