@@ -1,0 +1,11 @@
+R' U' F U2 R D2 B' U B L2 B' R L D' R2 D2 F2 D' R2 B2 L2 D' B' R' U' F (optimal 18)
+
+B' (B2 R F) //EO
+(D' R B2 R2 U2 D' L' U2 L) //DR (13)
+(F2 U') //HTR (15)
+(B2 R2 U2 R2 L2) //ALL (20)
+
+B' R2 L2 U2 R2 B2 U F2 L' U2 L U2 D R2 B2 R' D F' R' B2 (20)
+
+Comment: Hummm... Second EO I tried. Found this DR without even planning on using it, just solving the cube to scramble it again in order to check another EO. I saw that everything got solved. Wrote it down. 55 minutes left. Laughed. This was CR by 2 moves. Hesitated a bit. Checked the solution over and over for a few minutes. Laughed a bit more. Said to myself "whatever" and handed in at 9 minutes. "A 20 in 9 minutes is much better than super low chances of a sub20 in an hour with extremely high chances of just wasting time here", thought the Trainee to himself, and so he left.
+Do I care if there is a findable 19 or 18? No. I don't want to murder my FMC single so quickly!
