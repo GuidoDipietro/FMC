@@ -1,0 +1,51 @@
+29, 25, 20 = (24.67) South American Champion (SAR single)
+
+##################################################
+
+R' U' F D2 B2 L' B2 U2 B' U2 F' U2 F' L2 D R2 D2 F R B' D' B R' U' F (optimal 18)
+
+(U F) D R2 B //EO
+U' F2 U' D' R2 D R //DR (12) 5c
+B2 D B2 U' B2 L2 D //HTR (19)
+R2 L2 F2 U2 F B' D2 F' B' D2 //ALL (29)
+
+D R2 B U' F2 U' D' R2 D R B2 D B2 U' B2 L2 D R2 L2 F2 U2 F B' D2 F' B' D2 F' U' (29)
+
+Comment: I only had a 30 as backup and was not willing to hand that in. At the 55 minute mark, when the delegate called "5 minutes left", I decided to do the first linear HTR solution I could find. It was this one. This is terrible, but I was super nervous towards the end of this attempt because I was very close to DNFing it, and because I knew a 30 was a terrible result and couldn't find better. The scramble wasn't especially hard, it was just not a good attempt. There is a 26 off a similar HTR (finishing with U' F2 R2 U -> F2 D2 B2 R2 F2 R2 D2) which I'm not sure if I would have found, given how nervous and stressed I was. This can also be shortened by 2 moves super easily, by inserting slices in the [F B'] part in the finish and [F'] move in the EO. But given that I was barely able to write down the solution and my last pen stroke happened with 30 seconds left, I'm just happy that I didn't DNF it and kept the sub30 streak going.
+
+##################################################
+
+R' U' F L B R' U' L F' R L' D' F' U2 B R2 F R2 L2 F2 D2 F' R' U' F (optimal 17)
+
+F (U2 D' B) //EO
+U L U R2 L2 D' R2 D R' //DR (13) 5c
+(R2 D' R2 D) //HTR (17)
+F2 R2 D2 F2 U2 F2 L2 F2 //ALL (25)
+
+F U L U R2 L2 D' R2 D R' F2 R2 D2 F2 U2 F2 L2 F2 D' R2 D R2 B' U2 D (25)
+
+Comment: After seeing that a 29 had placed me first (???), I was very confident and calm for the remaining 2 attempts. I had also got first place in 5BLD a moment ago so I was just happy in general. I decided to hand in the first "decent" solution (<=25) that I could find since A2 and A3 were back to back and I wanted to rest a bit in between them, and it was this one at the 30 minute mark.
+The scramble sucked a bit, so I don't know if I could have found something much better. Probably yes. Probably not. I don't really care to be honest, this was enough.
+
+##################################################
+
+R' U' F U2 R D2 B' U B L2 B' R L D' R2 D2 F2 D' R2 B2 L2 D' B' R' U' F (optimal 18)
+
+B' (B2 R F) //EO
+(D' R B2 R2 U2 D' L' U2 L) //DR (13)
+(F2 U') //HTR (15)
+(B2 R2 U2 R2 L2) //ALL (20)
+
+B' R2 L2 U2 R2 B2 U F2 L' U2 L U2 D R2 B2 R' D F' R' B2 (20)
+
+Comment: Hummm... Second EO I tried. Found this DR without even planning on using it, just solving the cube to scramble it again in order to check another EO. I saw that everything got solved. Wrote it down. 55 minutes left. Laughed. This was CR by 2 moves. Hesitated a bit. Checked the solution over and over for a few minutes. Laughed a bit more. Said to myself "whatever" and handed in at 9 minutes. "A 20 in 9 minutes is much better than super low chances of a sub20 in an hour with extremely high chances of just wasting time here", thought the Trainee to himself, and so he left.
+Do I care if there is a findable 19 or 18? No. I don't want to murder my FMC single so quickly!
+
+##################################################
+
+Overall comment: Super hard to give an overall comment about such a weird mean. It truly sucks having such a bad result as the first attempt, since it was not a hard scramble and I had no reason to be nervous or stressed, so that is something to improve on my side. On the other hand, it is truly amazing to have an official 20 even though the solution was impressively stupid! The feeling of getting a 20 in such a short time was extremely fun and I love having that as the CR if I'm honest. With that I also became the only FMC CR holder in South America, which is super cool because we were 5 different persons with FMC SAR just 1 month ago.
+The 24.67 is not a super good result since it is above my global average, but it's still great to have another sub25 official mean (even if it involved an epic fail and a stupid skipped solution together). It is also great to become South American champion with that result because the best non-me single in that entire competition was a 26! So it feels good to have won by such a big margin. (Learn DR, South America!)
+I would have liked to tie my 24.00 SAR mo3, or beat it by 1 move or something, both super possible if I had not gone dumb on A1, but I'm also okay with keeping it as it is since I don't want to PR by too much (I like PRing in FMC :( and it's getting harder).
+
+All in all, happy with all that + doing it while delegating the comp, however I feel like I gave like a 60% of what I'm capable of.
+It was enough, still, and a gold is a gold :)

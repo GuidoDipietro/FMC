@@ -1,0 +1,9 @@
+R' U' F U' F D2 R2 B F2 D2 R2 F' L U B' U2 F2 U2 L2 B' R' D R' U' F //(17)
+
+F U' L' F //EO
+(U B2 U2 F2 L2 D' L') //DR (11) sc (optimal 23)
+(F2 U F2 R2 ^ B2 D' B2 D) //2e2e (19)
+^ = R2 U' L2 F2 R2 D' L2 B2 //(8-4) ALL => 23
+
+F U' L' F D' B2 D L2 D R2 F2 L2 U F2 U' F2 L D L2 F2 U2 B2 U' (23)
+Comments: This is the only solution which is probably good and I'm happy with, although I handed in 20 minutes early since this was already PR by 1.33. I'm pretty sure there is a 20 somewhere around close.
