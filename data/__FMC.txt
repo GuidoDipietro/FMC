@@ -8982,3 +8982,17 @@ B' (B2 R F) //EO
 (B2 R2 U2 R2 L2) //ALL (20)
 
 B' R2 L2 U2 R2 B2 U F2 L' U2 L U2 D R2 B2 R' D F' R' B2 (20)
+
+---
+
+R' U' F D B' U L2 D' B2 U' L2 B2 U2 B2 R2 U' F2 R' U L' R2 F' D2 L R' U' F
+F' U R L' D2 F R2 L U' R F2 U R2 B2 U2 B2 L2 U B2 D L2 U' B D' F' U R
+
+U' B R D' F //EO
+B2 L' U2 B2 L2 R' U //DR (12)
+[* R L' U2 L' //HTR (16)
+B2 L2 z2] //4e4x (18)
+* = D2 R F2 Fw2 R' D2 //(6-0) ALL (24)
+[] = D2 L U2 D2 L' F2 D2 L' D2 R L //(-1) ALL (23)
+
+U' B R D' F B2 L' U2 B2 L2 R' U D2 L U2 D2 L' F2 D2 L' D2 R L (23)
