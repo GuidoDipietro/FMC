@@ -9117,3 +9117,46 @@ B2 L2 z2] //4e4x (18)
 [] = D2 L U2 D2 L' F2 D2 L' D2 R L //(-1) ALL (23)
 
 U' B R D' F B2 L' U2 B2 L2 R' U D2 L U2 D2 L' F2 D2 L' D2 R L (23)
+
+----------------
+
+532th
+R' U' F L2 U2 L2 U2 R2 B2 F U2 B' L' R' D R' U' R U2 L' B2 F R' U' F
+F' U R F' B2 L U2 R' U R D' R L B U2 F' B2 R2 U2 L2 U2 L2 F' U R
+
+R L' U2 F2 D //EO
+F U2 B R //DR (9)
+^ B L2 //literally random pairs
+(B' U2) //setup to 5c case
+(R2 F2 R2) //123 instead
+(F D2 F D2) //break it and 2e2e (20)
+^ = R2 U2 R2 B2 U2 R2 U2 B2 //(8-2) ALL (26)
+
+R L' U2 F2 D F U2 B R' U2 R2 B2 U2 R2 U2 B' L2 D2 F' D2 F' R2 F2 R2 U2 B (26)
+
+------------------
+
+533th
+R' U' F L2 U' F' U2 B2 D' F2 U' F2 D2 B2 L2 R' B' D U' R2 B D U' R' U' F
+F' U R U D' B' R2 U D' B R L2 B2 D2 F2 U F2 D B2 U2 F U L2 F' U R
+
+(D) U2 F U' //EO
+R2 F2 U2 L R B L' B' //R2 + DR (12)
+L B2 D2 R2 B2 R' U2 R' //HTR (20)
+B2 U2 B2 D2 R2 //ALL (25) (optimal)
+
+U2 F U' R2 F2 U2 L R B L' B' L B2 D2 R2 B2 R' U2 R' B2 U2 B2 D2 R2 D' (25)
+
+-----------------------
+
+534th
+R' U' F R' D2 R D2 L' B2 R2 D' L' B U D2 B' D2 R2 B R2 D2 R2 U2 R' U' F
+F' U R U2 R2 D2 R2 B' R2 D2 B D2 U' B' L D R2 B2 L D2 R' D2 R F' U R
+
+(L F R' B) //EO
+(D2 L) B2 D2 R2 D R2 B2 U' D' % R //DR (15) xd
+D L2 D2 U F2 R2 ^ U2 //french fries (4e2e) (22)
+^ = R2 F2 R2 B2 L2 B2 //(6-4) 2e2e (24)
+% = U2 R L' B2 R' L //(6-3) ALL (27) (optimal finish gives 28)
+
+B2 D2 R2 D R2 B2 U D' R L' B2 L D L2 D2 U R2 B2 L2 B2 U2 L' D2 B' R F' L' (27)

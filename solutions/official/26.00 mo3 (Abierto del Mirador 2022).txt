@@ -1,0 +1,65 @@
+(26, 25, 27) = 26.00 mo3 with optimals (18, 17, 19) = 18.00 (worse than average)
+
+Super bad mean, my worst one this year so far.
+Still, 7th best ever mo3 in South America and only 2 moves away from the best non-me South American result.
+Kinda funny to get those stats with literally 3 bad solves.
+Scrambles were a bit hard though, so a 26.00 mean is still kinda solid for that matter.
+
+######################################## A1 - 26 ########################################
+
+R' U' F L2 U2 L2 U2 R2 B2 F U2 B' L' R' D R' U' R U2 L' B2 F R' U' F (18)
+
+R L' U2 F2 D //EO
+F U2 B R //DR (9)
+^ B L2 //literally random pairs
+(B' U2) //setup to 5c case
+(R2 F2 R2) //123 instead
+(F D2 F D2) //break it and 2e2e (20)
+^ = R2 U2 R2 B2 U2 R2 U2 B2 //(8-2) ALL (26)
+
+Had this super short DR (and many other variations) but couldn't find anything good off it. I just submitted this random finish I had as backup.
+Optimal insertions give 25 (8-8 + 8-3).
+Optimal finish is 13 (6 ways) for 22.
+
+R L' U2 F2 D F U2 B R' U2 R2 B2 U2 R2 U2 B' L2 D2 F' D2 F' R2 F2 R2 U2 B (26)
+
+######################################## A2 - 25 ########################################
+
+R' U' F L2 U' F' U2 B2 D' F2 U' F2 D2 B2 L2 R' B' D U' R2 B D U' R' U' F (17)
+
+(D) U2 F U' //EO
+R2 F2 U2 L R B L' B' //R2 + DR (12)
+L B2 D2 R2 B2 R' U2 R' //HTR (20)
+B2 U2 B2 D2 R2 //ALL (25) (optimal)
+
+Also had 3 different ways to get to 25 from this DR:
+(L' D' F2 R) //EO
+U F2 L2 U D2 F2 U' F' //DR (12)
+
+Namely:
+- L2 D' {D' L2 F2 U R2 U' F2 L2 D B2} R2 D' //2c2c (16) + 10-1
+- R2 L2 D2 F2 U L2 U' + F2 U2 F2 L2 F2 U2 //HTR + ALL
+- (B2 F2 R2 U' R2 U) + B2 R2 U2 L2 D2 B2 D2 //HTR + ALL
+Couldn't find less.
+Submitted the first one, which was backup at like 10 minutes.
+
+Salty about having FOUR different 25s and nothing shorter, having found the first one so early on. Kinda disappointing.
+
+U2 F U' R2 F2 U2 L R B L' B' L B2 D2 R2 B2 R' U2 R' B2 U2 B2 D2 R2 D' (25)
+
+######################################## A3 - 27 ########################################
+
+R' U' F R' D2 R D2 L' B2 R2 D' L' B U D2 B' D2 R2 B R2 D2 R2 U2 R' U' F (19)
+
+(L F R' B) //EO
+(D2 L) B2 D2 R2 D R2 B2 U' D' % R //DR (15) xd
+D L2 D2 U F2 R2 ^ U2 //french fries (4e2e) (22)
+^ = R2 F2 R2 B2 L2 B2 //(6-4) 2e2e (24)
+% = U2 R L' B2 R' L //(6-3) ALL (27) (optimal finish gives 28)
+
+Totally random panic solution with not a lot of time left (7 mins?) that had some lucky cancels, enough for a result that is not 100% shameful.
+If it weren't for this, I'd only have a DNF (or a sprintFMC ~35 to hand in).
+At this point the mo3 was totally lost, so this was good enough to keep the sub30 streak going. Only solution I'm somewhat happy of and that's the only reason for it.
+19 optimal is tough!
+
+B2 D2 R2 D R2 B2 U D' R L' B2 L D L2 D2 U R2 B2 L2 B2 U2 L' D2 B' R F' L' (27)
