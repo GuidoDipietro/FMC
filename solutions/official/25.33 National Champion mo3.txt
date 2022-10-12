@@ -1,0 +1,39 @@
+(23, 27, 26) = 25.33 mo3, Argentinian Champion
+Overall comment: A very bad mean, but actually excellent given, once again, the conditions I did it under, and the time and effort I devoted for every scramble.
+Happy to be South American and National Champion now, as well as double SAR holder :)
+
+---
+
+R' U' F L' B2 U' B2 D F2 U' B2 L2 B2 R' F' D2 B D L' F' L2 B' R' U' F
+
+(F R B' U L) //EO
+(B R2 B2 R2 U R2 U) //DR (12)
+B2 D2 F' R2 B2 L2 B2 L2 B D2 F' //ALL (23)
+
+Comment: First thing I found, only DR I checked. Handed in at 10-15 minutes to save up brain power for the rest of the long day. Happy with this since the scramble sucked.
+
+---
+
+R' U' F D2 U2 L2 D2 U2 F R2 B' U2 F' U L' B U F L R F D' F' R' U' F
+
+U' D R' F B //EO
+U2 B2 U' R2 U R //DR (11)
+D B2 U2 F2 D' F2 D //HTR (18)
+L2 F2 R2 F B' U2 F B U2 //ALL (27)
+
+Comment: Any finish off the first DR I found. Took about 30 minutes or a bit less. Again, saving brain for MBLD. Don't care about the result, a sub30 is enough for the streak.
+
+---
+
+R' U' F L' B D2 L F2 R' B U' F B2 U2 D2 B' D2 F' L2 F2 D2 U' F R' U' F
+
+(D' B' L' R2 U) //EO
+R F2 L2 F U2 F' R //DR (12)
+(F) D2 R2 F2 R2 B' R2 B' //HTR (20)
+R2 F2 L2 D2 L2 U2 //ALL (26)
+
+Comment: Only attempt I used the entire hour for. Not a good result.
+
+---
+
+Recap: Feels super weird to be able to get this mean which would still be non-Guido SAR, with minimal effort. I got a bit lucky on A1, otherwise this would have been a +26 mo3. For scramble 2 I just wanted to get freed up rapidly, since I had a 28 cube multi incoming. For scramble 3, I just did badly I guess.

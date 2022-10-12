@@ -12797,3 +12797,47 @@ D L2 D2 U F2 R2 ^ U2 //french fries (4e2e) (22)
 (26,25,27)
 
 B2 D2 R2 D R2 B2 U D' R L' B2 L D L2 D2 U R2 B2 L2 B2 U2 L' D2 B' R F' L' (27)
+
+--------------------
+
+654th (official)
+R' U' F L' B2 U' B2 D F2 U' B2 L2 B2 R' F' D2 B D L' F' L2 B' R' U' F
+F' U R B L2 F L D' B' D2 F R B2 L2 B2 U F2 D' B2 U B2 L F' U R
+
+(F R B' U L) //EO
+(B R2 B2 R2 U R2 U) //DR (12)
+B2 D2 F' R2 B2 L2 B2 L2 B D2 F' //ALL (23)
+
+(25,27,23)
+
+B2 D2 F' R2 B2 L2 B2 L2 B D2 F' U' R2 U' R2 B2 R2 B' L' U' B R' F' (23)
+
+--------------------
+
+655th (official)
+R' U' F D2 U2 L2 D2 U2 F R2 B' U2 F' U L' B U F L R F D' F' R' U' F
+F' U R F D F' R' L' F' U' B' L U' F U2 B R2 F' U2 D2 L2 U2 D2 F' U R
+
+U' D R' F B //EO
+U2 B2 U' R2 U R //DR (11)
+D B2 U2 F2 D' F2 D //HTR (18)
+L2 F2 R2 F B' U2 F B U2 //ALL (27)
+
+(27,23,27)
+
+U' D R' F B U2 B2 U' R2 U R D B2 U2 F2 D' F2 D L2 F2 R2 F B' U2 F B U2 (27)
+
+--------------------
+
+656th (official)
+R' U' F L' B D2 L F2 R' B U' F B2 U2 D2 B' D2 F' L2 F2 D2 U' F R' U' F
+F' U R F' U D2 F2 L2 F D2 B D2 U2 B2 F' U B' R F2 L' D2 B' L F' U R
+
+(D B' L' R2 U) //EO
+R F2 L2 F U2 F' R //DR (12)
+(F) D2 R2 F2 R2 B' R2 B' //HTR (20)
+R2 F2 L2 D2 L2 U2 //ALL (26)
+
+(23,27,26)
+
+R F2 L2 F U2 F' R D2 R2 F2 R2 B' R2 B' R2 F2 L2 D2 L2 U2 F' U' R2 L B D' (26)
