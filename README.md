@@ -1,22 +1,31 @@
 #### _Repository featured on the <a href="https://archiveprogram.github.com/">Github Archive Project!</a>_
 
-### Everything I have about FMC.  
+### Everything I have about FMC.
+
 - All my solutions
 - Some 'theory' that I found useful at some moment
 - Data visualization programs in Python
 - And whatnot.
 
+# So what the hell is FMC?
+
+FMC stands for "Fewest Moves Challenge" and is an official event recognized by the [World Cube Association](https://www.worldcubeassociation.org/), which involves solving a given scramble for a Rubik's Cube in the fewest moves as possible, with a one hour limit. Competitors shall hand in a written solution after the hour (just like an exam!)
+
+[I've](https://www.worldcubeassociation.org/persons/2013DIPI01) held the title for the Argentinian National Champion, the South American Champion, and held the South American Records for this event several times, being one of the world's top20 best at this event.
+
 ---
 
-# So what's in here?
+# What's in here?
 
 ## `scripts` folder
+
 Some programs in Python that compute stats and stuff.
+
 - **histoplotter.py**  
   Plots a histogram of all solutions + last by breakpoints.  
   Example usage:  
-  ```python histoplotter 25,50,75```  -> as many as you'd like  
-  or ```python histoplotter``` for default breakpoints (50,100,200).  
+  `python histoplotter 25,50,75` -> as many as you'd like  
+  or `python histoplotter` for default breakpoints (50,100,200).  
   Also displays some other brief stats.
   <br><br><img src="misc/program_caps/histoplotter.PNG" width=650><br><br>
 - **mo3s.py**  
@@ -41,24 +50,29 @@ Some programs in Python that compute stats and stuff.
   <br><br><img src="misc/program_caps/odd-even-sequential.PNG" width=650><br><br>
 - **moreplots.py**  
   Ugly scatter plot with best-fit regression line, my first attempt at visualizing data here.
-  
+
 ## `data`
+
 Text files with solutions and results used for computing stats, my own and foreign. Worth noting:
-- **__FMC_all.txt**  
+
+- **\_\_FMC_all.txt**  
   All my FMC solutions. Period.
-- **__FMC.txt**  
+- **\_\_FMC.txt**  
   All my FMC solutions, skipping the first 100 for more normalized reconstructions.
-- **__FMC_num.txt**  
+- **\_\_FMC_num.txt**  
   All my FMC results, numerical result only.
-- **__FMC_sub30s.txt**  
+- **\_\_FMC_sub30s.txt**  
   All my FMC solutions that are under 30 moves. Created when these were rare, only kept as a tradition now.
-  
+
 ## `solutions`
+
 Some solutions I found especially nice (PBs / interesting solutions), both mine and foreign.
 Also reconstructions of all my official FMC attempts (except World's 46).
 
 ## `theory`
+
 Things I noticed or found worth pointing out. Some are algorithms, some are ways to solve certain cases, etc.
 
 ## `misc`
+
 Random pictures, screencaps, or other documents.
