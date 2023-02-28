@@ -9122,3 +9122,15 @@ L2 U2 R2 U2 F' B U2 F' B' //ALL (27)
 
 R2 F2 R2 B2 D' L2 U2 R2 U2 F' B U2 F' B' D' L' U L' D2 L2 D2 R2 L' B' D R L2 (27)
 
+---
+
+R' U' F D' B D2 B2 R U2 L' F2 R F2 R' B2 D2 B' D F' L' D2 L' D2 R' U' F
+F' U R D2 L D2 L F D' B D2 B2 R F2 R' F2 L U2 R' B2 D2 B' D F' U R
+
+U F B //EO
+L' (D2 L2 U' D R2 D' R') //DR (11) 1q
+D (U' B2 R2 B2 U') //HTR (17)
+(F2 D2 L2 F2 U2) //ALL (22)
+
+U F B L' D U2 F2 L2 D2 F2 U B2 R2 B2 U R D R2 U D' L2 D2 (22)
+
