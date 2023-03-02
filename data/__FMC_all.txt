@@ -12919,3 +12919,18 @@ D (U' B2 R2 B2 U') //HTR (17)
 
 U F B L' D U2 F2 L2 D2 F2 U B2 R2 B2 U R D R2 U D' L2 D2 (22)
 
+----------------------------------
+
+662th
+R' U' F D' R' F2 R F D2 L' B L U' F2 B2 U' B2 U2 B2 U' B2 D2 L2 F2 R' U' F
+F' U R F2 L2 D2 B2 U B2 U2 B2 U B2 F2 U L' B' L D2 F' R' F2 R D F' U R
+
+(F D) //EO
+R' B' L2 D2 F' B' D2 F B2 L' //DR (12) 4q
+* F R2 B U2 F2 D2 B' D2 B' //4e4x (21)
+* = R2 B U2 Uw2 B' R2 //ALL (27)
+
+(27,22,27)
+
+R' B' L2 D2 F' B' D2 F B2 L' R2 B U2 Uw2 B' R2 F R2 B U2 F2 D2 B' D2 B' y2 D' F' (27)
+
