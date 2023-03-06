@@ -12977,3 +12977,19 @@ F2 U2 F2 B2 R2 F2 //ALL (26)
 (21,25,26)
 
 U' B' R D F L U F2 U2 R2 B2 D L2 D' F2 U2 F2 B2 R2 F2 L' D L U' R2 D (26)
+
+-----------------------
+
+666th
+F' U R U2 F R' B' D2 B2 L B' U' R B2 L2 F2 D2 B' L2 D2 F' U2 D2 F' U R
+R' U' F U2 D2 F D2 L2 B D2 F2 L2 B2 R' U B L' B2 D2 B R F' U2 R' U' F
+
+B' (L2 B') //EO
+(R') D' L2 D' B2 R //DR (9) 3q
+(F2 D F2 $ R2 B2 L2 D L2 D) //HTR (20)
+(F2 D2) //3e
+$ = F2 D2 B2 L2 B2 D2 F2 R2 //(8-5)
+
+(25,26,23)
+
+B' D' L2 D' B2 R D2 F2 D' L2 D' L2 B2 F2 D2 B2 L2 B2 D F2 R B L2 (23)
