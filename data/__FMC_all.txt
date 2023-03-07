@@ -12993,3 +12993,18 @@ $ = F2 D2 B2 L2 B2 D2 F2 R2 //(8-5)
 (25,26,23)
 
 B' D' L2 D' B2 R D2 F2 D' L2 D' L2 B2 F2 D2 B2 L2 B2 D F2 R B L2 (23)
+
+------------------
+
+667th
+R' U' F D2 F' R2 F U2 B2 L2 R2 F' D2 B L2 D' L' B2 R' F2 U' L F D R' U' F
+F' U R D' F' L' U F2 R B2 L D L2 B' D2 F R2 L2 B2 U2 F' R2 F D2 F' U R
+
+(D2 F' R') //EO
+(U F U' B2 U B2 U2 D B') //DR (12) 3q
+F2 D B2 R2 B2 $ L2 U' R2 D F2 //2e2e (22)
+$ = B2 D2 L2 U2 F2 R2 U2 L2 //(8-5) ALL (25)
+
+(26,23,25)
+
+F2 D B2 R2 D2 L2 U2 F2 R2 U R2 D F2 B D' U2 B2 U' B2 U F' U' R F D2 (25)
