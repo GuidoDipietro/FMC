@@ -9232,3 +9232,17 @@ D*2 R2 B2 R2 L2 B2 //ALL (22)
 
 U L2 U L2 F2 R2 L2 F2 D' L2 D2 L' D B2 D' R U' F' U B D' (21)
 
+---
+
+R' U' F R L2 B D F2 D2 L' D2 B U' D2 L2 F' L2 F D2 L2 B R2 D2 B' R' U' F
+F' U R B D2 R2 B' L2 D2 F' L2 F L2 D2 U B' D2 L D2 F2 D' B' L2 R' F' U R
+
+(R' U D2 B') //EO
+(U2 L' D R D' L') //DR (10) 2q
+F2 B2 R2 U*' F2 U' //HTR (16)
+D2 L2 F2 U*2 D2 $ //3e (21)
+w = //(-1) 3e (20)
+$ = B2 R' L U2 R L' //(6-5) ALL (21)
+
+F2 B2 R2 U D2 B2 U' D2 R L U2 R D R' D' L U2 B D2 U' R (21)
+
