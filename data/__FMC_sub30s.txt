@@ -9387,3 +9387,17 @@ $ = B2 R' L U2 R L' //(6-5) ALL (21)
 
 F2 B2 R2 U D2 B2 U' D2 R L U2 R D R' D' L U2 B D2 U' R (21)
 
+-----------------------
+
+552th
+R' U' F B2 R' D2 B' D' L2 D' R2 U L' U2 B2 L' B2 U2 F2 L2 R' U' F
+F' U R L2 F2 U2 B2 L B2 U2 L U' R2 D L2 D B D2 R B2 F' U R
+
+(F L U2 R' B') //EO
+F2 L F2 R' U' R U' //DR (12) 0q
+(F2 R2 U2 R U2 D2 L) //HTR (19)
+(U' D' L2 B2 U' D) //ALL (23)
+
+F2 L F2 R' U' R D' B2 L2 U D L' U2 D2 R' U2 R2 F2 B R U2 L' F' (23)
+
+
