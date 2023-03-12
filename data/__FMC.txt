@@ -9258,3 +9258,15 @@ F2 L F2 R' U' R U' //DR (12) 0q
 
 F2 L F2 R' U' R D' B2 L2 U D L' U2 D2 R' U2 R2 F2 B R U2 L' F' (23)
 
+---
+
+R' U' F U' L B2 D2 B' D2 L2 U2 R2 F' R2 F U' F' L' B D2 B' R D R' U' F
+F' U R D' R' B D2 B' L F U F' R2 F R2 U2 L2 D2 B D2 B2 L' U F' U R
+
+(F R U R2 D) //EO
+(R' U2 B2 L' B) //DR (10) 3q
+(L' D2) U2 $ R' F2 L R2 B2 L2 B2 //3e (20)
+$ = U2 F' B L2 F B' //(6-2) ALL (24)
+
+F' B L2 F B' R' F2 L R2 B2 L2 B2 D2 L B' L B2 U2 R D' R2 U' R' F' (24)
+
