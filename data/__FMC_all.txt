@@ -13118,3 +13118,19 @@ B2 D F2 L2 B2 U F2 R2 //ALL (26)
 (24,25,26)
 
 F R' L' B' L B2 D R2 U' F2 U B2 U L2 F2 D F2 L2 B2 U F2 R' U' R U' F2 (26)
+
+------------------
+
+675th
+R' U' F L R' F2 L' D2 R2 D2 U' L B' R' F2 D2 R' B' L' R F' R' U' F
+F' U R F R' L B R D2 F2 R B L' U D2 R2 D2 L F2 R L' F' U R
+
+F2 B U' L' //EO
+(F2 B' D B' D') //DR (9) 3q
+(B2 U2 B' D2 B' R2 B2 R2 D2 B') //HTR playing around with the corner solution a bit
+(L2 U2 L2 F2) //abysmal luck
+
+(25,26,23)
+
+F2 B U' L' F2 L2 U2 L2 B D2 R2 B2 R2 B D2 B U2 B2 D B D' B F2 (23)
+
