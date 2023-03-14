@@ -9427,3 +9427,16 @@ R2 U2 R2 D2 R2 //ALL (25)
 
 F2 U2 D2 B L2 B' U F L2 F R2 F2 R2 D2 B R2 U2 R2 D2 R2 B L' F D' B2 (25)
 
+-------------------
+
+555th
+R' U' F D' R2 B2 R2 U' L2 D' B L2 R U2 B2 U L' R2 D' B' U' F' R' U' F
+F' U R F U B D R2 L U' B2 U2 R' L2 B' D L2 U R2 B2 R2 D F' U R
+
+F R' L' B' //EO
+L (F2 U R' U R') //DR (10) 4q
+B2 D R2 U' F2 U B2 U L2 F2 B2 //2e2e (21)
+B2 D F2 L2 B2 U F2 R2 //ALL (26)
+
+F R' L' B' L B2 D R2 U' F2 U B2 U L2 F2 D F2 L2 B2 U F2 R' U' R U' F2 (26)
+
