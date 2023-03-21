@@ -13153,3 +13153,17 @@ D' (R2 D) B2 L2 U R2 U F2 B2 D2 F2 U2 R2 B2 //ALL (24)
 (26,23,24)
 
 U2 L' F U L U' L' D' L' D' B2 L2 U R2 U F2 B2 D2 F2 U2 R2 B2 D' R2 (24)
+
+--------------
+
+677th
+R' U' F U2 F2 R B U' D2 B' L R2 F2 B' D2 L2 U2 R F2 U2 R' F2 R' B2 U2 R' U' F
+F' U R U2 B2 R F2 R U2 F2 R' U2 L2 D2 B F2 R2 L' B D2 U B' R' F2 U2 F' U R
+
+R F U2 R //EO
+B' U' B2 U' D B2 U F //DR (12) 2q
+R2 D' R2 D2 L2 B2 U D' F2 U //ALL (22)
+
+(23,24,22)
+
+R F U2 R B' U' B2 U' D B2 U F R2 D' R2 D2 L2 B2 U D' F2 U (22)
