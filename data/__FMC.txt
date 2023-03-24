@@ -9335,3 +9335,16 @@ R2 D' R2 D2 L2 B2 U D' F2 U //ALL (22)
 
 R F U2 R B' U' B2 U' D B2 U F R2 D' R2 D2 L2 B2 U D' F2 U (22)
 
+---
+
+R' U' F U' L B' D2 R' U R U2 B2 U' F2 U B2 U2 F2 R2 B2 U' F2 R' U' F
+F' U R F2 U B2 R2 F2 U2 B2 U' F2 U B2 U2 R' U' R D2 B L' U F' U R
+
+(D R U L') //EO
+U B D R2 D' F' //DR (10) 4q
+(D R2 D') D F2 D' U' B2 R2 B2 R2 U' B2 U2 B2 U2 //direct 26
+slice to 24:
+D F2 D2 R2 F2 R2 F2 U' R2 D2 L2 D' F2 U'
+
+U B D R2 D' F' D F2 D2 R2 F2 R2 F2 U' R2 D2 L2 D' F2 U' L U' R' D' (24)
+
