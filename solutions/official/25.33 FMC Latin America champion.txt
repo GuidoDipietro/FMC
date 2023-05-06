@@ -1,0 +1,22 @@
+24, 28, 24 = 25.33
+
+1) R' U' F D2 B' U R2 F2 L2 R B2 L F2 U2 L U' B' U' L' F U' B2 R' U' F
+
+R' U' B' U'
+F U2 B L B' //DR (9)
+(L) L2 B2 R' B2 U2 L //HTR (16)
+R2 D2 F2 D2 B2 U2 R2 U2 //ALL (24)
+
+2) R' U' F D R' U L F U' L' B' D2 L2 B2 U2 D F2 D L2 U R' B2 R' U' F
+
+R D B
+L D F2 B2 R D //DR (9)
+(L2 D2 R) R' U2 L2 D2 B2 L //HTR (18)
+U2 B2 R2 F2 L2 U2 F2 U2 F2 U2 //ALL (10)
+
+3) R' U' F U2 L2 B' L' D2 F2 D F U2 B2 R2 D2 L B2 D2 L' D2 R' B' U R' U' F
+
+F2 R2 L2 U B
+R D' F2 U2 D R' //DR (11)
+F2 B2 D' R2 L2 D' F2 D' //HTR
+R2 U2 F2 L2 U2 //ALL (24)
