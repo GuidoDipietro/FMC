@@ -1,0 +1,12 @@
+R' U' F D F2 B' D2 L U R' U D2 R2 F2 B L2 B' L2 R2 B' D2 L2 D2 R' U' F
+F' U R D2 L2 D2 B R2 L2 B L2 B' F2 R2 D2 U' R U' L' D2 B F2 D' F' U R
+
+D (U2 R F2 R U) //cursed EO
+(F' @ R' F2 ^ R L U2 R' F') //cursed DR (14)
+(R2 U2 L B2) //3e (18)
+
+^ = R2 Rw2 //(2-2) cursed 4e4x
+@ = F' U2 F' R2 Rw2 F U2 F //(8-1) cursed 25
+
+D B2 L' U2 R2 F R U2 R L B2 R B' D2 B' R2 L2 F U2 F2 U' R' F2 R' U2 (25)
+
