@@ -9483,3 +9483,15 @@ U' F2 U L2 U2 B //DR (11-2)
 
 F' R U' F2 U L2 U2 B L2 D2 R2 U2 F2 U' F2 R2 F2 U' R2 U' R2 U L2 D2 L F2 U' (27)
 
+---
+
+R' U' F L' D' L R2 D' L' R' B' U' D2 B2 U R2 U' F2 R2 U F2 L2 F2 D2 R' U' F
+F' U R D2 F2 L2 F2 U' R2 F2 U R2 U' B2 D2 U B R L D R2 L' D L F' U R
+
+(B') B D' R2 B //EO
+D L U R2 U L' B2 L' //DR (13-3)
+D' L2 U F2 U //HTR (18)
+R2 F2 U2 L2 F2 D2 R2 D2 R2 D2 //ALL (28)
+
+B D' R2 B D L U R2 U L' B2 L' D' L2 U F2 U R2 F2 U2 L2 F2 D2 R2 D2 R2 D2 B (28)
+
