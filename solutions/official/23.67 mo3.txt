@@ -1,0 +1,46 @@
+(22, 25, 24) = 23.67
+Optimals 18, 17, 18
+
+Sub former SAR but got 22.00 the day before
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+R' U' F U2 L F U' R D B' R D L2 D2 R2 F2 D' B2 D B2 D2 L F2 R' U' F
+
+(U' D' L) //EO
+D' F B D2 B2 U F U //DR (11-2)
+R2 F' U2 F //HTR (15)
+D2 F2 R2 U2 R2 D2 B2 //ALL (22)
+
+D' F B D2 B2 U F U R2 F' U2 F D2 F2 R2 U2 R2 D2 B2 L' U D (22)
+
+---
+
+R' U' F L' F2 R F R F' B' U2 R2 D' L R2 F2 D F2 L2 F2 U2 R2 D2 R' U' F
+
+(D B' D') //EO
+F2 L B' U2 F2 B2 R' U2 R //DR (12)
+[B (R2 B2 D2 L2 U2 B ^) //HTR (19)
+(L2 U2 R2 U2)] //slice (23)
+
+^ = F' B D2 F B' L2 //(6-3) ALL
+
+[B U2 R2 U2 F' B D2 F B*2 U2 L2 D2 B*2 R2]
+* = w //(-1) ALL (25)
+
+F2 L B' U2 F2 B2 R' U2 R B U2 R2 U2 F' B D2 F' D2 R2 U2 F2 R2 D B D' (25)
+
+---
+
+R' U' F U' R B2 L' U2 L' D2 U2 L2 B2 U2 F U B' R' F L2 R' D' F R' U' F
+
+D' B U' D R' //EO
+F (R2 D' R2 F) //DR (10-2)
+(D2 F2 U) U2 R2 B2 D //HTR (17)
+F2 ^ D2 R2 //2e2e (20)
+
+^ = F2 L2 F2 L2 F2 L2 //(6-2) ALL (24)
+
+D' B U' D R' F U2 R2 B2 D L2 F2 L2 F2 L2 D2 R2 U' F2 D2 F' R2 D R2 (24)
+
+---------------------------------------------------------------------------------------------------------------------------------

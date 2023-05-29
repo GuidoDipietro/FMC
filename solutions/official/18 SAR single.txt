@@ -1,0 +1,10 @@
+R' U' F L F D2 F' U D B' L' D2 B' R D2 R D2 L2 U2 B2 L D2 B2 R' U' F
+
+R F' D L //EO
+R2 B' L2 B' //DR (8-1)
+[U R2 U R2 B2 L2 D //HTR (15)
+U L2 D2 F2 U' D] //ALL (20)
+
+[] = D B2 D L2 F2 R2 D B2 U2 R2 //(-2) ALL (18)
+
+R F' D L R2 B' L2 B' D B2 D L2 F2 R2 D B2 U2 R2 (18)
