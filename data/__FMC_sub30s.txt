@@ -9758,3 +9758,141 @@ F2 ^ D2 R2 //2e2e (20)
 ^ = F2 L2 F2 L2 F2 L2 //(6-2) ALL (24)
 
 D' B U' D R' F U2 R2 B2 D L2 F2 L2 F2 L2 D2 R2 U' F2 D2 F' R2 D R2 (24)
+
+----------------------------------------
+
+579th
+R' U' F D2 B U B2 F2 R' U2 D2 F U L' D2 R B L R' F B' U R2 L D R D2 R' U' F
+F' U R D2 R' D' L' R2 U' B F' R L' B' R' D2 L U' F' D2 U2 R F2 B2 U' B' D2 F' U R
+
+(L U2 R F B') //EO
+(U2 L U R F2 L) //DR (11-2)
+(D B2 U2 F2 R2 U) //HTR
+(B2 R2 B2 D2 L2 U2 L2) //ALL (24)
+
+L2 U2 L2 D2 B2 R2 B2 U' R2 F2 U2 B2 D' L' F2 R' U' L' U2 B F' R' U2 L' (24)
+
+----------------------------------------
+
+580th
+R' U' F U2 B L F2 U L2 B2 U' B2 R2 D' B' U' L U' L B2 D U R' U' F
+F' U R U' D' B2 L' U L' U B D R2 B2 U B2 L2 U' F2 L' B' U2 F' U R
+
+(U F' R' B') //EO
+R2 D R B2 F2 R F2 D //DR (12-4)
+R' U2 R (F2 R' F2 U2 R) //HTR
+B2 L2 F2 L2 U2 F2 B2 //ALL (27)
+
+R2 D R B2 F2 R F2 D R' U2 R B2 L2 F2 L2 U2 F2 B2 R' U2 F2 R F2 B R F U' (27)
+
+----------------------------------------
+
+581th
+R' U' F R2 D2 F D2 L2 B' D2 L2 U2 R2 D R' B2 D' F U' F U2 R2 F' R' U' F
+F' U R F R2 U2 F' U F' D B2 R D' 2 U2 L2 D2 B L2 D2 F' D2 R2 F' U R
+
+F' R F' L' B //EO
+L2 D L2 F2 D2 L' U' //DR (12-0)
+(U2 L B2 D2 L2 R2 B2 L U2 L' U2 L2) //24
+
+F' R F' L' B L2 D L2 F2 D2 L' U' L2 U2 L U2 L' B2 R2 L2 D2 B2 L' U2 (24)
+
+----------------------------------------
+
+582th
+R' U' F U2 B L F2 U L2 B2 U' B2 R2 D' B' U' L U' L B2 D U R' U' F
+F' U R U' D' B2 L' U L' U' B D R2 B2 U B2 L2 U' F2 L' B' U2 F' U R
+
+B2 L' U2 F R' //EO
+D F' B D' B U B' D' //DR (13-1)
+F //HTR (14)
+U2 R2 F2 U2 L2 D2 R2 ^ F2 L2 //2e2e (23)
+
+^ = R2 D2 B2 D2 R2 F2 U2 F2 //(8-6) ALL (25)
+
+B2 L' U2 F R' D F' B D' B U B' D' F U2 R2 F2 U2 L2 B2 D2 R2 F2 U2 L2 (25)
+
+----------------------------------------
+
+583th
+R' U' F R2 F2 U2 R2 F2 R2 F L U2 L F L' U L2 B' F L2 U R' U' F
+F' U R U' L2 F' B L2 U' L F' L' U2 L' F' R2 F2 R2 U2 F2 R2 F' U R
+
+B' D' //EO
+L B L2 B F2 L D2 L' //DR (10-2)
+(F' U2 R2 U2 L2 F') //HTR (16)
+U2 L2 B2 D2 L2 B2 //ALL (22)
+
+B' D' L B L2 B F2 L D2 L' U2 L2 B2 D2 L2 B2 F L2 U2 R2 U2 F (22)
+
+----------------------------------------
+
+584th
+R' U' F U' L2 D2 B' U F' D B' D' R U' L2 F' U2 B2 D2 R2 B2 D2 R' U' F
+F' U R D2 B2 R2 D2 B2 U2 F L2 U R' D B D' F U' B D2 L2 U F' U R
+
+B2 R2 D B //EO
+R D (R B2 L U L' U) //DR (12-3)
+R D2 L' F2 L //HTR (17)
+F2 B2 L2 U D' L2 U' D B2 D2 //ALL (27)
+
+B2 R2 D B R D R D2 L' F2 L F2 B2 L2 U D' L2 U' D B2 D2 U' L U' L' B2 R' (27)
+
+----------------------------------------
+
+585th
+R' U' F R2 D2 F2 U' L2 F2 D B2 D2 R2 U' F' D L U2 B' L F2 L B' D R' U' F
+F' U R D' B L' F2 L' B U2 L' D' F U R2 D2 B2 D' F2 L2 U F2 D2 R2 F' U R
+
+F2 R2 B L //EO
+(U D F U D B2 D' B') //DR (12-4)
+U' F2 U F2 R2 U F2 U //HTR (20)
+F*2 R2 ^ //2e2e (22)
+
+* = w //(2-2) 4x (22)
+^ = R2 L2 F B' U2 D2 F B' //(8-4) ALL (26)
+
+F2 R2 B L U' F2 U F2 R2 U F2 U B2 R2 F B' U2 D2 F D B2 U' D' F' U' D' (26)
+
+------------------------------------------
+
+586th (official)
+R' U' F U' F R D' R U2 L B U2 B L2 D2 F' D2 U B2 U B' R' U' F
+F' U R B U' B2 U' D2 F D2 L2 B' U2 B' L' U2 R' D R' F' U F' U R
+
+R2 U F B' //EO
+(L' D) R L F2 L2 R U //DR (12-3)
+R U2 L' D2 F2 D2 B2 L //HTR (20)
+U2 ^ B2 //2e2e (22)
+
+^ = U2 L2 U2 B2 R2 D2 R2 B2 //(8-3) ALL (25)
+
+R2 U F B' R L F2 L2 R U R U2 L' D2 F2 D2 B2 L' U2 B2 R2 D2 R2 D' L (25)
+
+------------------------------------------
+
+587th (official)
+R' U' F R2 L' D2 R2 D2 B2 R2 F B2 L F D R2 U F' U' B U D2 R' U' F
+F' U R D2 U' B' U F U' R2 D' F' L' B2 F' R2 B2 D2 R2 D2 L R2 F' U R
+
+B2 U2 B U D //EO
+B' L F2 D2 F R2 B R //DR (13-0)
+F R2 L2 U2 D2 B //HTR (19)
+D2 R2 D2 R2 D2 B2 D2 B2 //(27)
+
+B2 U2 B U D B' L F2 D2 F R2 B R F R2 L2 U2 D2 B D2 R2 D2 R2 D2 B2 D2 B2 (27)
+
+------------------------------------------
+
+588th (official)
+R' U' F R' F2 D F R2 B' U' F' L2 D R F2 U2 F' B2 R2 U2 B' D2 R' U' F
+F' U R D2 B U2 R2 B2 F U2 F2 R' D' L2 F U B R2 F' D' F2 R F' U R
+
+(B2 U') //EO
+(B' L D2 L D2 L') //DR (8+3)
+(B) [B U2 B' //HTR (12)
+L2 B2 U2 R2 U2 F B' U2 F' B' U2] //(23)
+
+[] = F R2 B' U2 F2 L2 U2 L2 D2 F2 R2 F' B //(-3) ALL (20)
+
+F R2 B' U2 F2 L2 U2 L2 D2 F2 R2 F' L D2 L' D2 L' B U B2 (20)

@@ -1,0 +1,87 @@
+WC2023 3rd place | (25,27,20) = 24.00 mo3
+
+*Explanations and comments*
+
+Very very bad first two scrambles, and a heavenly good third one. Satisfied with a 24 flat mean given the scrambles and circumstances, though I totally hate my two first solutions.
+
+I'm glad I could manage to keep calm through all of the mean and enjoy every second of it without feeling any pressure. Of course I am still in disbelief about the fact that this mean podiumed, but I guess this is the prize for being able to control oneself and perform properly with bad scrams at a major championship.
+
+==============================
+
+1. R' U' F U' F R D' R U2 L B U2 B L2 D2 F' D2 U B2 U B' R' U' F
+
+R2 U F B' //EO
+(L' D) R L F2 L2 R U //DR (12-3)
+R U2 L' D2 F2 D2 B2 L //HTR (20)
+U2 ^ B2 //2e2e (22)
+
+^ = U2 L2 U2 B2 R2 D2 R2 B2 //(8-3) ALL (25)
+
+R2 U F B' R L F2 L2 R U R U2 L' D2 F2 D2 B2 L' U2 B2 R2 D2 R2 D' L (25)
+
+The solution is not too good and I would be a bit upset, if it weren't for the fact that only 4 people managed to get sub this. Most good cubers DNF'd. The scramble was terrible.
+
+I was very pleased to get a 25 on this given that I only had ONE DR and I found it very late (almost 40 minutes in). This result was relieving, so I was happy to have begun the mean with a good start.
+
+----------------------------------------
+
+2. R' U' F R2 L' D2 R2 D2 B2 R2 F B2 L F D R2 U F' U' B U D2 R' U' F
+
+B2 U2 B U D //EO
+B' L F2 D2 F R2 B R //DR (13-0)
+F R2 L2 U2 D2 B //HTR (19)
+D2 R2 D2 R2 D2 B2 D2 B2 //(27)
+
+B2 U2 B U D B' L F2 D2 F R2 B R F R2 L2 U2 D2 B D2 R2 D2 R2 D2 B2 D2 B2 (27)
+
+Laughable solution, this was only my backup that I found also very late in the attempt (maybe at 50'). I call this backup since I found it while trying to solve the cube in any number of moves just to avoid a DNF, didn't expect to use this as final.
+
+Again I had an incredibly small number of DRs (just 3!!! I think), and one was likely to have something in the 23-25 range. Unfortunately as I was checking that one exhaustively I ran out of time.
+
+I had written my backup solution in the draft paper, so I just handed that in and avoided the DNF :)
+
+At this point in the mean I "knew" podium was already over, but I still had a likely chance of getting into top5 which was something I would've been very happy with. So I just felt like "well, bummer I missed my shot at podium, but it's still okay".
+
+----------------------------------------
+
+3. R' U' F R' F2 D F R2 B' U' F' L2 D R F2 U2 F' B2 R2 U2 B' D2 R' U' F
+
+(B2 U') //EO
+(B' L D2 L D2 L') //DR (8+3)
+(B) [B U2 B' //HTR (12)
+L2 B2 U2 R2 U2 F B' U2 F' B' U2] //(23)
+
+[] = F R2 B' U2 F2 L2 U2 L2 D2 F2 R2 F' B //(-3) ALL (20)
+
+F R2 B' U2 F2 L2 U2 L2 D2 F2 R2 F' L D2 L' D2 L' B U B2 (20)
+
+One of the best scrambles ever for most of us, I believe. As soon as I saw it, I expected sub20s or 20s to be all over the room. I was so excited to race head to head with the best FMCers in the world with such a scram, it was honestly so thrilling!
+
+I didn't feel any pressure since I had the idea that podium or SAR were totally out of reach (!!). I just enjoyed the scramble very much.
+
+There were many, MANY EOs to check and all lead to excellent DRs with blocks and everything set for a very short solution. These scrambles are very hard to handle since you never know which of those crazy starts will yield the shortest solution.
+
+I found many DRs. 4 of them were sub10, three in 8 moves. I am fortunate to have found those since I didn't check the inverse scramble up until the 30 minute mark (I usually do it at 15 or before). Too good I did it, otherwise I'd have missed the easy 2 move EO (also forgot to mentally NISS it from normal).
+
+I pretty much immediately found the 12 move HTRs, but the cases weren't good. I played around a bit and found a 23 with many extra moves that I knew I could shorten.
+
+I got a 22 off it almost immediately, then found the 20 cancelling moves with inverse. At this point some around me might have seen me celebrating, since I knew this would help me a bunch to get into top5.
+
+In the rush (I had like 8 minutes left), I lost the solution. I got pretty nervous at this point, and couldn't find it for about 3 minutes straight (it was just a slice variation of the 22).
+But at this point I just told myself: "You have like 5 minutes to go. In that time you can find a 32 on any scram. Why wouldn't you be able to find two stupid slices?"
+
+Stopped writing, took a deep breath, and found it almost immediately.
+
+I wrote it down and handed in with 1 minute remaining.
+
+----------------------------------------
+
+When I left the room, the first thing I knew was that Carter and I had tied this result too and that our 20 was sub Jay. This was super awesome and, honestly, that was totally enough for me at this point!
+
+I went downstairs to the main stage sending audios to my friends telling about my result and how I thought that would be probably enough for 4th or 5th place. Super happy.
+
+Went staffing on the red stage as a scrambler, and in some idle time I decided to check the ranks.
+
+??????????
+
+The rest is history
