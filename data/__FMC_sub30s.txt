@@ -9896,3 +9896,45 @@ L2 B2 U2 R2 U2 F B' U2 F' B' U2] //(23)
 [] = F R2 B' U2 F2 L2 U2 L2 D2 F2 R2 F' B //(-3) ALL (20)
 
 F R2 B' U2 F2 L2 U2 L2 D2 F2 R2 F' L D2 L' D2 L' B U B2 (20)
+
+------------------------------------------
+
+589th (official)
+R' U' F R B U' F' R2 F2 U R2 D2 F2 D' U2 R' F U' F L' B' D R' U' F
+F' U R D' B L F' U F' R U2 D F2 D2 R2 U' F2 R2 F U B' R' F' U R
+
+F' (U2 L' B') //EO
+D2 L F2 U L' U //DR (10)
+D2 L D2 //223
+F2 L' F2 L F2 L2 F2 L //ALL (21)
+
+F' D2 L F2 U L' U D2 L D2 F2 L' F2 L F2 L2 F2 L B L U2 (21)
+
+------------------------------------------
+
+590th (official)
+R' U' F L U R' U F2 L' F B2 D B2 L2 B L2 F U2 B L2 D2 U' R' U' F
+F' U R U D2 L2 B' U2 F' L2 B' L2 B2 D' B2 F' L F2 U' R U' L' F' U R
+
+R2 B (U2 R' F) //EO
+U' B2 U2 L2 D L' //DR (11)
+R2 D2 F2 B2 D //HTR with inserted D2 (16)
+L2 //blocky
+R2 F B U2 L2 F' B //ALL (23)
+
+R2 B U' B2 U2 L2 D L' R2 D2 F2 B2 D R2 L2 F B U2 L2 F2 B R U2 (23)
+
+------------------------------------------
+
+591th (official)
+R' U' F D2 B' D2 B' U2 R2 F R2 F' U' F' L2 F' R U B' R2 D2 U R' U' F
+F' U R U' D2 R2 B U' R' F L2 F U F R2 F' R2 U2 B D2 B D2 F' U R
+
+D B (D' L2 F') //EO
+R' U2 R' B2 R' U //DR (11)
+(L' D2 R) R2 B2 L //HTR-2e (panic)
+B2 L D2 ^ B2 D2 L' F2 //2e2e (24)
+
+^ = R2 D2 L2 F2 U2 L2 D2 B2 //(8-5) ALL (27)
+
+D B R' U2 R' B2 R' U R2 B2 L B2 L D2 R2 D2 L2 F2 U2 L F2 R' D2 L F L2 D (27)

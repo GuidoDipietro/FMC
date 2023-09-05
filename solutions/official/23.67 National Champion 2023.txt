@@ -1,0 +1,52 @@
+(21, 23, 27) = 23.67 | Argentina National Champion 2023
+
+Happy with the first two solutions. Not happy with the last one but I was too tired.
+Optimal for #2 is 16, not sure if it was findable or not.
+Sub24 mean is always good, though I expected something better. Anyway, national champ twice in a row is good.
+
+--------------------------------------------------------------------------------------
+
+R' U' F R B U' F' R2 F2 U R2 D2 F2 D' U2 R' F U' F L' B' D R' U' F
+
+F' (U2 L' B') //EO
+D2 L F2 U L' U //DR (10)
+D2 L D2 //223
+F2 L' F2 L F2 L2 F2 L //ALL (21)
+
+F' D2 L F2 U L' U D2 L D2 F2 L' F2 L F2 L2 F2 L B L U2 (21)
+
+I had some very cool 23s off this but "unfortunately" I had to submit the shorter but more boring 21. I had three DRs in 9 with good corners but I happened to find this silly thing off this modified DR.
+
+--------------------------------------------------------------------------------------
+
+R' U' F L U R' U F2 L' F B2 D B2 L2 B L2 F U2 B L2 D2 U' R' U' F
+
+R2 B (U2 R' F) //EO
+U' B2 U2 L2 D L' //DR (11)
+R2 D2 F2 B2 D //HTR with inserted D2 (16)
+L2 //blocky
+R2 F B U2 L2 F' B //ALL (23)
+
+R2 B U' B2 U2 L2 D L' R2 D2 F2 B2 D R2 L2 F B U2 L2 F2 B R U2 (23)
+
+Optimal off this DR was 24, so getting sub that is great :P
+I had 25s off the evident HTR, but then I decided to modify it a bit and found 24s.
+Then I thought about shifting a slice all the way to the end of the "ALL" to cancel with EO and it worked.
+Pretty cool solution.
+Only decent DRs I had were this one and its variation with D F2 D2 R2 U' R so I'm happy that I got a fine result.
+
+--------------------------------------------------------------------------------------
+
+R' U' F D2 B' D2 B' U2 R2 F R2 F' U' F' L2 F' R U B' R2 D2 U R' U' F
+
+D B (D' L2 F') //EO
+R' U2 R' B2 R' U //DR (11)
+(L' D2 R) R2 B2 L //HTR-2e (panic)
+B2 L D2 ^ B2 D2 L' F2 //2e2e (24)
+
+^ = R2 D2 L2 F2 U2 L2 D2 B2 //(8-5) ALL (27)
+
+D B R' U2 R' B2 R' U R2 B2 L B2 L D2 R2 D2 L2 F2 U2 L F2 R' D2 L F L2 D (27)
+
+Backup solution at 40' when I thought "I just need a non-DNF to win, let's just find anything". I was pretty much at 0 at that point, I just had this DR and a long 13 DR with nothing promising.
+Optimal off this was 24, giving 22.67 PR2 mean. Didn't change anything so I'm fine. I needed a 41 to win.
