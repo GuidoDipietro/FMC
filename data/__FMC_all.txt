@@ -13689,3 +13689,46 @@ B2 L D2 ^ B2 D2 L' F2 //2e2e (24)
 (21,23,27)
 
 D B R' U2 R' B2 R' U R2 B2 L B2 L D2 R2 D2 L2 F2 U2 L F2 R' D2 L F L2 D (27)
+
+-----------------------------------------
+
+711th (official)
+R' U' F D2 R2 U B2 L2 B2 D U L2 B L2 R2 D' L F' D B' R B2 U' R' U' F
+F' U R U B2 R' B D' F L' D R2 L2 B' L2 U' D' B2 L2 B2 U' R2 D2 F' U R
+
+L B R2 U F' //EO
+(R L D R' U' R) //DR (11)
+(D' R2 L2 ^ F2 U2 D' F2 U D2) //3e (20)
+^ = L2 B2 U B2 L2 F2 D F2 //(8-6) ALL (22)
+
+(23,27,22)
+
+L B R2 U F' U' D2 F2 U2 F2 L2 B2 U' B2 R2 D R' U R D' R' L' (22)
+
+-----------------------------------------
+
+712th (official)
+R' U' F U L' F L2 U F2 L2 U B U2 F U2 F2 R2 F U2 F R D2 R' U' F
+F' U R D2 R' F' U2 F' R2 F2 U2 F' U2 B' U' L2 F2 U' L2 F' L U' F' U R
+
+U D' B' U2 D F' //EO + blocks
+U' R (R2 U' L D' L') //Blockino (13)
+B2 R2 D' B2 L2 B2 U' B2 U' B2 U2 B2 U2 L2 //ALL (26)
+
+(27,22,26)
+
+U D' B' U2 D F' U' R B2 R2 D' B2 L2 B2 U' B2 U' B2 U2 B2 U2 L' D L' U R2 (26)
+
+-----------------------------------------
+
+713th (official)
+R' U' F L2 D2 B R2 D2 B' F2 L2 D R U B R2 B L' B2 F' D F2 R' U' F
+F' U R F2 D' F B2 L B' R2 B' U' R' D' L2 F2 B D2 R2 B' D2 L2 F' U R
+
+R F2 D' F //EO
+R' U L' U2 R' L U2 L D //DR (13)
+R U2 L2 B2 R' B2 R D2 L' D2 L2 //ALL (24)
+
+(22,26,24)
+
+R F2 D' F R' U L' U2 R' L U2 L D R U2 L2 B2 R' B2 R D2 L' D2 L2 (24)
