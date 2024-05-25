@@ -9988,3 +9988,16 @@ B2 U2 B2 L D2 L //HTR
 F2 B2 L2 D2 B2 //22
 
 B2 U2 B2 L D2 L F2 B2 L2 D2 B' L' F L' F' R F D' R2 B2 L F (22)
+
+-----------------------------------------
+
+596th
+R' U' F L2 D F2 L2 D2 U' R2 F2 D B R B' D' L2 D2 L' D2 B' F' U' R' U' F
+F' U R U F B D2 L D2 L2 D B R' B' D' F2 R2 U D2 L2 F2 D' L2 F' U R
+
+(U' D F D) //EO
+(R) F' B' L' B' L //DR (10) 4b3
+F' D2 B' (B2 U2 R2 D2 L2 F) //HTR
+(D2 L2 B2 R2 F2) //ALL (24)
+
+F' B' L' B' L F' D2 B' F2 R2 B2 L2 D2 F' L2 D2 R2 U2 B2 R' D' F' D' U (24)
