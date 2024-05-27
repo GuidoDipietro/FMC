@@ -10001,3 +10001,19 @@ F' D2 B' (B2 U2 R2 D2 L2 F) //HTR
 (D2 L2 B2 R2 F2) //ALL (24)
 
 F' B' L' B' L F' D2 B' F2 R2 B2 L2 D2 F' L2 D2 R2 U2 B2 R' D' F' D' U (24)
+
+-----------------------------------------
+
+597th
+R' U' F U B2 D' F' D R2 U B' R2 L2 F R' B2 L2 F2 U2 L2 U2 B2 R' U' F
+F' U R B2 U2 L2 U2 F2 L2 B2 R F' L2 R2 B U' R2 D' F D B2 U' F' U R
+
+F (R F) //EO
+R D2 R F2 B2 D R' D R //DR (12) 2c3
+[(U) D L2 B2 L2 F2 U //HTR (19)
+F2 U2 F2 U2 //FR
+L2 B2 L2] //Slice (26)
+
+[] = U B2 R2 B2 L2 D F2 U2 F2 D2 R2 F2 U D' F2 D' //(+2) boo
+
+F R D2 R F2 B2 D R' D R U B2 R2 B2 L2 D F2 U2 F2 D2 R2 F2 U D' F2 D' F' R' (28)
