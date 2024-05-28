@@ -9830,3 +9830,18 @@ L2 B2 L2] //Slice (26)
 [] = U B2 R2 B2 L2 D F2 U2 F2 D2 R2 F2 U D' F2 D' //(+2) boo
 
 F R D2 R F2 B2 D R' D R U B2 R2 B2 L2 D F2 U2 F2 D2 R2 F2 U D' F2 D' F' R' (28)
+
+---
+
+R' U' F L F2 L2 B U2 B' D2 F2 L2 F D2 L F' D U2 F2 D2 L D2 U R' U' F
+F' U R U' D2 L' D2 F2 U2 D' F L' D2 F' L2 F2 D2 B U2 B' L2 F2 L' F' U R
+
+L' R F' R' //EO
+F2 B2 U' D F //DR (9) 8c4
+U*' R2 U*' (B2 L2 D F2 D' ^) //HTR (17)
+(B2 L2 U2 L2) //E (21)
+
+* = w //(+0) change slice
+^ = D2 Dw2 //(+1) ALL (22)
+
+L' R F' R' F2 B2 U' D F D' F2 D' R2 U2 R2 F2 U2 D' F2 D' L2 B2 (22)
