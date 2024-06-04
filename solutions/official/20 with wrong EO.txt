@@ -1,0 +1,15 @@
+// FMC 2024 A2
+
+R' U' F L' F2 D B2 U2 B2 F2 R2 D R2 F R2 D R2 D' B L' R U R' U' F
+
+(B D F2 U') //Thought this was U/D EO but wasn't! Chong Wen pointed out 3 days after the comp
+(L' R F2 U L2 U) //DR (10) 2c3
+(L^ U2 F2 R^' F2 R') //HTR (16)
+(U2 F2 R^2 F2) //E (20)
+
+^ = w //(0) ALL (20)
+
+F2 L2 B2 D2 R B2 L U2 B2 R' U' L2 U' F2 R' L U F2 D' B' (20)
+
+// 2nd best result in the 1000 people competition
+// serendipity is amazing

@@ -9877,7 +9877,7 @@ U B2 L2 F2 D' F' R2 U2 B2 D2 F2 D' B2 L2 B2 R2 U R2 B2 D2 R' U' B' L' U (25)
 R' U' F L' F2 D B2 U2 B2 F2 R2 D R2 F R2 D R2 D' B L' R U R' U' F
 F' U R U' R' L B' D R2 D' R2 F' R2 D' R2 F2 B2 U2 B2 D' F2 L F' U R
 
-(B D F2 U') //EO
+(B D F2 U') //Thought was EO but wasn't
 (L' R F2 U L2 U) //DR (10) 2c3
 (L^ U2 F2 R^' F2 R') //HTR (16)
 (U2 F2 R^2 F2) //E (20)
