@@ -9899,3 +9899,15 @@ R2 Uw R2 U' //HTR-2e
 (R2 F2 B2) //E (28)
 
 R2 D B2 U' R2 L2 B2 U2 R2 F2 U' L2 B2 L2 D L' U2 L' U B2 D' R2 D2 F' L U' D2 B (28)
+
+---
+
+R' U' F L2 D' F2 R2 B R' D F2 U2 L2 U2 D2 L' D2 R' D2 B2 F' R2 U R' U' F
+F' U R U' R2 F B2 D2 R D2 L D2 U2 L2 U2 F2 D' R B' R2 F2 D L2 F' U R
+
+R2 U R L' //EO
+U (D B2 L2 F L2 B' U) //DR (12) 4a4
+F U2 F (L2 U2 F' U2 F') //HTR
+(L2 U2 F2 U2) //ALL (24)
+
+R2 U R L' U F U2 F U2 F2 U2 L2 F U2 F U2 L2 U' B L2 F' L2 B2 D' (24)
