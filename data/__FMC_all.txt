@@ -13879,3 +13879,20 @@ F U2 F (L2 U2 F' U2 F') //HTR
 (20,28,24)
 
 R2 U R L' U F U2 F U2 F2 U2 L2 F U2 F U2 L2 U' B L2 F' L2 B2 D' (24)
+
+---------------------------------------------
+
+723th
+R' U' F U R' F2 U' L D' B' D2 L2 U2 R2 B2 U2 D B2 R2 L2 D R' U2 R' U' F
+F' U R U2 R D' L2 R2 B2 D' U2 B2 R2 U2 L2 D2 B D L' U F2 R U' F' U R
+
+U B D' //EO
+R' (D2 L B D2 F L') //DR (10) 4a3
+(B' L2 B ^ R2 B2 D2 F) //HTR (17)
+(L2 ^ F2 B2 U2 L2 F2) //E (23)
+
+^ = B2 Bw2 //(-1)
+
+(28,24,22)
+
+U B D' R' F2 L2 U2 R2 F' U2 B2 L2 F2 B L2 B L F' D2 B' L' D2 (22)
