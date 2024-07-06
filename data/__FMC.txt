@@ -9941,3 +9941,18 @@ U2 D2 L2 U2 //E
 [] = F D2 F2 L2 B D2 F //(-2) ALL (25)
 
 R2 L2 B U D L' F L2 F' D2 B2 R' F D2 F2 L2 B D2 F U2 B2 U2 D2 L2 U2 (25)
+
+---
+
+R' U' F L2 F2 D' L2 R' D2 B2 L' B2 L2 U' B2 D' U' L' U F U R' U' F
+F' U R U' F' U' L U D B2 U L2 B2 L B2 D2 R L2 D F2 L2 F' U R
+
+L' U R D2 F //EO
+U' F2 L2 R' D //DR (10) 4a1
+B2 R2 U*2 R' //HTR-2e
+^ L2 B2 R2 F2 //3e (18)
+
+* = w //4e4x (18)
+^ = F2 R U2 Uw2 R' F2 //ALL (24)
+
+L' U R D2 F U' F2 L2 R' D B2 R2 D2 L' B2 L U2 D2 R' F2 L2 B2 R2 F2 (24)
