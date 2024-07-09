@@ -13933,3 +13933,19 @@ B2 R2 U*2 R' //HTR-2e
 (22,25,24)
 
 L' U R D2 F U' F2 L2 R' D B2 R2 D2 L' B2 L U2 D2 R' F2 L2 B2 R2 F2 (24)
+
+--------------------------------------------
+
+726th
+R' U' F L2 F2 R2 B' D2 R2 D2 B2 U2 R F2 R D2 U2 L U B' D U2 R' U' F
+F' U R U2 D' B U' L' U2 D2 R' F2 R' U2 B2 D2 R2 D2 B R2 F2 L2 F' U R
+
+R D2 F' B' R' //EO
+U B2 D L2 U' B //DR (11) 0c3
+U' (L2 U) F2 D2 B2 L2 D //HTR
+U2 R2 U2 F2 //3e
+F' B D2 F B' L2 //ALL (28)
+
+(25,24,28)
+
+R D2 F' B' R' U B2 D L2 U' B U' F2 D2 B2 L2 D U2 R2 U2 F B D2 F B' L2 U' L2 (28)
