@@ -10181,3 +10181,18 @@ F2 U (B2 R2 U' R2 U ^) //HTR
 ^ = U2 F2 U2 B2 D2 B2 //ALL (24)
 
 F U' F R F' R U' D2 L2 U L F2 U L2 B2 D2 B2 U2 F2 U R2 U R2 B2 (24)
+
+-------------------------------------
+
+609th
+R' U' F U' F' L2 U2 F R D B' R' D2 R' B2 L2 B2 D2 R D R2 D' R' U' F
+F' U R D R2 D' R' D2 B2 L2 B2 R D2 R B D' R' F' U2 L2 F U F' U R
+
+B' U D' F D //EO
+F R F R' F2 L' //DR (11) 2c3
+F (F2 L2 B' L2 B) //HTR (17)
+(U2 L2 B2 U2 R2 F2 ^ L2 ^') //E (24)
+
+^ = F' Fw //(2-1+2-2) ALL (25)
+
+B' U D' F D F R F R' F2 L' Fw L2 Fw' F' R2 U2 B2 L2 U2 B' L2 B L2 F2 (25)
