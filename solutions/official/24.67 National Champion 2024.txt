@@ -1,0 +1,57 @@
+26,23,25 = 24.67 mo3
+
+Very dissatisfied with these results. I couldn't perform to the best of my abilities. Still I managed to win, but only due to Matías Ponte missing something good on scramble 2. With anything reasonable, he would have won.
+Missed a 23 on 1 and a 21 on 3 that weren't hard to find.
+I made the mistake to use a technique I had just learnt about. I wasn't confident with it. I shouldn't have done it.
+Still, one more gold for the house.
+Don't know if I'll be able to get it next year with this decay pace I'm facing.
+
+---------------------------------------
+
+R' U' F U2 R D F B R U B F2 R F2 U2 D2 R' U2 D R U R' U' F
+F' U R U' R' D' U2 R D2 U2 F2 R' F2 B' U' R' B' F' D' R' U2 F' U R
+
+L B' U' F2 D //EO
+L2 F L' U2 R' B' //DR (11) 4b4
+(L U2 L') L' F2 L //HTR
+^ U2 L2 U2 B2 //2e2e (21)
+^ = L2 B2 D2 B2 L2 U2 F2 U2 //(8-3) ALL (26)
+
+Didn't have any good DR. Matías found the only good one apparently, with a 22 off it.
+Anyway, this DR has a 23 if you do kinda the same HTR start on normal, not switching.
+I had that written down, but didn't check properly.
+
+L B' U' F2 D L2 F L' U2 R' B' L' F2 L' B2 D2 B2 L2 U2 F2 L2 U2 B2 L U2 L' (26)
+
+---
+
+R' U' F U R' L' U2 D B' L' F2 L2 F' L2 F' D2 L2 R' F2 L2 U R' U' F
+F' U R U' L2 F2 R L2 D2 F L2 F L2 F2 L B D' U2 L R U' F' U R
+
+D2 F R' //EO
+F2 B R2 L2 F U' //DR (9) 4a3
+R2 B2 U2 B (B' D2 R2 U2 R2 F') //HTR
+(U2 B2 U2 L2) //ALL (23)
+
+This one was fine.
+
+D2 F R' F2 B R2 L2 F U' R2 B2 U2 B L2 U2 B2 U2 F R2 U2 R2 D2 B (23)
+
+---
+
+R' U' F L F' R2 L' F R' B D' R F2 L2 F2 D R2 D2 R2 U' F2 D' F R' U' F
+F' U R F' D F2 U R2 D2 R2 D' F2 L2 F2 R' D B' R F' L R2 F L' F' U R
+
+L' D R F' //EO
+B2 L B2 D2 L' //DR (9) 2c4
+U' R2 D' L2 U B2 U' //HTR
+B2 R2 F2 //4e4x
+D F2 R2 L2 B2 U' //ALL (25)
+
+Kinda stupid to have a 25 off a 9 move DR.
+There was a 12 optimal off this. U' then switch to inverse, super simple to find from there.
+I didn't switch after U'. Was stubborn on finding it on the normal.
+Kinda thought that switching with 3qt would be rather painful. But this was blocky and the 2e2c case, so it was very worth doing.
+Severe skill issue.
+
+L' D R F' B2 L B2 D2 L' U' R2 D' L2 U B2 U' B2 R2 F2 D F2 R2 L2 B2 U' (25)

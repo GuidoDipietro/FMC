@@ -10251,3 +10251,98 @@ D2 ^ R2 B2 //3e (20)
 ^ = U' D B2 U D' R2 //(6-3)
 
 L B D' B2 R2 D' L D R2 U2 R F2 U2 L' U' D' B2 U D' B2 R D' F' (23)
+
+---------------------------------------
+
+614th (official)
+R' U' F D2 R' F2 U2 R B2 U' F D B' D2 R2 U B2 D F2 L2 B2 D R' U' F
+F' U R D' B2 L2 F2 D' B2 U' R2 D2 B D' F' U B2 R' U2 F2 R D2 F' U R
+
+(B2 R2 L2 U') //EO
+(B2 L' F2 R) //DR (8) 4a4
+F L2 F U2 F2 D2 R2 B D2 B //HTR
+U2 R2 ^ F2 B2 U2 R2 F2 //2e2e (25)
+^ = R2 U2 B2 U2 R2 B2 U2 B2 //(8-7) ALL (26)
+
+(22,23,26)
+
+F L2 F U2 F2 D2 R2 B D2 B' U2 R2 B2 U2 F2 U2 R2 F2 R' F2 L B2 U R2 L2 B2 (26)
+
+---------------------------------------
+
+615th (official)
+R' U' F L2 U B2 U2 R' F2 D2 R D2 L B2 L U' L2 B R2 D' R' B D R' U' F
+F' U R D' B' R D R2 B' L2 U L' B2 L' D2 R' D2 F2 R U2 B2 U' L2 F' U R
+
+(U' L) B R' //EO
+(U2 R2 F2 D F' D') //DR (10) 4a2
+L2 F' (B) //HTR-2e
+(R2 F2 D2 B2 U2 ^) //2e2e (18)
+^ = U2 B' D2 L2 U2 F' D2 R2 //(8-3) ALL (23)
+
+(23,26,23)
+
+B R' L2 F' R2 D2 F U2 L2 D2 B' D2 F2 R2 B' D F D' F2 R2 U2 L' U (23)
+
+---------------------------------------
+
+616th (official)
+R' U' F R' B R2 B D2 U2 F2 U2 R2 B' R2 D2 U2 L B R2 U' F2 R U' R' U' F
+F' U R U R' F2 U R2 B' L' U2 D2 R2 B R2 U2 F2 U2 D2 B' R2 B' R F' U R
+
+(U D R B D) //EO
+(F L' F' B' L2 F' R') //DR (12) 4a4
+L2 F' L2 B* (U2 L2 U2 R2 B2 U2 F U2 F*') //mega desperate HTR until one worked out
+(R2 U2 F2 U2) //slice (29)
+* = w //(2-2+2-2) ALL (29)
+
+(26,23,29)
+
+L2 F' L2 Bw U2 F2 U2 R2 Fw U2 F' U2 B2 R2 U2 L2 U2 R F L2 F B L F' D' B' R' U' D' (29)
+
+---------------------------------------
+
+617th (official)
+R' U' F U2 R D F B R U B F2 R F2 U2 D2 R' U2 D R U R' U' F
+F' U R U' R' D' U2 R D2 U2 F2 R' F2 B' U' R' B' F' D' R' U2 F' U R
+
+L B' U' F2 D //EO
+L2 F L' U2 R' B' //DR (11) 4b4
+(L U2 L') L' F2 L //HTR
+^ U2 L2 U2 B2 //2e2e (21)
+^ = L2 B2 D2 B2 L2 U2 F2 U2 //(8-3) ALL (26)
+
+(23,29,26)
+
+L B' U' F2 D L2 F L' U2 R' B' L' F2 L' B2 D2 B2 L2 U2 F2 L2 U2 B2 L U2 L' (26)
+
+---------------------------------------
+
+618th (official)
+R' U' F U R' L' U2 D B' L' F2 L2 F' L2 F' D2 L2 R' F2 L2 U R' U' F
+F' U R U' L2 F2 R L2 D2 F L2 F L2 F2 L B D' U2 L R U' F' U R
+
+D2 F R' //EO
+F2 B R2 L2 F U' //DR (9) 4a3
+R2 B2 U2 B (B' D2 R2 U2 R2 F') //HTR
+(U2 B2 U2 L2) //ALL (23)
+
+(29,26,23)
+
+D2 F R' F2 B R2 L2 F U' R2 B2 U2 B L2 U2 B2 U2 F R2 U2 R2 D2 B (23)
+
+---------------------------------------
+
+619th (official)
+R' U' F L F' R2 L' F R' B D' R F2 L2 F2 D R2 D2 R2 U' F2 D' F R' U' F
+F' U R F' D F2 U R2 D2 R2 D' F2 L2 F2 R' D B' R F' L R2 F L' F' U R
+
+L' D R F' //EO
+B2 L B2 D2 L' //DR (9) 2c4
+U' R2 D' L2 U B2 U' //HTR
+B2 R2 F2 //4e4x
+D F2 R2 L2 B2 U' //ALL (25)
+
+(26,23,25)
+
+L' D R F' B2 L B2 D2 L' U' R2 D' L2 U B2 U' B2 R2 F2 D F2 R2 L2 B2 U' (25)
