@@ -1,0 +1,42 @@
+(27,23,23) = 24.33 - 19th place
+
+--------------------------------------------------------
+
+R' U' F L2 D' F2 D2 F U2 L' U B R D2 R B2 U2 R' U2 F2 D2 R2 D2 R' U' F
+
+F' B' (R U2 B) //EO
+U2 F2 R U2 R' //DR (10) 4a4
+[(F2 D' B2 D) B2 L2 U F2 U //HTR
+B2 R2 D2 L2 B2 L2 B2] //E
+
+[] = B2 L2 U F2 Uw ^ B2 R2 D2 ^ L2 B2 L2 B2 D' B2 Dw F2 //VR-1 (+0) f2
+^ = E2 //VR-2 (+1) ALL
+
+F' B' U2 F2 R U2 R' B2 L2 U F2 Uw' U2 B2 R2 Dw2 L2 B2 L2 B2 D' B2 Dw F2 B' U2 R' (27)
+
+---------------------------------------
+
+R' U' F L' B' L B R U B D2 B2 R' D2 R' L U2 F2 D2 F' R D' R' U' F
+
+(D' R L F' B') //EO
+(D F2 D2 R) //DR (9) 2c4
+[D (U L2 U F2 U) //HTR
+(R2 F2 R2 D2 L2 U2 R2 B2)] //E (23)
+
+[] = D B2 R2 U2 L2 D2 ^ R2 F2 R2 Uw' F2 Uw' L2 U' //VR-1 (+0) d1
+^ = E2 //VR-1 (0) ALL
+
+D B2 R2 U2 L2 Dw2 R2 F2 R2 Uw' F2 Uw' L2 U' R' D2 F2 D' B F R' L' D (23)
+
+---------------------------------------
+
+R' U' F R2 D' R U R' L U R2 F U2 F2 L2 B' U2 F' D2 R2 B2 D R U R' U' F
+
+(U2 F D' L') //EO
+(B) D F2 U' B D2 B //DR (11) 4a4
+[(U2 B2 U R2 U) D' L2 D' //HTR
+U2 B2 R2 U2 L2 D2] //ALL (25)
+
+[] = U' F2 D R2 F2 U2 B2 U B2 D' B2 U2 //ALL (-2) (23)
+
+D F2 U' B D2 B U' F2 D R2 F2 U2 B2 U B2 D' B2 U2 B' L D F' U2 (23)
