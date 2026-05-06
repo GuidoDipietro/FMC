@@ -11,7 +11,7 @@
 
 FMC stands for "Fewest Moves Challenge" and is an official event recognized by the [World Cube Association](https://www.worldcubeassociation.org/), which involves solving a given scramble for a Rubik's Cube in the fewest moves as possible, with a one hour limit. Competitors shall hand in a written solution after the hour (just like an exam!)
 
-[I've](https://www.worldcubeassociation.org/persons/2013DIPI01) held the title for the Argentinian National Champion, the South American Champion, and held the South American Records for this event several times, being one of the world's top20 best at this event.
+[I've](https://www.worldcubeassociation.org/persons/2013DIPI01) held the title for the Argentinian National Champion, the South American Champion, and held the South American Records for this event several times, being one of the world's top5 best at this event and part of the **World Championship Podium** in 2023.
 
 ---
 
