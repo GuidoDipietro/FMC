@@ -14330,3 +14330,23 @@ L2 D2 L2 B2 U2 D2 L2 //Slice
 (29,22,27)
 
 F' L2 Bw' L2 Bw R2 L2 F L2 D2 L2 B2 U2 D2 L2 U F' B2 U2 L2 B R' U' F' L D' L (27)
+
+---------------------------------------
+
+750th (official)
+TODO: Add missing reco
+
+Viña Cubing Fest 2025 (24)
+
+---------------------------------------
+
+751th
+R' U' F L' B2 D2 F2 U' L U' R' B' U2 L2 D2 R2 D2 B2 R2 F B R' U' F
+F' U R B' F' R2 B2 D2 R2 D2 L2 U2 B R U L' U F2 D2 B2 L F' U R
+
+R' D' B L' //EO (5)
+B D B2 D F //DR (9) 2c4
+(U) U' F2 L2 D' B2 D //HTR (16)
+F2 L2 U2 F2 B2 L2 //ALL (22)
+
+R' D' B L' B D B2 D F U' F2 L2 D' B2 D F2 L2 U2 F2 B2 L2 U' (22)
