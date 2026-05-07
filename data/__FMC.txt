@@ -10285,9 +10285,15 @@ F' L2 Bw' L2 Bw R2 L2 F L2 D2 L2 B2 U2 D2 L2 U F' B2 U2 L2 B R' U' F' L D' L (27
 
 ---
 
-TODO: Add missing reco
+R' U' F L' F2 U R2 B2 D2 R2 U2 R2 F2 U L2 F2 L' F' D2 B L2 F2 D' U' R' U' F
+F' U R U D F2 L2 B' D2 F L F2 L2 U' F2 R2 U2 R2 D2 B2 R2 U' F2 L R F' U R
 
-Viña Cubing Fest 2025 (24)
+(B2 L B D R) //EO (5)
+(U' F' D B' D) //DR (10) 4a1
+U2 F2 R2 D2 B2 U2 B' //HTR (17)
+R2 U2 L2 U2 L2 B2 L2 D2 //ALL (24)
+
+U2 F2 R2 D2 B2 U2 B' R2 U2 L2 U2 L2 B2 L2 D B D' F U R' D' B' L' B2 (24)
 
 ---
 
