@@ -10318,3 +10318,16 @@ L2 D' L B2 L2 D' //DR (10) 2c4
 U2 F2 R2 U2 B2 //ALL (22)
 
 R D' F' B' L2 D' L B2 L2 D' L B2 U2 R D2 R' U2 F2 R2 U2 B2 L' (22)
+
+---
+
+R' U' F U L' F' U2 R' B2 U D B2 D' R' D2 F' D2 B L2 U2 B' U2 F2 R' U' F
+F' U R F2 U2 B U2 L2 B' D2 F D2 R D B2 D' U' B2 R U2 F L U' F' U R
+
+B2 R' //EO
+U' F (R2 D' F2 D' L2 D2 F') //DR 11 (4a1)
+(L2 F2 U) //HTR (14)
+D2 F2 R2 F2 //222
+L2 D2 B2 D2 B2 //ALL (23)
+
+B2 R' U' F D2 F2 R2 F2 L2 D2 B2 D2 B2 U' F2 L2 F D2 L2 D F2 D R2 (23)
