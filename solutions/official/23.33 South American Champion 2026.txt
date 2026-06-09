@@ -1,0 +1,76 @@
+23, 24, 23 = (23.33) South American Champion again!
+Very happy to get this title back after 4 years! A lot of time has passed by!
+Scrambles weren't especially easy, so I'm glad to have performed this well.
+
+##################################################
+
+R' U' F D L' U D' L2 F L' B' D R D2 F' U2 R2 F' R2 D2 F2 R2 U2 R' U' F // (optimal 18)
+
+(R U2 F B2 R) //EO
+R2 D2 L2 F U' F //DR 11 (2c3)
+D B2 D F2 D //HTR
+R2 L2 F2 U2 F2 U2 B2 //ALL (23)
+
+R2 D2 L2 F U' F D B2 D F2 D R2 L2 F2 U2 F2 U2 B2 R' B2 F' U2 R' (23)
+
+Optimal finish.
+Very satisfied with this solution. It wasn't an especially easy scramble and this was the best solution (tied) so yay.
+
+##################################################
+
+R' U' F R2 U' B2 U2 D F R' L' U B' U2 F2 U' D' R2 U' D' R' U' F // (optimal 18)
+
+F (R D2 L F') //EO
+L (R2 U' L D' L') //DR 11 (2c4)
+D (U') //2qt
+L2 ^ F2 B2 D' B2 D //HTR
+B2 L2 //2e2e (21)
+
+^ = L2 D2 R2 U2 R2 D2 //(6-3) ALL (24)
+
+F L D' R2 U2 R2 D2 F2 B2 D' B2 D B2 L2 U L D L' U R2 F L' D2 R' (24)
+
+Optimal finish.
+Quite a hard scramble. I couldn't find any decent leave-slices, so I resorted to this old-style HTR finish.
+The solution was very experimental as well. This was a very unusual EO, and the third line was a long shot too.
+Happy to see it turned out well. Finding the 6-3 was relieving. Actually, I miscounted this and thought it was a 25, so even better.
+This was the best solution as well, so I'm happy.
+At this point, I knew I had a fair shot at winning, but Brayan and Anuar weren't too far either. Anyone with a good A3 would probably win.
+
+##################################################
+
+R' U' F U F' L2 B2 U' L2 B2 L2 U2 L2 D2 F D2 R2 B' R' D2 U R' U' F // (optimal 18)
+
+R' U F L' //EO
+(U' L2 B' U2 B) //DR (9) 4b4
+(D' B2 D) U^2 F2 L2 U^ L2 U^ //HTR
+B2 L2 U2 F2 L2 //LS (23)
+
+^=w //ALL (23)
+
+R' U F L' Uw2 F2 L2 Uw L2 Uw B2 L2 U2 F2 L2 D' B2 D B' U2 B L2 U (23)
+
+Optimal finish!
+Another scramble similar in difficulty to the others.
+It took me a while to find this one, and finding the slice insertion made me panic a bit.
+Thankfully I had studied Vierergruppe Reduction not too long before the competition and this helped.
+Finding a +0 on a finish with so many spots to insert (6) rather quickly was great. I'm usually bad at finding those.
+
+I knew a 23 here would give me very high chances of winning, but not guaranteed. When I saw I had only won by 1 move, I was relieved.
+This was also the best solution (tied).
+
+##################################################
+
+Overall comments:
+
+Very happy to have gotten the best mo3 and the best single for every attempt.
+Doing this while (once again) delegating the comp makes me feel a bit stupid and a bit awesome simultaneously.
+
+A few changes in my habits since 2022, and quitting FMC since my World Podium in 2023, definitely helped.
+I was no longer burned out, and I thoroughly enjoyed these 3 attempts. This was something I was not able to do last time I checked.
+I found myself finding creative and unusual solutions, while also checking a lot of combinations and remaining focused.
+Even with the incidents in the competition (I had to turn on the screen projection mid-attempt several times), I was able to perform well.
+I'm just happy to see that after all this time I'm still capable of not only performing at a great level, but also winning a competition like this.
+Competition is much fiercer now, and there are several top-level FMCers in LatAm that could have won this, no doubt.
+
+Will enjoy my title until 2028!
